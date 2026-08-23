@@ -116,14 +116,14 @@ function App() {
         <div className="mx-auto flex h-[72px] max-w-[1440px] items-center justify-between px-5 sm:px-8 lg:px-12">
           <button onClick={() => visitSection("#about")} className="group flex items-center gap-2 text-left" aria-label="回到顶部">
             <span className="grid h-7 w-7 place-items-center rounded-full bg-[#10130f] font-mono text-[10px] font-bold text-[#b9cd62]">LY</span>
-            <span className="font-display text-lg font-semibold tracking-[-0.03em]">林予 / Lin Yu</span>
+            <span className="font-display text-lg font-semibold tracking-[-0.03em]">My / Info</span>
           </button>
           <nav className="hidden items-center gap-7 font-mono text-[11px] font-medium tracking-[0.14em] text-muted-foreground md:flex">
             <button onClick={() => visitSection("#about")} className="hover:text-foreground">01 / 关于</button>
             <button onClick={() => visitSection("#writing")} className="hover:text-foreground">02 / 文章</button>
             <button onClick={() => visitSection("#watching")} className="hover:text-foreground">03 / 视频</button>
           </nav>
-          <a href="mailto:hello@linyu.dev" className="hidden items-center gap-2 rounded-full bg-[#10130f] px-4 py-2 font-mono text-[10px] font-bold tracking-[0.12em] text-[#f8f7f2] hover:bg-[#405021] sm:flex">写封信 <ArrowUpRight size={13} /></a>
+          <a href="mailto:hello@linyu.dev" className="hidden items-center gap-2 rounded-full bg-[#10130f] px-4 py-2 font-mono text-[10px] font-bold tracking-[0.12em] text-[#f8f7f2] hover:bg-[#405021] sm:flex"></a>
           <button onClick={() => withViewTransition(() => setMenuOpen((open) => !open))} className="grid h-9 w-9 place-items-center md:hidden" aria-label="打开导航">{menuOpen ? <X size={20} /> : <Menu size={20} />}</button>
         </div>
         {menuOpen && (
@@ -143,7 +143,7 @@ function App() {
             <p className="max-w-3xl font-display text-[clamp(2.8rem,7vw,6.7rem)] font-medium leading-[0.96] tracking-[-0.055em]">前端工程师，<br /><em className="font-normal text-[#536628]">也在乎像素的呼吸。</em></p>
             <div className="mt-12 grid max-w-2xl gap-8 border-t border-border pt-6 sm:grid-cols-[1.2fr_0.8fr]">
               <p className="text-base leading-7 text-[#4b4e46]">我叫SuperC。专注于构建快速、清晰且让人愿意停留的 Web 体验。日常与 React、TypeScript、AI Agent 和浏览器标准一起工作，探索让智能体真正融入产品与研发流程的方式。</p>
-              <div className="font-mono text-[11px] leading-6 tracking-[0.06em] text-muted-foreground"><p>AVAILABLE FOR SELECTED WORK</p><p className="text-foreground">HANGZHOU · REMOTE</p><p className="mt-3 text-[#536628]">● OPEN TO CONNECT</p></div>
+              <div className="font-mono text-[11px] leading-6 tracking-[0.06em] text-muted-foreground"><p>AVAILABLE FOR SELECTED WORK</p><p className="text-foreground"></p><p className="mt-3 text-[#536628]">● OPEN TO CONNECT</p></div>
             </div>
           </div>
           <aside className="relative min-h-[330px] overflow-hidden border-t border-border bg-[#dfe8f4] lg:min-h-0 lg:border-l lg:border-t-0">
@@ -151,7 +151,7 @@ function App() {
             <div className="absolute bottom-7 left-7 right-7 rounded-sm border border-[#10130f]/15 bg-[#f8f7f2]/70 p-5 backdrop-blur-sm">
               <Code2 className="mb-9 text-[#536628]" size={30} strokeWidth={1.5} />
               <p className="font-display text-2xl leading-tight tracking-[-0.035em]">让 AI Agent，<br />成为可靠的搭档。</p>
-              <div className="mt-7 flex items-center justify-between border-t border-[#10130f]/10 pt-3 font-mono text-[10px] tracking-[0.12em]"><span>BEIJING TIME</span><time dateTime={now.toISOString()}>{beijingTime}</time></div>
+              <div className="mt-7 flex items-center justify-between border-t border-[#10130f]/10 pt-3 font-mono text-[10px] tracking-[0.12em]"><span>北京时间</span><time dateTime={now.toISOString()}>{beijingTime}</time></div>
             </div>
           </aside>
         </div>
