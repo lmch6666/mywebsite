@@ -69,8 +69,8 @@ function Preloader() {
   return (
     <div className="intro-screen fixed inset-0 z-[100] grid place-items-center bg-[#10130f] text-[#f8f7f2]">
       <div className="intro-word text-center">
-        <p className="mb-4 font-mono text-[10px] font-semibold tracking-[0.35em] text-[#b9cd62] sm:text-xs">PERSONAL FIELD NOTES</p>
-        <h1 className="font-display text-5xl font-semibold tracking-[-0.045em] sm:text-7xl">LIN YU</h1>
+        <p className="mb-4 font-mono text-[10px] font-semibold tracking-[0.35em] text-[#b9cd62] sm:text-xs"></p>
+        <h1 className="font-display text-5xl font-semibold tracking-[-0.045em] sm:text-7xl">WELCOME</h1>
         <div className="intro-line mx-auto mt-7 h-px w-32 bg-[#b9cd62]" />
       </div>
     </div>
@@ -130,7 +130,7 @@ function App() {
           <nav className="border-t border-border bg-background px-5 py-5 md:hidden">
             <div className="grid gap-1 font-mono text-sm">
               {[['#about', '01 / 关于'], ['#writing', '02 / 文章'], ['#watching', '03 / 视频']].map(([id, label]) => <button key={id} onClick={() => visitSection(id)} className="py-3 text-left">{label}</button>)}
-              <a href="mailto:hello@linyu.dev" className="py-3">hello@linyu.dev</a>
+              <a href="mailto:hello@linyu.dev" className="py-3">mygugo@gmail.com</a>
             </div>
           </nav>
         )}
@@ -142,7 +142,7 @@ function App() {
             <div className="mb-14 flex items-center gap-3 font-mono text-[10px] font-bold tracking-[0.18em] text-muted-foreground"><span className="h-px w-10 bg-[#b9cd62]" /> 01 — ABOUT ME</div>
             <p className="max-w-3xl font-display text-[clamp(2.8rem,7vw,6.7rem)] font-medium leading-[0.96] tracking-[-0.055em]">前端工程师，<br /><em className="font-normal text-[#536628]">也在乎像素的呼吸。</em></p>
             <div className="mt-12 grid max-w-2xl gap-8 border-t border-border pt-6 sm:grid-cols-[1.2fr_0.8fr]">
-              <p className="text-base leading-7 text-[#4b4e46]">我叫林予，现居杭州。专注于构建快速、清晰且让人愿意停留的 Web 体验。日常与 React、TypeScript、AI Agent 和浏览器标准一起工作，探索让智能体真正融入产品与研发流程的方式。</p>
+              <p className="text-base leading-7 text-[#4b4e46]">我叫SuperC。专注于构建快速、清晰且让人愿意停留的 Web 体验。日常与 React、TypeScript、AI Agent 和浏览器标准一起工作，探索让智能体真正融入产品与研发流程的方式。</p>
               <div className="font-mono text-[11px] leading-6 tracking-[0.06em] text-muted-foreground"><p>AVAILABLE FOR SELECTED WORK</p><p className="text-foreground">HANGZHOU · REMOTE</p><p className="mt-3 text-[#536628]">● OPEN TO CONNECT</p></div>
             </div>
           </div>
