@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
+
+:root {
+  --font-display: "Noto Serif SC", serif;
+  --font-sans: "Noto Sans SC", sans-serif;
+  --font-mono: "DM Mono", "Noto Sans SC", monospace;
+}
+
+body { font-family: var(--font-sans); }
+
+.font-display { font-family: var(--font-display); }
+.font-mono { font-family: var(--font-mono); }
+
+@keyframes introOut {
+  0%, 72% { opacity: 1; visibility: visible; }
+  100% { opacity: 0; visibility: hidden; }
+}
+
+@keyframes introWord {
+  0% { opacity: 0; transform: translateY(18px); filter: blur(7px); }
+  20%, 68% { opacity: 1; transform: translateY(0); filter: blur(0); }
+  100% { opacity: 0; transform: translateY(-10px); filter: blur(5px); }
+}
+
+@keyframes introLine {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+.intro-screen { animation: introOut 2.1s cubic-bezier(.65,0,.35,1) forwards; }
+.intro-word { animation: introWord 1.75s cubic-bezier(.22,1,.36,1) both; }
+.intro-line { transform-origin: left; animation: introLine .9s .42s cubic-bezier(.22,1,.36,1) both; }
+
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: 240ms; animation-timing-function: cubic-bezier(.22, 1, .36, 1); }
