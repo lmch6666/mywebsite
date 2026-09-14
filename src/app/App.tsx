@@ -11,6 +11,9 @@ import {
   X,
 } from "lucide-react";
 
+import data from './data/meta.json'
+
+
 type Article = {
   title: string;
   summary: string;
@@ -87,9 +90,10 @@ function App() {
     const timer = window.setTimeout(() => setLoading(false), 2100);
     return () => window.clearTimeout(timer);
   }, []);
-
+  
   useEffect(() => {
     const clock = window.setInterval(() => setNow(new Date()), 1000);
+    console.log(data['一家鼠'])
     return () => window.clearInterval(clock);
   }, []);
 
@@ -123,14 +127,14 @@ function App() {
             <button onClick={() => visitSection("#writing")} className="hover:text-foreground">02 / 文章</button>
             <button onClick={() => visitSection("#watching")} className="hover:text-foreground">03 / 视频</button>
           </nav>
-          <a href="mailto:hello@linyu.dev" className="hidden items-center gap-2 rounded-full bg-[#10130f] px-4 py-2 font-mono text-[10px] font-bold tracking-[0.12em] text-[#f8f7f2] hover:bg-[#405021] sm:flex"></a>
+          
           <button onClick={() => withViewTransition(() => setMenuOpen((open) => !open))} className="grid h-9 w-9 place-items-center md:hidden" aria-label="打开导航">{menuOpen ? <X size={20} /> : <Menu size={20} />}</button>
         </div>
         {menuOpen && (
           <nav className="border-t border-border bg-background px-5 py-5 md:hidden">
             <div className="grid gap-1 font-mono text-sm">
               {[['#about', '01 / 关于'], ['#writing', '02 / 文章'], ['#watching', '03 / 视频']].map(([id, label]) => <button key={id} onClick={() => visitSection(id)} className="py-3 text-left">{label}</button>)}
-              <a href="mailto:hello@linyu.dev" className="py-3">mygugo@gmail.com</a>
+              <a href="" className="py-3">mygugo@gmail.com</a>
             </div>
           </nav>
         )}
@@ -190,7 +194,14 @@ function App() {
       </section>
 
       <footer className="bg-[#10130f] px-5 pb-7 sm:px-8 lg:px-12">
-        <div className="mx-auto flex max-w-[1440px] flex-col gap-7 border-t border-[#f8f7f2]/15 pt-7 text-[#f8f7f2] sm:flex-row sm:items-end sm:justify-between"><div><p className="font-display text-2xl tracking-[-0.035em]">保持好奇，持续交付。</p><a className="mt-2 inline-block font-mono text-[11px] tracking-[0.08em] text-[#b9cd62]" href="mailto:hello@linyu.dev">hello@linyu.dev</a></div><div className="flex gap-3"><a aria-label="GitHub" href="https://github.com" className="grid h-9 w-9 place-items-center rounded-full border border-[#f8f7f2]/20 hover:bg-[#f8f7f2] hover:text-[#10130f]"><Github size={16} /></a><a aria-label="LinkedIn" href="https://linkedin.com" className="grid h-9 w-9 place-items-center rounded-full border border-[#f8f7f2]/20 hover:bg-[#f8f7f2] hover:text-[#10130f]"><Linkedin size={16} /></a><a aria-label="Email" href="mailto:hello@linyu.dev" className="grid h-9 w-9 place-items-center rounded-full border border-[#f8f7f2]/20 hover:bg-[#f8f7f2] hover:text-[#10130f]"><Mail size={16} /></a></div><p className="font-mono text-[10px] tracking-[0.1em] text-[#8d9287]">© 2024 LIN YU</p></div>
+        <div className="mx-auto flex max-w-[1440px] flex-col gap-7 border-t border-[#f8f7f2]/15 pt-7 text-[#f8f7f2] sm:flex-row sm:items-end sm:justify-between">
+          <div><p className="font-display text-2xl tracking-[-0.035em]">保持好奇，持续交付。</p>
+            <a className="mt-2 inline-block font-mono text-[11px] tracking-[0.08em] text-[#b9cd62]" href="https://beian.miit.gov.cn/">
+              黑ICP备2026010654号 </a></div><div className="flex gap-3">
+            <a aria-label="GitHub" href="https://github.com" className="grid h-9 w-9 place-items-center rounded-full border border-[#f8f7f2]/20 hover:bg-[#f8f7f2] hover:text-[#10130f]">
+              <Github size={16} /></a><a aria-label="LinkedIn" href="https://linkedin.com" className="grid h-9 w-9 place-items-center rounded-full border border-[#f8f7f2]/20 hover:bg-[#f8f7f2] hover:text-[#10130f]">
+              <Linkedin size={16} /></a><a aria-label="Email" href="" className="grid h-9 w-9 place-items-center rounded-full border border-[#f8f7f2]/20 hover:bg-[#f8f7f2] hover:text-[#10130f]"><Mail size={16} /></a></div>
+              </div>
       </footer>
     </main>
   );
