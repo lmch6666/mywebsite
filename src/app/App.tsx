@@ -11,8 +11,6 @@ import {
   X,
 } from "lucide-react";
 
-import data from './data/meta.json'
-
 
 type Article = {
   title: string;
@@ -93,7 +91,6 @@ function App() {
   
   useEffect(() => {
     const clock = window.setInterval(() => setNow(new Date()), 1000);
-    console.log(data['一家鼠'])
     return () => window.clearInterval(clock);
   }, []);
 
