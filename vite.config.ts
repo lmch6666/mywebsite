@@ -42,4 +42,14 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src/app'),
     },
   },
+  build: {
+    rollupOptions: {
+      // lucide-react 0.487 内部是 1773 个独立图标文件，`import { X } from
+      // 'lucide-react'` 这种 barrel 导入会让 rollup 逐个打开它们才能 tree-shake。
+      // rollup 默认并发 20 个文件操作，在 fd 上限较低的构建容器里会触发
+      // EMFILE: too many open files。降到 4 是 rollup 官方给的解法，
+      // 只是串行度变高、构建慢几秒，产物不变。
+      maxParallelFileOps: 4,
+    },
+  },
 })
