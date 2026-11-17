@@ -52,12 +52,12 @@
     "pokemonId": 778,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 2,
     "M-5": 5,
     "M-6": 10,
     "M-7": 3,
-    "M-8": 6
+    "M-8": 5
   },
   {
     "format": "single",
@@ -76,19 +76,19 @@
     "pokemonId": 130,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 8,
     "M-5": 7,
     "M-6": 18,
     "M-7": 21,
-    "M-8": 20
+    "M-8": 19
   },
   {
     "format": "single",
     "pokemonId": 149,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 9,
     "M-5": 8,
     "M-6": 23,
@@ -100,19 +100,19 @@
     "pokemonId": 376,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 7,
     "M-5": 9,
     "M-6": 19,
     "M-7": 13,
-    "M-8": 16
+    "M-8": 17
   },
   {
     "format": "single",
     "pokemonId": 655,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 0,
     "M-4": 10,
     "M-5": 10,
     "M-6": 41,
@@ -124,7 +124,7 @@
     "pokemonId": 6,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 11,
     "M-5": 11,
     "M-6": 12,
@@ -136,7 +136,7 @@
     "pokemonId": 823,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 15,
     "M-5": 12,
     "M-6": 14,
@@ -148,12 +148,12 @@
     "pokemonId": 212,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 23,
     "M-5": 13,
     "M-6": 42,
     "M-7": 37,
-    "M-8": 42
+    "M-8": 43
   },
   {
     "format": "single",
@@ -172,24 +172,24 @@
     "pokemonId": 970,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 16,
     "M-5": 15,
     "M-6": 15,
     "M-7": 18,
-    "M-8": 19
+    "M-8": 20
   },
   {
     "format": "single",
     "pokemonId": 635,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 14,
     "M-5": 16,
     "M-6": 36,
     "M-7": 29,
-    "M-8": 40
+    "M-8": 39
   },
   {
     "format": "single",
@@ -201,26 +201,26 @@
     "M-5": 17,
     "M-6": 24,
     "M-7": 28,
-    "M-8": 24
+    "M-8": 22
   },
   {
     "format": "single",
     "pokemonId": 94,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 19,
     "M-5": 18,
     "M-6": 30,
     "M-7": 22,
-    "M-8": 23
+    "M-8": 25
   },
   {
     "format": "single",
     "pokemonId": 26,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 0,
     "M-4": 21,
     "M-5": 19,
     "M-6": 37,
@@ -232,12 +232,12 @@
     "pokemonId": 10236,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 26,
     "M-5": 20,
     "M-6": 61,
     "M-7": 41,
-    "M-8": 39
+    "M-8": 40
   },
   {
     "format": "single",
@@ -268,19 +268,19 @@
     "pokemonId": 637,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 34,
     "M-5": 23,
     "M-6": 29,
     "M-7": 33,
-    "M-8": 34
+    "M-8": 32
   },
   {
     "format": "single",
     "pokemonId": 257,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 12,
     "M-5": 24,
     "M-6": 39,
@@ -304,31 +304,31 @@
     "pokemonId": 197,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 33,
     "M-5": 26,
     "M-6": 40,
     "M-7": 25,
-    "M-8": 22
+    "M-8": 24
   },
   {
     "format": "single",
     "pokemonId": 10009,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 3,
     "M-4": 20,
     "M-5": 27,
     "M-6": 28,
     "M-7": 27,
-    "M-8": 26
+    "M-8": 23
   },
   {
     "format": "single",
     "pokemonId": 428,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 35,
     "M-5": 28,
     "M-6": 53,
@@ -340,48 +340,48 @@
     "pokemonId": 700,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 37,
     "M-5": 29,
     "M-6": 38,
     "M-7": 50,
-    "M-8": 61
+    "M-8": 59
   },
   {
     "format": "single",
     "pokemonId": 3,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 39,
     "M-5": 30,
     "M-6": 62,
     "M-7": 49,
-    "M-8": 53
+    "M-8": 51
   },
   {
     "format": "single",
     "pokemonId": 448,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 32,
     "M-5": 31,
     "M-6": 5,
     "M-7": 7,
-    "M-8": 5
+    "M-8": 6
   },
   {
     "format": "single",
     "pokemonId": 121,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 24,
     "M-5": 32,
     "M-6": 66,
     "M-7": 55,
-    "M-8": 47
+    "M-8": 46
   },
   {
     "format": "single",
@@ -412,12 +412,12 @@
     "pokemonId": 911,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 30,
     "M-5": 35,
     "M-6": 32,
     "M-7": 44,
-    "M-8": 46
+    "M-8": 47
   },
   {
     "format": "single",
@@ -448,7 +448,7 @@
     "pokemonId": 887,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 31,
     "M-5": 38,
     "M-6": 59,
@@ -465,7 +465,7 @@
     "M-5": 39,
     "M-6": 58,
     "M-7": 38,
-    "M-8": 32
+    "M-8": 36
   },
   {
     "format": "single",
@@ -508,7 +508,7 @@
     "pokemonId": 248,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 46,
     "M-5": 43,
     "M-6": 44,
@@ -556,7 +556,7 @@
     "pokemonId": 937,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 45,
     "M-5": 47,
     "M-6": 56,
@@ -568,7 +568,7 @@
     "pokemonId": 861,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 40,
     "M-5": 48,
     "M-6": 52,
@@ -585,19 +585,19 @@
     "M-5": 49,
     "M-6": 46,
     "M-7": 48,
-    "M-8": 51
+    "M-8": 53
   },
   {
     "format": "single",
     "pokemonId": 9,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -2,
     "M-4": 51,
     "M-5": 50,
     "M-6": 25,
     "M-7": 39,
-    "M-8": 43
+    "M-8": 45
   },
   {
     "format": "single",
@@ -609,55 +609,55 @@
     "M-5": 51,
     "M-6": 96,
     "M-7": 76,
-    "M-8": 85
+    "M-8": 86
   },
   {
     "format": "single",
     "pokemonId": 547,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 47,
     "M-5": 52,
     "M-6": 75,
     "M-7": 85,
-    "M-8": 86
+    "M-8": 84
   },
   {
     "format": "single",
     "pokemonId": 903,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 50,
     "M-5": 53,
     "M-6": 16,
     "M-7": 24,
-    "M-8": 36
+    "M-8": 34
   },
   {
     "format": "single",
     "pokemonId": 473,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 58,
     "M-5": 54,
     "M-6": 50,
     "M-7": 72,
-    "M-8": 73
+    "M-8": 72
   },
   {
     "format": "single",
     "pokemonId": 956,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 52,
     "M-5": 55,
     "M-6": 67,
     "M-7": 68,
-    "M-8": 71
+    "M-8": 73
   },
   {
     "format": "single",
@@ -669,19 +669,19 @@
     "M-5": 56,
     "M-6": 70,
     "M-7": 67,
-    "M-8": 65
+    "M-8": 64
   },
   {
     "format": "single",
     "pokemonId": 545,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 64,
     "M-5": 57,
     "M-6": 93,
     "M-7": 87,
-    "M-8": 91
+    "M-8": 90
   },
   {
     "format": "single",
@@ -693,26 +693,26 @@
     "M-5": 58,
     "M-6": 34,
     "M-7": 26,
-    "M-8": 25
+    "M-8": 26
   },
   {
     "format": "single",
     "pokemonId": 10239,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 62,
     "M-5": 59,
     "M-6": 65,
     "M-7": 73,
-    "M-8": 70
+    "M-8": 71
   },
   {
     "format": "single",
     "pokemonId": 979,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 0,
     "M-4": 60,
     "M-5": 60,
     "M-6": 79,
@@ -729,50 +729,50 @@
     "M-5": 61,
     "M-6": 64,
     "M-7": 59,
-    "M-8": 64
+    "M-8": 65
   },
   {
     "format": "single",
     "pokemonId": 925,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 54,
     "M-5": 62,
     "M-6": 99999,
     "M-7": 99999,
-    "M-8": 102
+    "M-8": 100
   },
   {
     "format": "single",
     "pokemonId": 350,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 2,
     "M-4": 63,
     "M-5": 63,
     "M-6": 49,
     "M-7": 58,
-    "M-8": 72
+    "M-8": 70
   },
   {
     "format": "single",
     "pokemonId": 752,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 66,
     "M-5": 64,
     "M-6": 89,
     "M-7": 77,
-    "M-8": 83
+    "M-8": 81
   },
   {
     "format": "single",
     "pokemonId": 302,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 65,
     "M-5": 65,
     "M-6": 74,
@@ -784,7 +784,7 @@
     "pokemonId": 900,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 72,
     "M-5": 66,
     "M-6": 76,
@@ -796,7 +796,7 @@
     "pokemonId": 475,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 78,
     "M-5": 67,
     "M-6": 87,
@@ -825,14 +825,14 @@
     "M-5": 69,
     "M-6": 105,
     "M-7": 107,
-    "M-8": 105
+    "M-8": 107
   },
   {
     "format": "single",
     "pokemonId": 10242,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 68,
     "M-5": 70,
     "M-6": 63,
@@ -844,12 +844,12 @@
     "pokemonId": 71,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 91,
     "M-5": 71,
     "M-6": 78,
     "M-7": 80,
-    "M-8": 78
+    "M-8": 77
   },
   {
     "format": "single",
@@ -861,38 +861,38 @@
     "M-5": 72,
     "M-6": 80,
     "M-7": 71,
-    "M-8": 56
+    "M-8": 57
   },
   {
     "format": "single",
     "pokemonId": 478,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 81,
     "M-5": 73,
     "M-6": 83,
     "M-7": 81,
-    "M-8": 84
+    "M-8": 85
   },
   {
     "format": "single",
     "pokemonId": 691,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -2,
     "M-4": 55,
     "M-5": 74,
     "M-6": 99,
     "M-7": 88,
-    "M-8": 90
+    "M-8": 92
   },
   {
     "format": "single",
     "pokemonId": 354,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 76,
     "M-5": 75,
     "M-6": 48,
@@ -904,24 +904,24 @@
     "pokemonId": 497,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 75,
     "M-5": 76,
     "M-6": 109,
     "M-7": 97,
-    "M-8": 104
+    "M-8": 103
   },
   {
     "format": "single",
     "pokemonId": 184,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 69,
     "M-5": 77,
     "M-6": 92,
     "M-7": 89,
-    "M-8": 95
+    "M-8": 94
   },
   {
     "format": "single",
@@ -945,91 +945,91 @@
     "M-5": 79,
     "M-6": 72,
     "M-7": 74,
-    "M-8": 75
+    "M-8": 74
   },
   {
     "format": "single",
     "pokemonId": 254,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 61,
     "M-5": 80,
     "M-6": 101,
     "M-7": 102,
-    "M-8": 107
+    "M-8": 106
   },
   {
     "format": "single",
     "pokemonId": 395,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 82,
     "M-5": 81,
     "M-6": 33,
     "M-7": 46,
-    "M-8": 59
+    "M-8": 61
   },
   {
     "format": "single",
     "pokemonId": 1013,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 3,
     "M-4": 71,
     "M-5": 82,
     "M-6": 107,
     "M-7": 108,
-    "M-8": 113
+    "M-8": 110
   },
   {
     "format": "single",
     "pokemonId": 609,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 89,
     "M-5": 83,
     "M-6": 97,
     "M-7": 100,
-    "M-8": 106
+    "M-8": 105
   },
   {
     "format": "single",
     "pokemonId": 858,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 80,
     "M-5": 84,
     "M-6": 82,
     "M-7": 51,
-    "M-8": 57
+    "M-8": 56
   },
   {
     "format": "single",
     "pokemonId": 666,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 73,
     "M-5": 85,
     "M-6": 113,
     "M-7": 103,
-    "M-8": 92
+    "M-8": 91
   },
   {
     "format": "single",
     "pokemonId": 534,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 90,
     "M-5": 86,
     "M-6": 120,
     "M-7": 122,
-    "M-8": 124
+    "M-8": 126
   },
   {
     "format": "single",
@@ -1041,26 +1041,26 @@
     "M-5": 87,
     "M-6": 116,
     "M-7": 96,
-    "M-8": 100
+    "M-8": 102
   },
   {
     "format": "single",
     "pokemonId": 660,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 98,
     "M-5": 88,
     "M-6": 125,
     "M-7": 125,
-    "M-8": 118
+    "M-8": 119
   },
   {
     "format": "single",
     "pokemonId": 855,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 97,
     "M-5": 89,
     "M-6": 115,
@@ -1072,7 +1072,7 @@
     "pokemonId": 196,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 87,
     "M-5": 90,
     "M-6": 106,
@@ -1084,12 +1084,12 @@
     "pokemonId": 10172,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 3,
     "M-4": 100,
     "M-5": 91,
     "M-6": 81,
     "M-7": 70,
-    "M-8": 45
+    "M-8": 42
   },
   {
     "format": "single",
@@ -1101,7 +1101,7 @@
     "M-5": 92,
     "M-6": 112,
     "M-7": 123,
-    "M-8": 116
+    "M-8": 118
   },
   {
     "format": "single",
@@ -1120,12 +1120,12 @@
     "pokemonId": 727,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 84,
     "M-5": 94,
     "M-6": 85,
     "M-7": 91,
-    "M-8": 96
+    "M-8": 97
   },
   {
     "format": "single",
@@ -1144,31 +1144,31 @@
     "pokemonId": 733,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 95,
     "M-5": 96,
     "M-6": 110,
     "M-7": 94,
-    "M-8": 81
+    "M-8": 83
   },
   {
     "format": "single",
     "pokemonId": 964,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 1,
     "M-4": 105,
     "M-5": 97,
     "M-6": 129,
     "M-7": 135,
-    "M-8": 136
+    "M-8": 135
   },
   {
     "format": "single",
     "pokemonId": 472,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": 0,
     "M-4": 92,
     "M-5": 98,
     "M-6": 123,
@@ -1180,7 +1180,7 @@
     "pokemonId": 214,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 101,
     "M-5": 99,
     "M-6": 122,
@@ -1192,72 +1192,72 @@
     "pokemonId": 45,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 88,
     "M-5": 100,
     "M-6": 140,
     "M-7": 138,
-    "M-8": 138
+    "M-8": 140
   },
   {
     "format": "single",
     "pokemonId": 652,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -4,
     "M-4": 110,
     "M-5": 101,
     "M-6": 162,
     "M-7": 162,
-    "M-8": 151
+    "M-8": 155
   },
   {
     "format": "single",
     "pokemonId": 324,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -5,
     "M-4": 122,
     "M-5": 102,
     "M-6": 114,
     "M-7": 119,
-    "M-8": 111
+    "M-8": 116
   },
   {
     "format": "single",
     "pokemonId": 560,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 6,
     "M-4": 93,
     "M-5": 103,
     "M-6": 143,
     "M-7": 139,
-    "M-8": 142
+    "M-8": 136
   },
   {
     "format": "single",
     "pokemonId": 127,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 1,
     "M-4": 115,
     "M-5": 104,
     "M-6": 177,
     "M-7": 171,
-    "M-8": 162
+    "M-8": 161
   },
   {
     "format": "single",
     "pokemonId": 319,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 3,
     "M-4": 107,
     "M-5": 105,
     "M-6": 128,
     "M-7": 128,
-    "M-8": 125
+    "M-8": 122
   },
   {
     "format": "single",
@@ -1276,19 +1276,19 @@
     "pokemonId": 10248,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": -1,
     "M-4": 120,
     "M-5": 107,
     "M-6": 117,
     "M-7": 117,
-    "M-8": 103
+    "M-8": 104
   },
   {
     "format": "single",
     "pokemonId": 134,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 104,
     "M-5": 108,
     "M-6": 102,
@@ -1300,24 +1300,24 @@
     "pokemonId": 142,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 106,
     "M-5": 109,
     "M-6": 139,
     "M-7": 144,
-    "M-8": 145
+    "M-8": 146
   },
   {
     "format": "single",
     "pokemonId": 579,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -5,
     "M-4": 108,
     "M-5": 110,
     "M-6": 163,
     "M-7": 112,
-    "M-8": 122
+    "M-8": 127
   },
   {
     "format": "single",
@@ -1329,7 +1329,7 @@
     "M-5": 111,
     "M-6": 132,
     "M-7": 134,
-    "M-8": 135
+    "M-8": 133
   },
   {
     "format": "single",
@@ -1341,14 +1341,14 @@
     "M-5": 112,
     "M-6": 98,
     "M-7": 90,
-    "M-8": 94
+    "M-8": 95
   },
   {
     "format": "single",
     "pokemonId": 461,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 0,
     "M-4": 113,
     "M-5": 113,
     "M-6": 118,
@@ -1360,43 +1360,43 @@
     "pokemonId": 160,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 121,
     "M-5": 114,
     "M-6": 152,
     "M-7": 142,
-    "M-8": 140
+    "M-8": 141
   },
   {
     "format": "single",
     "pokemonId": 604,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 6,
     "M-4": 102,
     "M-5": 115,
     "M-6": 124,
     "M-7": 109,
-    "M-8": 119
+    "M-8": 113
   },
   {
     "format": "single",
     "pokemonId": 306,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 109,
     "M-5": 116,
     "M-6": 108,
     "M-7": 104,
-    "M-8": 110
+    "M-8": 111
   },
   {
     "format": "single",
     "pokemonId": 10165,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 112,
     "M-5": 117,
     "M-6": 94,
@@ -1408,19 +1408,19 @@
     "pokemonId": 695,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 3,
     "M-4": 114,
     "M-5": 118,
     "M-6": 142,
     "M-7": 136,
-    "M-8": 123
+    "M-8": 120
   },
   {
     "format": "single",
     "pokemonId": 10251,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 132,
     "M-5": 119,
     "M-6": 121,
@@ -1432,7 +1432,7 @@
     "pokemonId": 460,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 116,
     "M-5": 120,
     "M-6": 170,
@@ -1444,103 +1444,103 @@
     "pokemonId": 10244,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": -1,
     "M-4": 118,
     "M-5": 121,
     "M-6": 155,
     "M-7": 149,
-    "M-8": 146
+    "M-8": 147
   },
   {
     "format": "single",
     "pokemonId": 199,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -1,
     "M-4": 168,
     "M-5": 122,
     "M-6": 136,
     "M-7": 150,
-    "M-8": 127
+    "M-8": 128
   },
   {
     "format": "single",
     "pokemonId": 758,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 1,
     "M-4": 119,
     "M-5": 123,
     "M-6": 131,
     "M-7": 129,
-    "M-8": 139
+    "M-8": 138
   },
   {
     "format": "single",
     "pokemonId": 663,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -7,
     "M-4": 117,
     "M-5": 124,
     "M-6": 134,
     "M-7": 153,
-    "M-8": 153
+    "M-8": 160
   },
   {
     "format": "single",
     "pokemonId": 65,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 3,
     "M-4": 123,
     "M-5": 125,
     "M-6": 111,
     "M-7": 115,
-    "M-8": 133
+    "M-8": 130
   },
   {
     "format": "single",
     "pokemonId": 15,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 4,
     "M-4": 126,
     "M-5": 126,
     "M-6": 172,
     "M-7": 159,
-    "M-8": 161
+    "M-8": 157
   },
   {
     "format": "single",
     "pokemonId": 392,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": -3,
     "M-4": 129,
     "M-5": 127,
     "M-6": 135,
     "M-7": 124,
-    "M-8": 134
+    "M-8": 137
   },
   {
     "format": "single",
     "pokemonId": 10152,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 5,
     "M-4": 127,
     "M-5": 128,
     "M-6": 141,
     "M-7": 141,
-    "M-8": 158
+    "M-8": 153
   },
   {
     "format": "single",
     "pokemonId": 334,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 128,
     "M-5": 129,
     "M-6": 130,
@@ -1552,108 +1552,108 @@
     "pokemonId": 362,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -2,
     "M-4": 138,
     "M-5": 130,
     "M-6": 133,
     "M-7": 140,
-    "M-8": 137
+    "M-8": 139
   },
   {
     "format": "single",
     "pokemonId": 715,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 4,
     "M-4": 155,
     "M-5": 131,
     "M-6": 153,
     "M-7": 165,
-    "M-8": 174
+    "M-8": 170
   },
   {
     "format": "single",
     "pokemonId": 38,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 154,
     "M-5": 132,
     "M-6": 174,
     "M-7": 176,
-    "M-8": 180
+    "M-8": 179
   },
   {
     "format": "single",
     "pokemonId": 10233,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 2,
     "M-4": 125,
     "M-5": 133,
     "M-6": 145,
     "M-7": 148,
-    "M-8": 152
+    "M-8": 150
   },
   {
     "format": "single",
     "pokemonId": 18,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -4,
     "M-4": 146,
     "M-5": 134,
     "M-6": 164,
     "M-7": 172,
-    "M-8": 150
+    "M-8": 154
   },
   {
     "format": "single",
     "pokemonId": 784,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -4,
     "M-4": 143,
     "M-5": 135,
     "M-6": 138,
     "M-7": 137,
-    "M-8": 130
+    "M-8": 134
   },
   {
     "format": "single",
     "pokemonId": 701,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 133,
     "M-5": 136,
     "M-6": 146,
     "M-7": 130,
-    "M-8": 128
+    "M-8": 129
   },
   {
     "format": "single",
     "pokemonId": 10012,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -4,
     "M-4": 149,
     "M-5": 137,
     "M-6": 190,
     "M-7": 195,
-    "M-8": 184
+    "M-8": 188
   },
   {
     "format": "single",
     "pokemonId": 168,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 2,
     "M-4": 148,
     "M-5": 138,
     "M-6": 205,
     "M-7": 196,
-    "M-8": 212
+    "M-8": 210
   },
   {
     "format": "single",
@@ -1665,26 +1665,26 @@
     "M-5": 139,
     "M-6": 150,
     "M-7": 143,
-    "M-8": 149
+    "M-8": 148
   },
   {
     "format": "single",
     "pokemonId": 687,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -2,
     "M-4": 124,
     "M-5": 140,
     "M-6": 160,
     "M-7": 156,
-    "M-8": 164
+    "M-8": 166
   },
   {
     "format": "single",
     "pokemonId": 59,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 135,
     "M-5": 141,
     "M-6": 127,
@@ -1696,12 +1696,12 @@
     "pokemonId": 135,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 6,
     "M-4": 131,
     "M-5": 142,
     "M-6": 158,
     "M-7": 154,
-    "M-8": 157
+    "M-8": 151
   },
   {
     "format": "single",
@@ -1713,26 +1713,26 @@
     "M-5": 143,
     "M-6": 148,
     "M-7": 145,
-    "M-8": 141
+    "M-8": 143
   },
   {
     "format": "single",
     "pokemonId": 553,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -3,
     "M-4": 144,
     "M-5": 144,
     "M-6": 161,
     "M-7": 157,
-    "M-8": 155
+    "M-8": 158
   },
   {
     "format": "single",
     "pokemonId": 867,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -8,
+    "rankChange": 0,
     "M-4": 130,
     "M-5": 145,
     "M-6": 151,
@@ -1744,127 +1744,127 @@
     "pokemonId": 389,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 142,
     "M-5": 146,
     "M-6": 176,
     "M-7": 169,
-    "M-8": 179
+    "M-8": 178
   },
   {
     "format": "single",
     "pokemonId": 740,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 2,
     "M-4": 147,
     "M-5": 147,
     "M-6": 182,
     "M-7": 180,
-    "M-8": 187
+    "M-8": 185
   },
   {
     "format": "single",
     "pokemonId": 750,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 4,
     "M-4": 136,
     "M-5": 148,
     "M-6": 165,
     "M-7": 166,
-    "M-8": 176
+    "M-8": 172
   },
   {
     "format": "single",
     "pokemonId": 186,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 140,
     "M-5": 149,
     "M-6": 104,
     "M-7": 98,
-    "M-8": 77
+    "M-8": 78
   },
   {
     "format": "single",
     "pokemonId": 308,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 157,
     "M-5": 150,
     "M-6": 184,
     "M-7": 158,
-    "M-8": 147
+    "M-8": 149
   },
   {
     "format": "single",
     "pokemonId": 763,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -4,
     "M-4": 156,
     "M-5": 151,
     "M-6": 187,
     "M-7": 189,
-    "M-8": 189
+    "M-8": 193
   },
   {
     "format": "single",
     "pokemonId": 693,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 3,
     "M-4": 145,
     "M-5": 152,
     "M-6": 171,
     "M-7": 182,
-    "M-8": 183
+    "M-8": 180
   },
   {
     "format": "single",
     "pokemonId": 208,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 9,
     "M-4": 158,
     "M-5": 153,
     "M-6": 167,
     "M-7": 170,
-    "M-8": 168
+    "M-8": 159
   },
   {
     "format": "single",
     "pokemonId": 181,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -1,
     "M-4": 152,
     "M-5": 154,
     "M-6": 159,
     "M-7": 147,
-    "M-8": 143
+    "M-8": 144
   },
   {
     "format": "single",
     "pokemonId": 563,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": 3,
     "M-4": 141,
     "M-5": 155,
     "M-6": 149,
     "M-7": 151,
-    "M-8": 165
+    "M-8": 162
   },
   {
     "format": "single",
     "pokemonId": 685,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 162,
     "M-5": 156,
     "M-6": 144,
@@ -1876,67 +1876,67 @@
     "pokemonId": 689,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 6,
     "M-4": 150,
     "M-5": 157,
     "M-6": 185,
     "M-7": 161,
-    "M-8": 129
+    "M-8": 123
   },
   {
     "format": "single",
     "pokemonId": 442,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 4,
     "M-4": 139,
     "M-5": 158,
     "M-6": 156,
     "M-7": 163,
-    "M-8": 169
+    "M-8": 165
   },
   {
     "format": "single",
     "pokemonId": 229,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 3,
     "M-4": 161,
     "M-5": 159,
     "M-6": 169,
     "M-7": 175,
-    "M-8": 166
+    "M-8": 163
   },
   {
     "format": "single",
     "pokemonId": 707,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 8,
+    "rankChange": 4,
     "M-4": 151,
     "M-5": 160,
     "M-6": 157,
     "M-7": 167,
-    "M-8": 156
+    "M-8": 152
   },
   {
     "format": "single",
     "pokemonId": 68,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 6,
     "M-4": 159,
     "M-5": 161,
     "M-6": 183,
     "M-7": 185,
-    "M-8": 200
+    "M-8": 194
   },
   {
     "format": "single",
     "pokemonId": 25,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 172,
     "M-5": 162,
     "M-6": 175,
@@ -1948,55 +1948,55 @@
     "pokemonId": 407,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 175,
     "M-5": 163,
     "M-6": 179,
     "M-7": 160,
-    "M-8": 172
+    "M-8": 171
   },
   {
     "format": "single",
     "pokemonId": 205,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -3,
     "M-4": 166,
     "M-5": 164,
     "M-6": 147,
     "M-7": 164,
-    "M-8": 171
+    "M-8": 174
   },
   {
     "format": "single",
     "pokemonId": 518,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -1,
     "M-4": 167,
     "M-5": 165,
     "M-6": 213,
     "M-7": 220,
-    "M-8": 211
+    "M-8": 212
   },
   {
     "format": "single",
     "pokemonId": 713,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 3,
     "M-4": 187,
     "M-5": 166,
     "M-6": 189,
     "M-7": 201,
-    "M-8": 205
+    "M-8": 202
   },
   {
     "format": "single",
     "pokemonId": 934,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 0,
     "M-4": 153,
     "M-5": 167,
     "M-6": 168,
@@ -2008,7 +2008,7 @@
     "pokemonId": 706,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 0,
     "M-4": 164,
     "M-5": 168,
     "M-6": 181,
@@ -2025,110 +2025,110 @@
     "M-5": 169,
     "M-6": 166,
     "M-7": 168,
-    "M-8": 178
+    "M-8": 177
   },
   {
     "format": "single",
     "pokemonId": 500,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": -1,
     "M-4": 171,
     "M-5": 170,
     "M-6": 186,
     "M-7": 173,
-    "M-8": 163
+    "M-8": 164
   },
   {
     "format": "single",
     "pokemonId": 24,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -3,
     "M-4": 177,
     "M-5": 171,
     "M-6": 225,
     "M-7": 217,
-    "M-8": 188
+    "M-8": 191
   },
   {
     "format": "single",
     "pokemonId": 359,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 173,
     "M-5": 172,
     "M-6": 55,
     "M-7": 65,
-    "M-8": 74
+    "M-8": 75
   },
   {
     "format": "single",
     "pokemonId": 531,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -6,
     "M-4": 182,
     "M-5": 173,
     "M-6": 202,
     "M-7": 197,
-    "M-8": 170
+    "M-8": 176
   },
   {
     "format": "single",
     "pokemonId": 709,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 7,
+    "rankChange": -2,
     "M-4": 165,
     "M-5": 174,
     "M-6": 209,
     "M-7": 200,
-    "M-8": 206
+    "M-8": 208
   },
   {
     "format": "single",
     "pokemonId": 464,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 7,
     "M-4": 179,
     "M-5": 175,
     "M-6": 178,
     "M-7": 183,
-    "M-8": 191
+    "M-8": 184
   },
   {
     "format": "single",
     "pokemonId": 10252,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 10,
     "M-4": 185,
     "M-5": 176,
     "M-6": 223,
     "M-7": 219,
-    "M-8": 223
+    "M-8": 213
   },
   {
     "format": "single",
     "pokemonId": 571,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 170,
     "M-5": 177,
     "M-6": 173,
     "M-7": 174,
-    "M-8": 185
+    "M-8": 186
   },
   {
     "format": "single",
     "pokemonId": 623,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 0,
     "M-4": 163,
     "M-5": 178,
     "M-6": 203,
@@ -2140,84 +2140,84 @@
     "pokemonId": 844,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -3,
     "M-4": 174,
     "M-5": 179,
     "M-6": 214,
     "M-7": 204,
-    "M-8": 196
+    "M-8": 199
   },
   {
     "format": "single",
     "pokemonId": 1019,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 169,
     "M-5": 180,
     "M-6": 199,
     "M-7": 192,
-    "M-8": 197
+    "M-8": 196
   },
   {
     "format": "single",
     "pokemonId": 470,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 3,
     "M-4": 181,
     "M-5": 181,
     "M-6": 218,
     "M-7": 215,
-    "M-8": 207
+    "M-8": 204
   },
   {
     "format": "single",
     "pokemonId": 510,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": -2,
     "M-4": 183,
     "M-5": 182,
     "M-6": 191,
     "M-7": 198,
-    "M-8": 213
+    "M-8": 215
   },
   {
     "format": "single",
     "pokemonId": 981,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 3,
     "M-4": 176,
     "M-5": 183,
     "M-6": 192,
     "M-7": 209,
-    "M-8": 208
+    "M-8": 205
   },
   {
     "format": "single",
     "pokemonId": 310,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 4,
     "M-4": 194,
     "M-5": 184,
     "M-6": 193,
     "M-7": 187,
-    "M-8": 194
+    "M-8": 190
   },
   {
     "format": "single",
     "pokemonId": 675,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -4,
     "M-4": 195,
     "M-5": 185,
     "M-6": 215,
     "M-7": 212,
-    "M-8": 203
+    "M-8": 207
   },
   {
     "format": "single",
@@ -2229,115 +2229,115 @@
     "M-5": 186,
     "M-6": 197,
     "M-7": 188,
-    "M-8": 198
+    "M-8": 197
   },
   {
     "format": "single",
     "pokemonId": 454,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -2,
     "M-4": 199,
     "M-5": 187,
     "M-6": 222,
     "M-7": 222,
-    "M-8": 217
+    "M-8": 219
   },
   {
     "format": "single",
     "pokemonId": 699,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -7,
+    "rankChange": 1,
     "M-4": 188,
     "M-5": 188,
     "M-6": 154,
     "M-7": 177,
-    "M-8": 190
+    "M-8": 189
   },
   {
     "format": "single",
     "pokemonId": 411,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -5,
     "M-4": 197,
     "M-5": 189,
     "M-6": 194,
     "M-7": 186,
-    "M-8": 182
+    "M-8": 187
   },
   {
     "format": "single",
     "pokemonId": 678,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -6,
+    "rankChange": -5,
     "M-4": 190,
     "M-5": 190,
     "M-6": 206,
     "M-7": 206,
-    "M-8": 193
+    "M-8": 198
   },
   {
     "format": "single",
     "pokemonId": 587,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": -8,
     "M-4": 189,
     "M-5": 191,
     "M-6": 204,
     "M-7": 194,
-    "M-8": 160
+    "M-8": 168
   },
   {
     "format": "single",
     "pokemonId": 671,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": -1,
     "M-4": 186,
     "M-5": 192,
     "M-6": 217,
     "M-7": 202,
-    "M-8": 210
+    "M-8": 211
   },
   {
     "format": "single",
     "pokemonId": 780,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 11,
+    "rankChange": 3,
     "M-4": 178,
     "M-5": 193,
     "M-6": 200,
     "M-7": 190,
-    "M-8": 186
+    "M-8": 183
   },
   {
     "format": "single",
     "pokemonId": 866,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": 1,
     "M-4": 193,
     "M-5": 194,
     "M-6": 220,
     "M-7": 224,
-    "M-8": 226
+    "M-8": 225
   },
   {
     "format": "single",
     "pokemonId": 157,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -5,
     "M-4": 196,
     "M-5": 195,
     "M-6": 208,
     "M-7": 193,
-    "M-8": 177
+    "M-8": 182
   },
   {
     "format": "single",
@@ -2349,55 +2349,55 @@
     "M-5": 196,
     "M-6": 234,
     "M-7": 229,
-    "M-8": 209
+    "M-8": 214
   },
   {
     "format": "single",
     "pokemonId": 136,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -5,
     "M-4": 198,
     "M-5": 197,
     "M-6": 210,
     "M-7": 205,
-    "M-8": 204
+    "M-8": 209
   },
   {
     "format": "single",
     "pokemonId": 323,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -2,
     "M-4": 192,
     "M-5": 198,
     "M-6": 226,
     "M-7": 210,
-    "M-8": 199
+    "M-8": 201
   },
   {
     "format": "single",
     "pokemonId": 10243,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 12,
+    "rankChange": 8,
     "M-4": 204,
     "M-5": 199,
     "M-6": 196,
     "M-7": 208,
-    "M-8": 214
+    "M-8": 206
   },
   {
     "format": "single",
     "pokemonId": 618,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 200,
     "M-5": 200,
     "M-6": 207,
     "M-7": 211,
-    "M-8": 202
+    "M-8": 203
   },
   {
     "format": "single",
@@ -2409,38 +2409,38 @@
     "M-5": 201,
     "M-6": 236,
     "M-7": 228,
-    "M-8": 218
+    "M-8": 224
   },
   {
     "format": "single",
     "pokemonId": 697,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 1,
     "M-4": 191,
     "M-5": 202,
     "M-6": 219,
     "M-7": 216,
-    "M-8": 231
+    "M-8": 230
   },
   {
     "format": "single",
     "pokemonId": 10010,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 201,
     "M-5": 203,
     "M-6": 201,
     "M-7": 218,
-    "M-8": 219
+    "M-8": 220
   },
   {
     "format": "single",
     "pokemonId": 614,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 203,
     "M-5": 204,
     "M-6": 224,
@@ -2452,72 +2452,72 @@
     "pokemonId": 724,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 8,
     "M-4": 206,
     "M-5": 205,
     "M-6": 233,
     "M-7": 227,
-    "M-8": 235
+    "M-8": 227
   },
   {
     "format": "single",
     "pokemonId": 405,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": -1,
     "M-4": 207,
     "M-5": 206,
     "M-6": 216,
     "M-7": 203,
-    "M-8": 215
+    "M-8": 216
   },
   {
     "format": "single",
     "pokemonId": 899,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": 1,
     "M-4": 214,
     "M-5": 207,
     "M-6": 239,
     "M-7": 231,
-    "M-8": 239
+    "M-8": 238
   },
   {
     "format": "single",
     "pokemonId": 676,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 6,
+    "rankChange": 5,
     "M-4": 208,
     "M-5": 208,
     "M-6": 229,
     "M-7": 225,
-    "M-8": 227
+    "M-8": 222
   },
   {
     "format": "single",
     "pokemonId": 409,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 202,
     "M-5": 209,
     "M-6": 235,
     "M-7": 223,
-    "M-8": 236
+    "M-8": 235
   },
   {
     "format": "single",
     "pokemonId": 569,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -5,
     "M-4": 211,
     "M-5": 210,
     "M-6": 240,
     "M-7": 233,
-    "M-8": 241
+    "M-8": 246
   },
   {
     "format": "single",
@@ -2529,43 +2529,43 @@
     "M-5": 211,
     "M-6": 231,
     "M-7": 235,
-    "M-8": 243
+    "M-8": 242
   },
   {
     "format": "single",
     "pokemonId": 10011,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 14,
+    "rankChange": 1,
     "M-4": 217,
     "M-5": 212,
     "M-6": 232,
     "M-7": 238,
-    "M-8": 201
+    "M-8": 200
   },
   {
     "format": "single",
     "pokemonId": 128,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -4,
     "M-4": 215,
     "M-5": 213,
     "M-6": 245,
     "M-7": 240,
-    "M-8": 229
+    "M-8": 233
   },
   {
     "format": "single",
     "pokemonId": 702,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 210,
     "M-5": 214,
     "M-6": 237,
     "M-7": 236,
-    "M-8": 240
+    "M-8": 239
   },
   {
     "format": "single",
@@ -2577,7 +2577,7 @@
     "M-5": 215,
     "M-6": 243,
     "M-7": 232,
-    "M-8": 232
+    "M-8": 234
   },
   {
     "format": "single",
@@ -2589,91 +2589,91 @@
     "M-5": 216,
     "M-6": 228,
     "M-7": 226,
-    "M-8": 233
+    "M-8": 232
   },
   {
     "format": "single",
     "pokemonId": 842,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": -1,
     "M-4": 209,
     "M-5": 217,
     "M-6": 244,
     "M-7": 239,
-    "M-8": 244
+    "M-8": 245
   },
   {
     "format": "single",
     "pokemonId": 841,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 220,
     "M-5": 218,
     "M-6": 242,
     "M-7": 242,
-    "M-8": 254
+    "M-8": 252
   },
   {
     "format": "single",
     "pokemonId": 503,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -2,
     "M-4": 219,
     "M-5": 219,
     "M-6": 241,
     "M-7": 241,
-    "M-8": 238
+    "M-8": 240
   },
   {
     "format": "single",
     "pokemonId": 711,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 227,
     "M-5": 220,
     "M-6": 261,
     "M-7": 257,
-    "M-8": 259
+    "M-8": 260
   },
   {
     "format": "single",
     "pokemonId": 10100,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -3,
     "M-4": 218,
     "M-5": 221,
     "M-6": 195,
     "M-7": 214,
-    "M-8": 225
+    "M-8": 228
   },
   {
     "format": "single",
     "pokemonId": 516,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -7,
     "M-4": 224,
     "M-5": 222,
     "M-6": 249,
     "M-7": 248,
-    "M-8": 234
+    "M-8": 241
   },
   {
     "format": "single",
     "pokemonId": 683,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 8,
     "M-4": 231,
     "M-5": 223,
     "M-6": 252,
     "M-7": 253,
-    "M-8": 257
+    "M-8": 249
   },
   {
     "format": "single",
@@ -2697,38 +2697,38 @@
     "M-5": 225,
     "M-6": 247,
     "M-7": 251,
-    "M-8": 247
+    "M-8": 248
   },
   {
     "format": "single",
     "pokemonId": 765,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 226,
     "M-5": 226,
     "M-6": 251,
     "M-7": 258,
-    "M-8": 260
+    "M-8": 258
   },
   {
     "format": "single",
     "pokemonId": 10030,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -5,
     "M-4": 229,
     "M-5": 227,
     "M-6": 257,
     "M-7": 259,
-    "M-8": 252
+    "M-8": 257
   },
   {
     "format": "single",
     "pokemonId": 505,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 235,
     "M-5": 228,
     "M-6": 259,
@@ -2740,31 +2740,31 @@
     "pokemonId": 479,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 223,
     "M-5": 229,
     "M-6": 255,
     "M-7": 256,
-    "M-8": 251
+    "M-8": 253
   },
   {
     "format": "single",
     "pokemonId": 10126,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 7,
+    "rankChange": 4,
     "M-4": 222,
     "M-5": 230,
     "M-6": 250,
     "M-7": 252,
-    "M-8": 248
+    "M-8": 244
   },
   {
     "format": "single",
     "pokemonId": 766,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 228,
     "M-5": 231,
     "M-6": 256,
@@ -2776,12 +2776,12 @@
     "pokemonId": 514,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 5,
     "M-4": 230,
     "M-5": 232,
     "M-6": 254,
     "M-7": 255,
-    "M-8": 242
+    "M-8": 237
   },
   {
     "format": "single",
@@ -2793,19 +2793,19 @@
     "M-5": 233,
     "M-6": 258,
     "M-7": 254,
-    "M-8": 246
+    "M-8": 247
   },
   {
     "format": "single",
     "pokemonId": 351,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -5,
     "M-4": 232,
     "M-5": 234,
     "M-6": 253,
     "M-7": 250,
-    "M-8": 249
+    "M-8": 254
   },
   {
     "format": "single",
@@ -2824,24 +2824,24 @@
     "pokemonId": 983,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 2,
     "M-5": 1,
     "M-6": 7,
     "M-7": 9,
-    "M-8": 4
+    "M-8": 5
   },
   {
     "format": "double",
     "pokemonId": 445,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 1,
     "M-5": 2,
     "M-6": 6,
     "M-7": 3,
-    "M-8": 2
+    "M-8": 3
   },
   {
     "format": "double",
@@ -2872,7 +2872,7 @@
     "pokemonId": 1013,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 4,
     "M-5": 5,
     "M-6": 26,
@@ -2884,7 +2884,7 @@
     "pokemonId": 547,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 5,
     "M-5": 6,
     "M-6": 20,
@@ -2913,14 +2913,14 @@
     "M-5": 8,
     "M-6": 3,
     "M-7": 4,
-    "M-8": 5
+    "M-8": 4
   },
   {
     "format": "double",
     "pokemonId": 6,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 6,
     "M-5": 9,
     "M-6": 15,
@@ -2956,7 +2956,7 @@
     "pokemonId": 26,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 18,
     "M-5": 12,
     "M-6": 13,
@@ -2968,12 +2968,12 @@
     "pokemonId": 248,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 14,
     "M-5": 13,
     "M-6": 19,
     "M-7": 18,
-    "M-8": 16
+    "M-8": 17
   },
   {
     "format": "double",
@@ -3004,12 +3004,12 @@
     "pokemonId": 350,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 17,
     "M-5": 16,
     "M-6": 14,
     "M-7": 20,
-    "M-8": 17
+    "M-8": 16
   },
   {
     "format": "double",
@@ -3021,7 +3021,7 @@
     "M-5": 17,
     "M-6": 43,
     "M-7": 46,
-    "M-8": 44
+    "M-8": 45
   },
   {
     "format": "double",
@@ -3052,7 +3052,7 @@
     "pokemonId": 655,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 24,
     "M-5": 20,
     "M-6": 46,
@@ -3064,12 +3064,12 @@
     "pokemonId": 260,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 3,
     "M-4": 20,
     "M-5": 21,
     "M-6": 33,
     "M-7": 33,
-    "M-8": 37
+    "M-8": 34
   },
   {
     "format": "double",
@@ -3100,12 +3100,12 @@
     "pokemonId": 861,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 19,
     "M-5": 24,
     "M-6": 32,
     "M-7": 25,
-    "M-8": 36
+    "M-8": 35
   },
   {
     "format": "double",
@@ -3124,7 +3124,7 @@
     "pokemonId": 9,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 23,
     "M-5": 26,
     "M-6": 48,
@@ -3148,12 +3148,12 @@
     "pokemonId": 670,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 33,
     "M-5": 28,
     "M-6": 31,
     "M-7": 30,
-    "M-8": 22
+    "M-8": 24
   },
   {
     "format": "double",
@@ -3172,19 +3172,19 @@
     "pokemonId": 302,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 27,
     "M-5": 30,
     "M-6": 42,
     "M-7": 43,
-    "M-8": 43
+    "M-8": 44
   },
   {
     "format": "double",
     "pokemonId": 530,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 28,
     "M-5": 31,
     "M-6": 29,
@@ -3196,24 +3196,24 @@
     "pokemonId": 970,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 34,
     "M-5": 32,
     "M-6": 44,
     "M-7": 39,
-    "M-8": 35
+    "M-8": 36
   },
   {
     "format": "double",
     "pokemonId": 10230,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 71,
     "M-5": 33,
     "M-6": 21,
     "M-7": 40,
-    "M-8": 42
+    "M-8": 43
   },
   {
     "format": "double",
@@ -3256,36 +3256,36 @@
     "pokemonId": 303,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -1,
     "M-4": 30,
     "M-5": 37,
     "M-6": 61,
     "M-7": 63,
-    "M-8": 61
+    "M-8": 62
   },
   {
     "format": "double",
     "pokemonId": 212,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -6,
     "M-4": 51,
     "M-5": 38,
     "M-6": 80,
     "M-7": 85,
-    "M-8": 76
+    "M-8": 82
   },
   {
     "format": "double",
     "pokemonId": 952,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -3,
     "M-4": 53,
     "M-5": 39,
     "M-6": 81,
     "M-7": 90,
-    "M-8": 69
+    "M-8": 72
   },
   {
     "format": "double",
@@ -3297,55 +3297,55 @@
     "M-5": 40,
     "M-6": 47,
     "M-7": 44,
-    "M-8": 48
+    "M-8": 47
   },
   {
     "format": "double",
     "pokemonId": 186,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-4": 45,
     "M-5": 41,
     "M-6": 30,
     "M-7": 34,
-    "M-8": 41
+    "M-8": 40
   },
   {
     "format": "double",
     "pokemonId": 10009,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 4,
     "M-4": 37,
     "M-5": 42,
     "M-6": 70,
     "M-7": 69,
-    "M-8": 75
+    "M-8": 71
   },
   {
     "format": "double",
     "pokemonId": 763,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 1,
     "M-4": 42,
     "M-5": 43,
     "M-6": 69,
     "M-7": 71,
-    "M-8": 74
+    "M-8": 73
   },
   {
     "format": "double",
     "pokemonId": 115,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -3,
     "M-4": 40,
     "M-5": 44,
     "M-6": 85,
     "M-7": 79,
-    "M-8": 72
+    "M-8": 75
   },
   {
     "format": "double",
@@ -3357,79 +3357,79 @@
     "M-5": 45,
     "M-6": 53,
     "M-7": 41,
-    "M-8": 40
+    "M-8": 41
   },
   {
     "format": "double",
     "pokemonId": 730,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 49,
     "M-5": 46,
     "M-6": 41,
     "M-7": 35,
-    "M-8": 27
+    "M-8": 26
   },
   {
     "format": "double",
     "pokemonId": 823,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 1,
     "M-4": 50,
     "M-5": 47,
     "M-6": 45,
     "M-7": 53,
-    "M-8": 59
+    "M-8": 58
   },
   {
     "format": "double",
     "pokemonId": 282,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 43,
     "M-5": 48,
     "M-6": 17,
     "M-7": 26,
-    "M-8": 24
+    "M-8": 22
   },
   {
     "format": "double",
     "pokemonId": 908,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 1,
     "M-4": 47,
     "M-5": 49,
     "M-6": 65,
     "M-7": 68,
-    "M-8": 71
+    "M-8": 70
   },
   {
     "format": "double",
     "pokemonId": 937,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": -2,
     "M-4": 38,
     "M-5": 50,
     "M-6": 56,
     "M-7": 66,
-    "M-8": 62
+    "M-8": 64
   },
   {
     "format": "double",
     "pokemonId": 666,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-4": 48,
     "M-5": 51,
     "M-6": 66,
     "M-7": 64,
-    "M-8": 58
+    "M-8": 60
   },
   {
     "format": "double",
@@ -3448,19 +3448,19 @@
     "pokemonId": 748,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 16,
     "M-4": 41,
     "M-5": 53,
     "M-6": 86,
     "M-7": 78,
-    "M-8": 103
+    "M-8": 87
   },
   {
     "format": "double",
     "pokemonId": 475,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 54,
     "M-5": 54,
     "M-6": 63,
@@ -3472,19 +3472,19 @@
     "pokemonId": 635,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": 1,
     "M-4": 46,
     "M-5": 55,
     "M-6": 58,
     "M-7": 61,
-    "M-8": 64
+    "M-8": 63
   },
   {
     "format": "double",
     "pokemonId": 10239,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 55,
     "M-5": 56,
     "M-6": 64,
@@ -3496,67 +3496,67 @@
     "pokemonId": 609,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -3,
     "M-4": 66,
     "M-5": 57,
     "M-6": 79,
     "M-7": 84,
-    "M-8": 83
+    "M-8": 86
   },
   {
     "format": "double",
     "pokemonId": 778,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 5,
     "M-4": 63,
     "M-5": 58,
     "M-6": 74,
     "M-7": 75,
-    "M-8": 85
+    "M-8": 80
   },
   {
     "format": "double",
     "pokemonId": 323,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 3,
     "M-4": 58,
     "M-5": 59,
     "M-6": 57,
     "M-7": 48,
-    "M-8": 45
+    "M-8": 42
   },
   {
     "format": "double",
     "pokemonId": 658,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -1,
     "M-4": 68,
     "M-5": 60,
     "M-6": 91,
     "M-7": 80,
-    "M-8": 94
+    "M-8": 95
   },
   {
     "format": "double",
     "pokemonId": 765,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 59,
     "M-5": 61,
     "M-6": 92,
     "M-7": 92,
-    "M-8": 77
+    "M-8": 76
   },
   {
     "format": "double",
     "pokemonId": 887,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 62,
     "M-5": 62,
     "M-6": 50,
@@ -3568,19 +3568,19 @@
     "pokemonId": 473,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 3,
     "M-4": 60,
     "M-5": 63,
     "M-6": 98,
     "M-7": 109,
-    "M-8": 106
+    "M-8": 103
   },
   {
     "format": "double",
     "pokemonId": 10152,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 0,
     "M-4": 65,
     "M-5": 64,
     "M-6": 112,
@@ -3592,60 +3592,60 @@
     "pokemonId": 10233,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 64,
     "M-5": 65,
     "M-6": 60,
     "M-7": 67,
-    "M-8": 63
+    "M-8": 61
   },
   {
     "format": "double",
     "pokemonId": 461,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -3,
     "M-4": 80,
     "M-5": 66,
     "M-6": 76,
     "M-7": 88,
-    "M-8": 81
+    "M-8": 84
   },
   {
     "format": "double",
     "pokemonId": 10236,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 90,
     "M-5": 67,
     "M-6": 97,
     "M-7": 111,
-    "M-8": 107
+    "M-8": 108
   },
   {
     "format": "double",
     "pokemonId": 130,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 4,
     "M-4": 67,
     "M-5": 68,
     "M-6": 93,
     "M-7": 93,
-    "M-8": 78
+    "M-8": 74
   },
   {
     "format": "double",
     "pokemonId": 254,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 52,
     "M-5": 69,
     "M-6": 101,
     "M-7": 55,
-    "M-8": 79
+    "M-8": 77
   },
   {
     "format": "double",
@@ -3664,60 +3664,60 @@
     "pokemonId": 637,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 85,
     "M-5": 71,
     "M-6": 24,
     "M-7": 24,
-    "M-8": 26
+    "M-8": 27
   },
   {
     "format": "double",
     "pokemonId": 560,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -2,
     "M-4": 61,
     "M-5": 72,
     "M-6": 103,
     "M-7": 110,
-    "M-8": 88
+    "M-8": 90
   },
   {
     "format": "double",
     "pokemonId": 959,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 6,
+    "rankChange": 3,
     "M-4": 69,
     "M-5": 73,
     "M-6": 109,
     "M-7": 114,
-    "M-8": 120
+    "M-8": 117
   },
   {
     "format": "double",
     "pokemonId": 687,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 6,
     "M-4": 57,
     "M-5": 74,
     "M-6": 78,
     "M-7": 87,
-    "M-8": 97
+    "M-8": 91
   },
   {
     "format": "double",
     "pokemonId": 36,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 1,
     "M-4": 72,
     "M-5": 75,
     "M-6": 84,
     "M-7": 91,
-    "M-8": 80
+    "M-8": 79
   },
   {
     "format": "double",
@@ -3729,50 +3729,50 @@
     "M-5": 76,
     "M-6": 90,
     "M-7": 83,
-    "M-8": 82
+    "M-8": 83
   },
   {
     "format": "double",
     "pokemonId": 900,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 5,
     "M-4": 82,
     "M-5": 77,
     "M-6": 72,
     "M-7": 76,
-    "M-8": 86
+    "M-8": 81
   },
   {
     "format": "double",
     "pokemonId": 939,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 6,
+    "rankChange": 5,
     "M-4": 86,
     "M-5": 78,
     "M-6": 99,
     "M-7": 97,
-    "M-8": 116
+    "M-8": 111
   },
   {
     "format": "double",
     "pokemonId": 678,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -9,
     "M-4": 79,
     "M-5": 79,
     "M-6": 116,
     "M-7": 116,
-    "M-8": 98
+    "M-8": 107
   },
   {
     "format": "double",
     "pokemonId": 681,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 91,
     "M-5": 80,
     "M-6": 83,
@@ -3784,7 +3784,7 @@
     "pokemonId": 936,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 88,
     "M-5": 81,
     "M-6": 23,
@@ -3801,43 +3801,43 @@
     "M-5": 82,
     "M-6": 115,
     "M-7": 120,
-    "M-8": 111
+    "M-8": 114
   },
   {
     "format": "double",
     "pokemonId": 143,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 75,
     "M-5": 83,
     "M-6": 94,
     "M-7": 86,
-    "M-8": 96
+    "M-8": 94
   },
   {
     "format": "double",
     "pokemonId": 668,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -5,
     "M-4": 76,
     "M-5": 84,
     "M-6": 106,
     "M-7": 98,
-    "M-8": 73
+    "M-8": 78
   },
   {
     "format": "double",
     "pokemonId": 904,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 78,
     "M-5": 85,
     "M-6": 96,
     "M-7": 95,
-    "M-8": 95
+    "M-8": 93
   },
   {
     "format": "double",
@@ -3856,36 +3856,36 @@
     "pokemonId": 780,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 83,
     "M-5": 87,
     "M-6": 107,
     "M-7": 74,
-    "M-8": 47
+    "M-8": 48
   },
   {
     "format": "double",
     "pokemonId": 604,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 3,
     "M-4": 73,
     "M-5": 88,
     "M-6": 128,
     "M-7": 125,
-    "M-8": 134
+    "M-8": 131
   },
   {
     "format": "double",
     "pokemonId": 752,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -4,
     "M-4": 93,
     "M-5": 89,
     "M-6": 105,
     "M-7": 102,
-    "M-8": 92
+    "M-8": 96
   },
   {
     "format": "double",
@@ -3904,60 +3904,60 @@
     "pokemonId": 10248,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -3,
     "M-4": 94,
     "M-5": 91,
     "M-6": 73,
     "M-7": 32,
-    "M-8": 34
+    "M-8": 37
   },
   {
     "format": "double",
     "pokemonId": 695,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 7,
+    "rankChange": -2,
     "M-4": 95,
     "M-5": 92,
     "M-6": 136,
     "M-7": 132,
-    "M-8": 144
+    "M-8": 146
   },
   {
     "format": "double",
     "pokemonId": 10172,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 3,
     "M-4": 119,
     "M-5": 93,
     "M-6": 118,
     "M-7": 117,
-    "M-8": 115
+    "M-8": 112
   },
   {
     "format": "double",
     "pokemonId": 208,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 5,
     "M-4": 120,
     "M-5": 94,
     "M-6": 130,
     "M-7": 138,
-    "M-8": 140
+    "M-8": 135
   },
   {
     "format": "double",
     "pokemonId": 184,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 4,
     "M-4": 97,
     "M-5": 95,
     "M-6": 123,
     "M-7": 121,
-    "M-8": 133
+    "M-8": 129
   },
   {
     "format": "double",
@@ -3976,127 +3976,127 @@
     "pokemonId": 972,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 8,
+    "rankChange": 2,
     "M-4": 84,
     "M-5": 97,
     "M-6": 145,
     "M-7": 147,
-    "M-8": 104
+    "M-8": 102
   },
   {
     "format": "double",
     "pokemonId": 450,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 129,
     "M-5": 98,
     "M-6": 144,
     "M-7": 106,
-    "M-8": 66
+    "M-8": 67
   },
   {
     "format": "double",
     "pokemonId": 181,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -7,
+    "rankChange": -1,
     "M-4": 124,
     "M-5": 99,
     "M-6": 129,
     "M-7": 134,
-    "M-8": 124
+    "M-8": 125
   },
   {
     "format": "double",
     "pokemonId": 121,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 1,
     "M-4": 92,
     "M-5": 100,
     "M-6": 114,
     "M-7": 103,
-    "M-8": 102
+    "M-8": 101
   },
   {
     "format": "double",
     "pokemonId": 750,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -5,
     "M-4": 104,
     "M-5": 101,
     "M-6": 160,
     "M-7": 155,
-    "M-8": 93
+    "M-8": 98
   },
   {
     "format": "double",
     "pokemonId": 334,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -5,
     "M-4": 100,
     "M-5": 102,
     "M-6": 100,
     "M-7": 100,
-    "M-8": 101
+    "M-8": 106
   },
   {
     "format": "double",
     "pokemonId": 472,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 103,
     "M-5": 103,
     "M-6": 110,
     "M-7": 72,
-    "M-8": 91
+    "M-8": 92
   },
   {
     "format": "double",
     "pokemonId": 65,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-4": 117,
     "M-5": 104,
     "M-6": 71,
     "M-7": 77,
-    "M-8": 60
+    "M-8": 59
   },
   {
     "format": "double",
     "pokemonId": 531,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -3,
     "M-4": 98,
     "M-5": 105,
     "M-6": 132,
     "M-7": 128,
-    "M-8": 113
+    "M-8": 116
   },
   {
     "format": "double",
     "pokemonId": 623,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 99,
     "M-5": 106,
     "M-6": 142,
     "M-7": 122,
-    "M-8": 125
+    "M-8": 123
   },
   {
     "format": "double",
     "pokemonId": 956,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 111,
     "M-5": 107,
     "M-6": 68,
@@ -4108,12 +4108,12 @@
     "pokemonId": 135,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 6,
+    "rankChange": 4,
     "M-4": 96,
     "M-5": 108,
     "M-6": 117,
     "M-7": 118,
-    "M-8": 136
+    "M-8": 132
   },
   {
     "format": "double",
@@ -4125,26 +4125,26 @@
     "M-5": 109,
     "M-6": 133,
     "M-7": 131,
-    "M-8": 119
+    "M-8": 124
   },
   {
     "format": "double",
     "pokemonId": 197,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 105,
     "M-5": 110,
     "M-6": 119,
     "M-7": 113,
-    "M-8": 130
+    "M-8": 128
   },
   {
     "format": "double",
     "pokemonId": 395,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 106,
     "M-5": 111,
     "M-6": 75,
@@ -4156,7 +4156,7 @@
     "pokemonId": 10242,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 112,
     "M-5": 112,
     "M-6": 88,
@@ -4168,55 +4168,55 @@
     "pokemonId": 701,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-4": 102,
     "M-5": 113,
     "M-6": 122,
     "M-7": 107,
-    "M-8": 114
+    "M-8": 115
   },
   {
     "format": "double",
     "pokemonId": 471,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 1,
     "M-4": 134,
     "M-5": 114,
     "M-6": 156,
     "M-7": 145,
-    "M-8": 150
+    "M-8": 149
   },
   {
     "format": "double",
     "pokemonId": 497,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 5,
     "M-4": 114,
     "M-5": 115,
     "M-6": 140,
     "M-7": 127,
-    "M-8": 143
+    "M-8": 138
   },
   {
     "format": "double",
     "pokemonId": 740,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 1,
     "M-4": 116,
     "M-5": 116,
     "M-6": 139,
     "M-7": 156,
-    "M-8": 163
+    "M-8": 162
   },
   {
     "format": "double",
     "pokemonId": 45,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 89,
     "M-5": 117,
     "M-6": 163,
@@ -4228,19 +4228,19 @@
     "pokemonId": 707,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 5,
     "M-4": 107,
     "M-5": 118,
     "M-6": 111,
     "M-7": 119,
-    "M-8": 123
+    "M-8": 118
   },
   {
     "format": "double",
     "pokemonId": 306,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 109,
     "M-5": 119,
     "M-6": 121,
@@ -4252,31 +4252,31 @@
     "pokemonId": 652,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 1,
     "M-4": 131,
     "M-5": 120,
     "M-6": 154,
     "M-7": 133,
-    "M-8": 151
+    "M-8": 150
   },
   {
     "format": "double",
     "pokemonId": 964,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 3,
     "M-4": 123,
     "M-5": 121,
     "M-6": 147,
     "M-7": 150,
-    "M-8": 158
+    "M-8": 155
   },
   {
     "format": "double",
     "pokemonId": 10244,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 110,
     "M-5": 122,
     "M-6": 161,
@@ -4288,55 +4288,55 @@
     "pokemonId": 134,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 10,
     "M-4": 147,
     "M-5": 123,
     "M-6": 166,
     "M-7": 166,
-    "M-8": 177
+    "M-8": 167
   },
   {
     "format": "double",
     "pokemonId": 691,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -2,
     "M-4": 108,
     "M-5": 124,
     "M-6": 151,
     "M-7": 153,
-    "M-8": 152
+    "M-8": 154
   },
   {
     "format": "double",
     "pokemonId": 160,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -3,
     "M-4": 113,
     "M-5": 125,
     "M-6": 148,
     "M-7": 146,
-    "M-8": 137
+    "M-8": 140
   },
   {
     "format": "double",
     "pokemonId": 693,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": -2,
     "M-4": 136,
     "M-5": 126,
     "M-6": 120,
     "M-7": 139,
-    "M-8": 135
+    "M-8": 137
   },
   {
     "format": "double",
     "pokemonId": 38,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 121,
     "M-5": 127,
     "M-6": 113,
@@ -4348,31 +4348,31 @@
     "pokemonId": 899,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 3,
     "M-4": 130,
     "M-5": 128,
     "M-6": 150,
     "M-7": 135,
-    "M-8": 147
+    "M-8": 144
   },
   {
     "format": "double",
     "pokemonId": 683,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -7,
+    "rankChange": -3,
     "M-4": 157,
     "M-5": 129,
     "M-6": 188,
     "M-7": 187,
-    "M-8": 181
+    "M-8": 184
   },
   {
     "format": "double",
     "pokemonId": 911,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-4": 122,
     "M-5": 130,
     "M-6": 124,
@@ -4384,103 +4384,103 @@
     "pokemonId": 534,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -8,
+    "rankChange": 1,
     "M-4": 127,
     "M-5": 131,
     "M-6": 155,
     "M-7": 161,
-    "M-8": 154
+    "M-8": 153
   },
   {
     "format": "double",
     "pokemonId": 442,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 7,
+    "rankChange": -1,
     "M-4": 126,
     "M-5": 132,
     "M-6": 125,
     "M-7": 123,
-    "M-8": 112
+    "M-8": 113
   },
   {
     "format": "double",
     "pokemonId": 869,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 9,
     "M-4": 135,
     "M-5": 133,
     "M-6": 141,
     "M-7": 99,
-    "M-8": 131
+    "M-8": 122
   },
   {
     "format": "double",
     "pokemonId": 229,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -6,
     "M-4": 137,
     "M-5": 134,
     "M-6": 137,
     "M-7": 129,
-    "M-8": 127
+    "M-8": 133
   },
   {
     "format": "double",
     "pokemonId": 132,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -2,
     "M-4": 125,
     "M-5": 135,
     "M-6": 134,
     "M-7": 141,
-    "M-8": 146
+    "M-8": 148
   },
   {
     "format": "double",
     "pokemonId": 454,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -6,
+    "rankChange": -1,
     "M-4": 164,
     "M-5": 136,
     "M-6": 192,
     "M-7": 206,
-    "M-8": 193
+    "M-8": 194
   },
   {
     "format": "double",
     "pokemonId": 308,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -3,
     "M-4": 154,
     "M-5": 137,
     "M-6": 173,
     "M-7": 160,
-    "M-8": 153
+    "M-8": 156
   },
   {
     "format": "double",
     "pokemonId": 354,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -1,
     "M-4": 169,
     "M-5": 138,
     "M-6": 186,
     "M-7": 173,
-    "M-8": 162
+    "M-8": 163
   },
   {
     "format": "double",
     "pokemonId": 866,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 0,
     "M-4": 118,
     "M-5": 139,
     "M-6": 177,
@@ -4492,48 +4492,48 @@
     "pokemonId": 697,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 6,
     "M-4": 176,
     "M-5": 140,
     "M-6": 195,
     "M-7": 209,
-    "M-8": 219
+    "M-8": 213
   },
   {
     "format": "double",
     "pokemonId": 10165,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -3,
     "M-4": 138,
     "M-5": 141,
     "M-6": 138,
     "M-7": 149,
-    "M-8": 149
+    "M-8": 152
   },
   {
     "format": "double",
     "pokemonId": 59,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": -4,
     "M-4": 133,
     "M-5": 142,
     "M-6": 126,
     "M-7": 136,
-    "M-8": 139
+    "M-8": 143
   },
   {
     "format": "double",
     "pokemonId": 227,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -5,
     "M-4": 132,
     "M-5": 143,
     "M-6": 127,
     "M-7": 130,
-    "M-8": 122
+    "M-8": 127
   },
   {
     "format": "double",
@@ -4545,86 +4545,86 @@
     "M-5": 144,
     "M-6": 168,
     "M-7": 162,
-    "M-8": 156
+    "M-8": 157
   },
   {
     "format": "double",
     "pokemonId": 510,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -5,
     "M-4": 139,
     "M-5": 145,
     "M-6": 187,
     "M-7": 175,
-    "M-8": 173
+    "M-8": 178
   },
   {
     "format": "double",
     "pokemonId": 563,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 1,
     "M-4": 140,
     "M-5": 146,
     "M-6": 162,
     "M-7": 164,
-    "M-8": 170
+    "M-8": 169
   },
   {
     "format": "double",
     "pokemonId": 10252,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 4,
     "M-4": 141,
     "M-5": 147,
     "M-6": 189,
     "M-7": 186,
-    "M-8": 195
+    "M-8": 191
   },
   {
     "format": "double",
     "pokemonId": 80,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -3,
     "M-4": 145,
     "M-5": 148,
     "M-6": 131,
     "M-7": 140,
-    "M-8": 117
+    "M-8": 120
   },
   {
     "format": "double",
     "pokemonId": 392,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 1,
     "M-4": 151,
     "M-5": 149,
     "M-6": 149,
     "M-7": 148,
-    "M-8": 148
+    "M-8": 147
   },
   {
     "format": "double",
     "pokemonId": 214,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -7,
     "M-4": 142,
     "M-5": 150,
     "M-6": 170,
     "M-7": 154,
-    "M-8": 90
+    "M-8": 97
   },
   {
     "format": "double",
     "pokemonId": 196,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 146,
     "M-5": 151,
     "M-6": 152,
@@ -4641,26 +4641,26 @@
     "M-5": 152,
     "M-6": 179,
     "M-7": 180,
-    "M-8": 187
+    "M-8": 182
   },
   {
     "format": "double",
     "pokemonId": 553,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 4,
     "M-4": 148,
     "M-5": 153,
     "M-6": 146,
     "M-7": 144,
-    "M-8": 155
+    "M-8": 151
   },
   {
     "format": "double",
     "pokemonId": 715,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 0,
     "M-4": 152,
     "M-5": 154,
     "M-6": 143,
@@ -4672,19 +4672,19 @@
     "pokemonId": 699,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 5,
     "M-4": 149,
     "M-5": 155,
     "M-6": 172,
     "M-7": 165,
-    "M-8": 178
+    "M-8": 173
   },
   {
     "format": "double",
     "pokemonId": 545,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 8,
+    "rankChange": 0,
     "M-4": 128,
     "M-5": 156,
     "M-6": 174,
@@ -4696,7 +4696,7 @@
     "pokemonId": 579,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": 0,
     "M-4": 144,
     "M-5": 157,
     "M-6": 165,
@@ -4708,48 +4708,48 @@
     "pokemonId": 68,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -7,
     "M-4": 153,
     "M-5": 158,
     "M-6": 175,
     "M-7": 174,
-    "M-8": 167
+    "M-8": 174
   },
   {
     "format": "double",
     "pokemonId": 758,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 3,
     "M-4": 158,
     "M-5": 159,
     "M-6": 158,
     "M-7": 159,
-    "M-8": 182
+    "M-8": 179
   },
   {
     "format": "double",
     "pokemonId": 968,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": -1,
     "M-4": 155,
     "M-5": 160,
     "M-6": 193,
     "M-7": 198,
-    "M-8": 194
+    "M-8": 195
   },
   {
     "format": "double",
     "pokemonId": 1019,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 4,
     "M-4": 150,
     "M-5": 161,
     "M-6": 184,
     "M-7": 189,
-    "M-8": 192
+    "M-8": 188
   },
   {
     "format": "double",
@@ -4761,19 +4761,19 @@
     "M-5": 162,
     "M-6": 171,
     "M-7": 168,
-    "M-8": 171
+    "M-8": 172
   },
   {
     "format": "double",
     "pokemonId": 310,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -4,
     "M-4": 166,
     "M-5": 163,
     "M-6": 153,
     "M-7": 142,
-    "M-8": 132
+    "M-8": 136
   },
   {
     "format": "double",
@@ -4785,67 +4785,67 @@
     "M-5": 164,
     "M-6": 185,
     "M-7": 176,
-    "M-8": 174
+    "M-8": 175
   },
   {
     "format": "double",
     "pokemonId": 25,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 2,
     "M-4": 170,
     "M-5": 165,
     "M-6": 181,
     "M-7": 190,
-    "M-8": 189
+    "M-8": 187
   },
   {
     "format": "double",
     "pokemonId": 157,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 1,
     "M-4": 159,
     "M-5": 166,
     "M-6": 176,
     "M-7": 172,
-    "M-8": 169
+    "M-8": 168
   },
   {
     "format": "double",
     "pokemonId": 18,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -1,
     "M-4": 179,
     "M-5": 167,
     "M-6": 182,
     "M-7": 194,
-    "M-8": 179
+    "M-8": 180
   },
   {
     "format": "double",
     "pokemonId": 199,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -3,
     "M-4": 167,
     "M-5": 168,
     "M-6": 191,
     "M-7": 181,
-    "M-8": 138
+    "M-8": 141
   },
   {
     "format": "double",
     "pokemonId": 127,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -3,
     "M-4": 180,
     "M-5": 169,
     "M-6": 226,
     "M-7": 216,
-    "M-8": 212
+    "M-8": 215
   },
   {
     "format": "double",
@@ -4857,14 +4857,14 @@
     "M-5": 170,
     "M-6": 208,
     "M-7": 196,
-    "M-8": 188
+    "M-8": 190
   },
   {
     "format": "double",
     "pokemonId": 15,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-4": 181,
     "M-5": 171,
     "M-6": 180,
@@ -4876,7 +4876,7 @@
     "pokemonId": 877,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 178,
     "M-5": 172,
     "M-6": 190,
@@ -4888,55 +4888,55 @@
     "pokemonId": 319,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": -1,
     "M-4": 182,
     "M-5": 173,
     "M-6": 194,
     "M-7": 188,
-    "M-8": 175
+    "M-8": 176
   },
   {
     "format": "double",
     "pokemonId": 934,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 4,
     "M-4": 168,
     "M-5": 174,
     "M-6": 197,
     "M-7": 207,
-    "M-8": 209
+    "M-8": 205
   },
   {
     "format": "double",
     "pokemonId": 362,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": -13,
     "M-4": 174,
     "M-5": 175,
     "M-6": 178,
     "M-7": 184,
-    "M-8": 180
+    "M-8": 193
   },
   {
     "format": "double",
     "pokemonId": 409,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": -3,
     "M-4": 173,
     "M-5": 176,
     "M-6": 205,
     "M-7": 203,
-    "M-8": 198
+    "M-8": 201
   },
   {
     "format": "double",
     "pokemonId": 10010,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 161,
     "M-5": 177,
     "M-6": 216,
@@ -4948,19 +4948,19 @@
     "pokemonId": 709,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 4,
     "M-4": 177,
     "M-5": 178,
     "M-6": 201,
     "M-7": 202,
-    "M-8": 201
+    "M-8": 197
   },
   {
     "format": "double",
     "pokemonId": 71,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 187,
     "M-5": 179,
     "M-6": 202,
@@ -4972,79 +4972,79 @@
     "pokemonId": 10243,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -8,
     "M-4": 160,
     "M-5": 180,
     "M-6": 220,
     "M-7": 214,
-    "M-8": 206
+    "M-8": 214
   },
   {
     "format": "double",
     "pokemonId": 733,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -7,
+    "rankChange": -6,
     "M-4": 186,
     "M-5": 181,
     "M-6": 217,
     "M-7": 215,
-    "M-8": 203
+    "M-8": 209
   },
   {
     "format": "double",
     "pokemonId": 10251,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -3,
     "M-4": 171,
     "M-5": 182,
     "M-6": 183,
     "M-7": 183,
-    "M-8": 168
+    "M-8": 171
   },
   {
     "format": "double",
     "pokemonId": 470,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 3,
     "M-4": 185,
     "M-5": 183,
     "M-6": 211,
     "M-7": 193,
-    "M-8": 215
+    "M-8": 212
   },
   {
     "format": "double",
     "pokemonId": 614,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 190,
     "M-5": 184,
     "M-6": 213,
     "M-7": 191,
-    "M-8": 197
+    "M-8": 198
   },
   {
     "format": "double",
     "pokemonId": 745,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 5,
     "M-4": 175,
     "M-5": 185,
     "M-6": 214,
     "M-7": 208,
-    "M-8": 186
+    "M-8": 181
   },
   {
     "format": "double",
     "pokemonId": 870,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 0,
     "M-4": 188,
     "M-5": 186,
     "M-6": 224,
@@ -5056,7 +5056,7 @@
     "pokemonId": 359,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 191,
     "M-5": 187,
     "M-6": 54,
@@ -5068,211 +5068,211 @@
     "pokemonId": 10012,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-4": 172,
     "M-5": 188,
     "M-6": 225,
     "M-7": 233,
-    "M-8": 229
+    "M-8": 230
   },
   {
     "format": "double",
     "pokemonId": 500,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 5,
     "M-4": 192,
     "M-5": 189,
     "M-6": 204,
     "M-7": 200,
-    "M-8": 205
+    "M-8": 200
   },
   {
     "format": "double",
     "pokemonId": 518,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 1,
     "M-4": 183,
     "M-5": 190,
     "M-6": 218,
     "M-7": 211,
-    "M-8": 218
+    "M-8": 217
   },
   {
     "format": "double",
     "pokemonId": 10025,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -7,
+    "rankChange": -6,
     "M-4": 184,
     "M-5": 191,
     "M-6": 95,
     "M-7": 108,
-    "M-8": 128
+    "M-8": 134
   },
   {
     "format": "double",
     "pokemonId": 706,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 3,
     "M-4": 189,
     "M-5": 192,
     "M-6": 206,
     "M-7": 199,
-    "M-8": 211
+    "M-8": 208
   },
   {
     "format": "double",
     "pokemonId": 675,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -2,
     "M-4": 195,
     "M-5": 193,
     "M-6": 210,
     "M-7": 210,
-    "M-8": 190
+    "M-8": 192
   },
   {
     "format": "double",
     "pokemonId": 671,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 7,
     "M-4": 193,
     "M-5": 194,
     "M-6": 207,
     "M-7": 195,
-    "M-8": 214
+    "M-8": 207
   },
   {
     "format": "double",
     "pokemonId": 407,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 6,
+    "rankChange": 5,
     "M-4": 196,
     "M-5": 195,
     "M-6": 222,
     "M-7": 217,
-    "M-8": 226
+    "M-8": 221
   },
   {
     "format": "double",
     "pokemonId": 10032,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -6,
+    "rankChange": -4,
     "M-4": 202,
     "M-5": 196,
     "M-6": 229,
     "M-7": 222,
-    "M-8": 231
+    "M-8": 235
   },
   {
     "format": "double",
     "pokemonId": 660,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -1,
     "M-4": 205,
     "M-5": 197,
     "M-6": 228,
     "M-7": 223,
-    "M-8": 223
+    "M-8": 224
   },
   {
     "format": "double",
     "pokemonId": 689,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -10,
     "M-4": 194,
     "M-5": 198,
     "M-6": 232,
     "M-7": 225,
-    "M-8": 208
+    "M-8": 218
   },
   {
     "format": "double",
     "pokemonId": 571,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 2,
     "M-4": 197,
     "M-5": 199,
     "M-6": 196,
     "M-7": 171,
-    "M-8": 191
+    "M-8": 189
   },
   {
     "format": "double",
     "pokemonId": 168,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -7,
+    "rankChange": -1,
     "M-4": 204,
     "M-5": 200,
     "M-6": 243,
     "M-7": 236,
-    "M-8": 241
+    "M-8": 242
   },
   {
     "format": "double",
     "pokemonId": 587,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": 5,
     "M-4": 199,
     "M-5": 201,
     "M-6": 233,
     "M-7": 234,
-    "M-8": 237
+    "M-8": 232
   },
   {
     "format": "double",
     "pokemonId": 844,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 9,
     "M-4": 203,
     "M-5": 202,
     "M-6": 239,
     "M-7": 244,
-    "M-8": 236
+    "M-8": 227
   },
   {
     "format": "double",
     "pokemonId": 10100,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 7,
+    "rankChange": -1,
     "M-4": 198,
     "M-5": 203,
     "M-6": 135,
     "M-7": 157,
-    "M-8": 176
+    "M-8": 177
   },
   {
     "format": "double",
     "pokemonId": 841,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": 2,
     "M-4": 201,
     "M-5": 204,
     "M-6": 236,
     "M-7": 229,
-    "M-8": 213
+    "M-8": 211
   },
   {
     "format": "double",
     "pokemonId": 405,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 0,
     "M-4": 200,
     "M-5": 205,
     "M-6": 221,
@@ -5284,12 +5284,12 @@
     "pokemonId": 855,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 6,
     "M-4": 207,
     "M-5": 206,
     "M-6": 227,
     "M-7": 220,
-    "M-8": 225
+    "M-8": 219
   },
   {
     "format": "double",
@@ -5301,7 +5301,7 @@
     "M-5": 207,
     "M-6": 234,
     "M-7": 227,
-    "M-8": 233
+    "M-8": 231
   },
   {
     "format": "double",
@@ -5313,67 +5313,67 @@
     "M-5": 208,
     "M-6": 248,
     "M-7": 248,
-    "M-8": 230
+    "M-8": 233
   },
   {
     "format": "double",
     "pokemonId": 842,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 2,
     "M-4": 213,
     "M-5": 209,
     "M-6": 244,
     "M-7": 245,
-    "M-8": 247
+    "M-8": 245
   },
   {
     "format": "double",
     "pokemonId": 411,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 206,
     "M-5": 210,
     "M-6": 223,
     "M-7": 218,
-    "M-8": 224
+    "M-8": 222
   },
   {
     "format": "double",
     "pokemonId": 766,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 5,
+    "rankChange": 10,
     "M-4": 209,
     "M-5": 211,
     "M-6": 237,
     "M-7": 228,
-    "M-8": 239
+    "M-8": 229
   },
   {
     "format": "double",
     "pokemonId": 618,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -5,
     "M-4": 211,
     "M-5": 212,
     "M-6": 238,
     "M-7": 241,
-    "M-8": 221
+    "M-8": 226
   },
   {
     "format": "double",
     "pokemonId": 136,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -3,
     "M-4": 210,
     "M-5": 213,
     "M-6": 231,
     "M-7": 224,
-    "M-8": 217
+    "M-8": 220
   },
   {
     "format": "double",
@@ -5385,14 +5385,14 @@
     "M-5": 214,
     "M-6": 235,
     "M-7": 240,
-    "M-8": 246
+    "M-8": 240
   },
   {
     "format": "double",
     "pokemonId": 702,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 10,
+    "rankChange": 0,
     "M-4": 217,
     "M-5": 215,
     "M-6": 230,
@@ -5404,12 +5404,12 @@
     "pokemonId": 10126,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -7,
     "M-4": 215,
     "M-5": 216,
     "M-6": 245,
     "M-7": 239,
-    "M-8": 234
+    "M-8": 241
   },
   {
     "format": "double",
@@ -5421,50 +5421,50 @@
     "M-5": 217,
     "M-6": 242,
     "M-7": 242,
-    "M-8": 242
+    "M-8": 246
   },
   {
     "format": "double",
     "pokemonId": 10011,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -4,
     "M-4": 216,
     "M-5": 218,
     "M-6": 247,
     "M-7": 237,
-    "M-8": 232
+    "M-8": 236
   },
   {
     "format": "double",
     "pokemonId": 479,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-4": 220,
     "M-5": 219,
     "M-6": 252,
     "M-7": 247,
-    "M-8": 245
+    "M-8": 243
   },
   {
     "format": "double",
     "pokemonId": 351,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 218,
     "M-5": 220,
     "M-6": 241,
     "M-7": 246,
-    "M-8": 252
+    "M-8": 250
   },
   {
     "format": "double",
     "pokemonId": 676,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 0,
     "M-4": 221,
     "M-5": 221,
     "M-6": 249,
@@ -5476,31 +5476,31 @@
     "pokemonId": 10030,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": 1,
     "M-4": 235,
     "M-5": 222,
     "M-6": 254,
     "M-7": 249,
-    "M-8": 250
+    "M-8": 249
   },
   {
     "format": "double",
     "pokemonId": 685,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 7,
+    "rankChange": 1,
     "M-4": 226,
     "M-5": 223,
     "M-6": 212,
     "M-7": 192,
-    "M-8": 207
+    "M-8": 206
   },
   {
     "format": "double",
     "pokemonId": 128,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-4": 223,
     "M-5": 224,
     "M-6": 250,
@@ -5512,79 +5512,79 @@
     "pokemonId": 211,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 4,
     "M-4": 222,
     "M-5": 225,
     "M-6": 246,
     "M-7": 251,
-    "M-8": 257
+    "M-8": 253
   },
   {
     "format": "double",
     "pokemonId": 516,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -5,
     "M-4": 224,
     "M-5": 226,
     "M-6": 255,
     "M-7": 255,
-    "M-8": 243
+    "M-8": 248
   },
   {
     "format": "double",
     "pokemonId": 711,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 3,
     "M-4": 231,
     "M-5": 227,
     "M-6": 258,
     "M-7": 256,
-    "M-8": 259
+    "M-8": 256
   },
   {
     "format": "double",
     "pokemonId": 569,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 6,
+    "rankChange": -1,
     "M-4": 225,
     "M-5": 228,
     "M-6": 251,
     "M-7": 254,
-    "M-8": 256
+    "M-8": 257
   },
   {
     "format": "double",
     "pokemonId": 10031,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": -8,
     "M-4": 232,
     "M-5": 229,
     "M-6": 256,
     "M-7": 259,
-    "M-8": 253
+    "M-8": 261
   },
   {
     "format": "double",
     "pokemonId": 512,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 2,
     "M-4": 229,
     "M-5": 230,
     "M-6": 262,
     "M-7": 257,
-    "M-8": 249
+    "M-8": 247
   },
   {
     "format": "double",
     "pokemonId": 514,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-4": 227,
     "M-5": 231,
     "M-6": 257,
@@ -5596,24 +5596,24 @@
     "pokemonId": 503,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -7,
+    "rankChange": -4,
     "M-4": 234,
     "M-5": 232,
     "M-6": 260,
     "M-7": 262,
-    "M-8": 248
+    "M-8": 252
   },
   {
     "format": "double",
     "pokemonId": 10180,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": -4,
     "M-4": 230,
     "M-5": 233,
     "M-6": 253,
     "M-7": 253,
-    "M-8": 258
+    "M-8": 262
   },
   {
     "format": "double",
@@ -5632,12 +5632,12 @@
     "pokemonId": 10250,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 2,
     "M-4": 228,
     "M-5": 235,
     "M-6": 261,
     "M-7": 260,
-    "M-8": 261
+    "M-8": 259
   },
   {
     "format": "single",
@@ -5654,7 +5654,7 @@
     "pokemonId": 768,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 0,
     "M-6": 6,
     "M-7": 5,
     "M-8": 7
@@ -5667,7 +5667,7 @@
     "rankChange": 1,
     "M-6": 4,
     "M-7": 14,
-    "M-8": 17
+    "M-8": 16
   },
   {
     "format": "single",
@@ -5694,7 +5694,7 @@
     "pokemonId": 923,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 0,
     "M-6": 27,
     "M-7": 32,
     "M-8": 33
@@ -5704,7 +5704,7 @@
     "pokemonId": 876,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 0,
     "M-6": 22,
     "M-7": 17,
     "M-8": 18
@@ -5714,20 +5714,20 @@
     "pokemonId": 865,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 2,
     "M-6": 73,
     "M-7": 101,
-    "M-8": 126
+    "M-8": 124
   },
   {
     "format": "single",
     "pokemonId": 818,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 2,
     "M-6": 90,
     "M-7": 114,
-    "M-8": 98
+    "M-8": 96
   },
   {
     "format": "single",
@@ -5737,57 +5737,57 @@
     "rankChange": -1,
     "M-6": 77,
     "M-7": 110,
-    "M-8": 120
+    "M-8": 121
   },
   {
     "format": "single",
     "pokemonId": 930,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-6": 84,
     "M-7": 92,
-    "M-8": 97
+    "M-8": 98
   },
   {
     "format": "single",
     "pokemonId": 10184,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -2,
     "M-6": 91,
     "M-7": 132,
-    "M-8": 154
+    "M-8": 156
   },
   {
     "format": "single",
     "pokemonId": 10186,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -4,
     "M-6": 88,
     "M-7": 120,
-    "M-8": 121
+    "M-8": 125
   },
   {
     "format": "single",
     "pokemonId": 10108,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 6,
     "M-6": 119,
     "M-7": 146,
-    "M-8": 148
+    "M-8": 142
   },
   {
     "format": "single",
     "pokemonId": 871,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -10,
     "M-6": 126,
     "M-7": 152,
-    "M-8": 159
+    "M-8": 169
   },
   {
     "format": "single",
@@ -5804,140 +5804,140 @@
     "pokemonId": 40,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -8,
+    "rankChange": -2,
     "M-6": 180,
     "M-7": 207,
-    "M-8": 216
+    "M-8": 218
   },
   {
     "format": "single",
     "pokemonId": 853,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-6": 103,
     "M-7": 126,
-    "M-8": 144
+    "M-8": 145
   },
   {
     "format": "single",
     "pokemonId": 931,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -4,
+    "rankChange": 1,
     "M-6": 211,
     "M-7": 230,
-    "M-8": 224
+    "M-8": 223
   },
   {
     "format": "single",
     "pokemonId": 317,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 5,
     "M-6": 188,
     "M-7": 199,
-    "M-8": 222
+    "M-8": 217
   },
   {
     "format": "single",
     "pokemonId": 83,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": 2,
     "M-6": 238,
     "M-7": 249,
-    "M-8": 245
+    "M-8": 243
   },
   {
     "format": "single",
     "pokemonId": 943,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -13,
+    "rankChange": -6,
     "M-6": 198,
     "M-7": 221,
-    "M-8": 220
+    "M-8": 226
   },
   {
     "format": "single",
     "pokemonId": 122,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 1,
     "M-6": 221,
     "M-7": 237,
-    "M-8": 230
+    "M-8": 229
   },
   {
     "format": "single",
     "pokemonId": 863,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 10,
+    "rankChange": -8,
     "M-6": 230,
     "M-7": 244,
-    "M-8": 228
+    "M-8": 236
   },
   {
     "format": "single",
     "pokemonId": 10261,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 6,
     "M-6": 212,
     "M-7": 234,
-    "M-8": 237
+    "M-8": 231
   },
   {
     "format": "single",
     "pokemonId": 53,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -1,
     "M-6": 248,
     "M-7": 246,
-    "M-8": 258
+    "M-8": 259
   },
   {
     "format": "single",
     "pokemonId": 828,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -3,
+    "rankChange": 3,
     "M-6": 227,
     "M-7": 243,
-    "M-8": 253
+    "M-8": 250
   },
   {
     "format": "single",
     "pokemonId": 673,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -1,
     "M-6": 246,
     "M-7": 247,
-    "M-8": 250
+    "M-8": 251
   },
   {
     "format": "double",
     "pokemonId": 812,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-6": 1,
     "M-7": 2,
-    "M-8": 3
+    "M-8": 2
   },
   {
     "format": "double",
     "pokemonId": 373,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-6": 4,
     "M-7": 17,
-    "M-8": 19
+    "M-8": 18
   },
   {
     "format": "double",
@@ -5954,10 +5954,10 @@
     "pokemonId": 768,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -1,
     "M-6": 10,
     "M-7": 13,
-    "M-8": 18
+    "M-8": 19
   },
   {
     "format": "double",
@@ -5974,20 +5974,20 @@
     "pokemonId": 998,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 1,
     "M-6": 40,
     "M-7": 59,
-    "M-8": 67
+    "M-8": 66
   },
   {
     "format": "double",
     "pokemonId": 923,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 2,
     "M-6": 49,
     "M-7": 70,
-    "M-8": 87
+    "M-8": 85
   },
   {
     "format": "double",
@@ -6004,47 +6004,47 @@
     "pokemonId": 815,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": 4,
     "M-6": 87,
     "M-7": 73,
-    "M-8": 108
+    "M-8": 104
   },
   {
     "format": "double",
     "pokemonId": 849,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-6": 89,
     "M-7": 115,
-    "M-8": 141
+    "M-8": 139
   },
   {
     "format": "double",
     "pokemonId": 865,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-6": 67,
     "M-7": 101,
-    "M-8": 129
+    "M-8": 130
   },
   {
     "format": "double",
     "pokemonId": 818,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 4,
+    "rankChange": 1,
     "M-6": 62,
     "M-7": 82,
-    "M-8": 70
+    "M-8": 69
   },
   {
     "format": "double",
     "pokemonId": 10184,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 3,
+    "rankChange": 0,
     "M-6": 108,
     "M-7": 143,
     "M-8": 159
@@ -6054,50 +6054,50 @@
     "pokemonId": 853,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -2,
+    "rankChange": -4,
     "M-6": 77,
     "M-7": 81,
-    "M-8": 84
+    "M-8": 88
   },
   {
     "format": "double",
     "pokemonId": 871,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -1,
     "M-6": 82,
     "M-7": 105,
-    "M-8": 118
+    "M-8": 119
   },
   {
     "format": "double",
     "pokemonId": 10108,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -5,
+    "rankChange": -2,
     "M-6": 169,
     "M-7": 185,
-    "M-8": 184
+    "M-8": 186
   },
   {
     "format": "double",
     "pokemonId": 863,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": -4,
     "M-6": 157,
     "M-7": 204,
-    "M-8": 199
+    "M-8": 203
   },
   {
     "format": "double",
     "pokemonId": 40,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 1,
     "M-6": 167,
     "M-7": 205,
-    "M-8": 200
+    "M-8": 199
   },
   {
     "format": "double",
@@ -6107,74 +6107,74 @@
     "rankChange": -1,
     "M-6": 159,
     "M-7": 169,
-    "M-8": 157
+    "M-8": 158
   },
   {
     "format": "double",
     "pokemonId": 122,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": 2,
     "M-6": 164,
     "M-7": 170,
-    "M-8": 172
+    "M-8": 170
   },
   {
     "format": "double",
     "pokemonId": 673,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 3,
     "M-6": 200,
     "M-7": 226,
-    "M-8": 240
+    "M-8": 237
   },
   {
     "format": "double",
     "pokemonId": 10261,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 0,
+    "rankChange": -3,
     "M-6": 199,
     "M-7": 213,
-    "M-8": 222
+    "M-8": 225
   },
   {
     "format": "double",
     "pokemonId": 828,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -8,
+    "rankChange": -3,
     "M-6": 209,
     "M-7": 232,
-    "M-8": 220
+    "M-8": 223
   },
   {
     "format": "double",
     "pokemonId": 931,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 1,
+    "rankChange": -1,
     "M-6": 198,
     "M-7": 212,
-    "M-8": 227
+    "M-8": 228
   },
   {
     "format": "double",
     "pokemonId": 943,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": -6,
     "M-6": 203,
     "M-7": 235,
-    "M-8": 228
+    "M-8": 234
   },
   {
     "format": "double",
     "pokemonId": 83,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 2,
+    "rankChange": 0,
     "M-6": 215,
     "M-7": 230,
     "M-8": 238
@@ -6184,19 +6184,19 @@
     "pokemonId": 317,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": -1,
+    "rankChange": 4,
     "M-6": 219,
     "M-7": 238,
-    "M-8": 262
+    "M-8": 258
   },
   {
     "format": "double",
     "pokemonId": 53,
     "seasonId": 8,
     "comparisonSeasonId": 7,
-    "rankChange": 8,
+    "rankChange": -4,
     "M-6": 240,
     "M-7": 243,
-    "M-8": 235
+    "M-8": 239
   }
 ]
