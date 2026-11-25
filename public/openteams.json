@@ -1,0 +1,3121 @@
+{
+  "generatedAt": "2026-11-25 14:06:13",
+  "singleteams": [
+    {
+      "author": "SX SAD.",
+      "summary": "围绕「阿勃梭鲁Z 剑舞 + 三只高质量中转」搭建：坚盾剑怪与快龙负责特殊端和中转，西狮海壬、铝钢桥龙、仆刀将军提供稳定输出与残局收割。核心趣味点是靠正义之心吃恶系招式换攻击加成。",
+      "team": [
+        {
+          "species": "Absol",
+          "slug": "mega-absol-z",
+          "isMega": true,
+          "item": "Absolite Z",
+          "ability": "Justified",
+          "megaAbilityEn": "Sharpness",
+          "nature": "Jolly",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Sucker Punch",
+            "Close Combat",
+            "Swords Dance",
+            "Shadow Claw"
+          ],
+          "types": [
+            15,
+            13
+          ],
+          "note": "特性“正义之心”，走物攻剑舞强化 + 先制（突袭 Sucker Punch）与打击面（近身战 Close Combat、暗影爪 Shadow Claw）。通过换入接下对手洗翠大剑鬼的“秘剑・千重涛”触发正义之心 +1 攻击，随后超级进化顺势强化或打爆发，是整套构筑的核心趣味点之一。"
+        },
+        {
+          "species": "Aegislash",
+          "slug": "aegislash",
+          "isMega": false,
+          "item": "Spell Tag",
+          "ability": "Stance Change",
+          "nature": "Quiet",
+          "evs": {
+            "hp": 32,
+            "def": 1,
+            "spa": 32,
+            "spd": 1
+          },
+          "moves": [
+            "Flash Cannon",
+            "King's Shield",
+            "Shadow Ball",
+            "Shadow Sneak"
+          ],
+          "types": [
+            16,
+            13
+          ],
+          "note": "携带“诅咒之符（Spell Tag）”强化幽灵属性招式威力，冷静（Quiet）性格走特攻路线（暗影球 + 加农光炮 Flash Cannon + 王者盾牌 King's Shield + 影子偷袭 Shadow Sneak）。“不怕鬼火”非常关键——特攻型坚盾剑怪被鬼火灼伤不会降低主要输出，反而能反打洛托姆、多龙巴鲁托以及物防向的钢铠鸦。"
+        },
+        {
+          "species": "Dragonite",
+          "slug": "dragonite",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Multiscale",
+          "nature": "Timid",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Flamethrower",
+            "Draco Meteor",
+            "Air Slash",
+            "Roost"
+          ],
+          "types": [
+            14,
+            9
+          ],
+          "note": "配招是喷射火焰（Flamethrower）+ 流星群（Draco Meteor）+ 空气斩（Air Slash）+ 羽栖（Roost），配“凸凸头盔（Rocky Helmet）”与“多重鳞片”。这是一套偏特攻/消耗兼顾联防的快龙配置，既能处理草/钢/虫/格斗/龙等目标，也能利用多重鳞片和凸凸头盔蹭血、续航。"
+        },
+        {
+          "species": "Primarina",
+          "slug": "primarina",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Torrent",
+          "nature": "Modest",
+          "evs": {
+            "hp": 22,
+            "def": 2,
+            "spa": 32,
+            "spe": 10
+          },
+          "moves": [
+            "Moonblast",
+            "Surf",
+            "Psychic Noise",
+            "Aqua Jet"
+          ],
+          "types": [
+            2,
+            17
+          ],
+          "note": "内敛（Modest）+ 文柚果（Sitrus Berry）+ 激流（Torrent），配招为月亮之力（Moonblast）+ 冲浪（Surf）+ 精神噪音（Psychic Noise）+ 水流喷射（Aqua Jet）。拉 10 点速度方便在面对钢铠鸦等偏慢目标时先手压制，精神噪音还能封锁回复。"
+        },
+        {
+          "species": "Archaludon",
+          "slug": "archaludon",
+          "isMega": false,
+          "item": "Choice Scarf",
+          "ability": "Stamina",
+          "nature": "Timid",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Thunderbolt",
+            "Draco Meteor",
+            "Flash Cannon",
+            "Aura Sphere"
+          ],
+          "types": [
+            16,
+            14
+          ],
+          "note": "胆小性格拉满特攻与速度，配招十万伏特（Thunderbolt）+ 流星群 + 加农光炮 + 波导弹（Aura Sphere）。利用讲究围巾提速抢先手，用流星群针对环境里的超级烈咬陆鲨Z（Garchomp Z）及各类龙属性宝可梦。"
+        },
+        {
+          "species": "Kingambit",
+          "slug": "kingambit",
+          "isMega": false,
+          "item": "Black Glasses",
+          "ability": "Supreme Overlord",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 16,
+            "atk": 32,
+            "spe": 18
+          },
+          "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Swords Dance",
+            "Iron Head"
+          ],
+          "types": [
+            15,
+            16
+          ],
+          "note": "配“黑色眼镜（Black Glasses）”与“大将（Supreme Overlord）”，仆刀（Kowtow Cleave）+ 突袭 + 剑舞 + 铁头（Iron Head）。典型的残局收割位，队伍陷入劣势或前期消耗完成后靠大将加成接管比赛。"
+        }
+      ]
+    },
+    {
+      "author": "SX SAD.",
+      "summary": "超级狠辣椒能废掉任何不免疫灼伤的物攻手，这是它的一大优势。钢铠鸦用来补狠辣椒的飞行属性和毒属性弱点，而且除了晶光花以外，大多数岩石属性攻击手它都能稳稳接下。烈咬陆鲨和西狮海壬补全了标准的“烈咬陆鲨 + 西狮海壬 + 钢铠鸦”联防轴。烈咬陆鲨拉特防是为了避免一碰面就被火神蛾、超级喷火龙Y或超级晶光花直接推穿。铝钢桥龙抗妖精属性和电属性，凭借广打击面通常作为首发，尤其重要的是用“流星群”狙击超级烈咬陆鲨Z（Garchomp Z），同时还能作为针对晶光花的额外保险（用“加农光炮”有 12.5% 的概率直接一击必杀（OHKO）；如果烈咬陆鲨已经倒了，而且场上没撒隐形岩或对超级晶光花没有蹭到任何血线，那我真不知道你在打什么了）。火焰鸡携带“气球”能让它面对龙头地鼠这类宝可梦时更容易直接主宰对局，而且在需要时也能帮忙压低河马兽的血线。",
+      "team": [
+        {
+          "species": "Scovillain",
+          "slug": "mega-scovillain",
+          "isMega": true,
+          "item": "Scovillainite",
+          "ability": "Chlorophyll",
+          "megaAbilityEn": "Spicy Spray",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Giga Drain",
+            "Flamethrower",
+            "Protect",
+            "Leech Seed"
+          ],
+          "types": [
+            4,
+            1
+          ],
+          "note": "物耐受向配置，配合超级进化后的特性（辣椒喷发 Spicy Spray，接触即灼伤）限制物攻手，用“寄生种子 + 守住 + 终极吸取”打消耗回复。"
+        },
+        {
+          "species": "Corviknight",
+          "slug": "corviknight",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Pressure",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Brave Bird",
+            "Defog",
+            "Roost",
+            "Iron Defense"
+          ],
+          "types": [
+            9,
+            16
+          ],
+          "note": "队伍的物理盾牌与除钉手，负责联防飞行/毒属性及常规岩石属性招式，并通过“铁壁 + 羽栖”卡死物攻端。"
+        },
+        {
+          "species": "Garchomp",
+          "slug": "garchomp",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Rough Skin",
+          "nature": "Careful",
+          "evs": {
+            "hp": 31,
+            "spd": 32,
+            "spe": 3
+          },
+          "moves": [
+            "Stealth Rock",
+            "Dragon Tail",
+            "Earthquake",
+            "Rock Tomb"
+          ],
+          "types": [
+            14,
+            8
+          ],
+          "note": "特防向功能盾，负责撒“隐形岩”压制血线、用“龙尾”吹飞强化手、“岩石封锁”控速并针对火神蛾与超级喷火龙Y。"
+        },
+        {
+          "species": "Primarina",
+          "slug": "primarina",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Torrent",
+          "nature": "Modest",
+          "evs": {
+            "hp": 32,
+            "def": 2,
+            "spa": 32
+          },
+          "moves": [
+            "Moonblast",
+            "Surf",
+            "Psychic Noise",
+            "Aqua Jet"
+          ],
+          "types": [
+            2,
+            17
+          ],
+          "note": "和上一队配置基本一致（这队未拉速度，把努力值全给了 HP），作为核心特攻手与联防枢纽，利用“精神噪音”封锁对手回复。"
+        },
+        {
+          "species": "Archaludon",
+          "slug": "archaludon",
+          "isMega": false,
+          "item": "Choice Scarf",
+          "ability": "Stamina",
+          "nature": "Timid",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Flash Cannon",
+            "Draco Meteor",
+            "Thunderbolt",
+            "Aura Sphere"
+          ],
+          "types": [
+            16,
+            14
+          ],
+          "note": "与上一队完全相同的讲究围巾速攻配置，负责先手救场、狙击龙属性威胁，以及用“加农光炮”收割残血的超级晶光花。"
+        },
+        {
+          "species": "Blaziken",
+          "slug": "blaziken",
+          "isMega": false,
+          "item": "Air Balloon",
+          "ability": "Speed Boost",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Flare Blitz",
+            "Close Combat",
+            "Thunder Punch",
+            "Swords Dance"
+          ],
+          "types": [
+            1,
+            6
+          ],
+          "note": "残局推队核心。依靠“气球”免疫地面属性，面对龙头地鼠等地面属性输出手时能安稳点出“剑舞”，配合“加速”特性完成清场；“雷电拳”则用来补充打击面处理水/飞行属性。"
+        }
+      ]
+    },
+    {
+      "author": "SX SAD.",
+      "summary": "我选大食花是因为我想推一队围绕它构建的队伍。洗翠大剑鬼能帮大食花挡住火属性、冰属性和超能力属性招式，同时还能顺带撒钉，这就是它的价值所在。河马兽能防止你一碰面就被巴布土拨或火焰鸡直接推穿，而西狮海壬则是用来补充火属性、格斗属性和冰属性抗性的。而且西狮海壬打谁都太疼了，所以我很多队伍都会带上它当泛用外挂位。钢铠鸦用来补上强力地面属性攻击的联防缺口，接下轰擂金刚猩这类宝可梦的草属性招式，并在你需要围绕苍炎刃鬼做操作时帮忙清钉。苍炎刃鬼和上面的火焰鸡、仆刀将军类似，是那种能抓准对面钢铠鸦点“清除浓雾”的时机、进而主宰对局的潜力核心。我记得好几次都是硬吃龙头地鼠的“地震”强行点出“剑舞”完成强化的（而且“悔念剑”是在受到凸凸头盔这类反伤之前先结算回复的）。",
+      "team": [
+        {
+          "species": "Victreebel",
+          "slug": "mega-victreebel",
+          "isMega": true,
+          "item": "Victreebelite",
+          "ability": "Chlorophyll",
+          "megaAbilityEn": "Innards Out",
+          "nature": "Rash",
+          "evs": {
+            "hp": 32,
+            "atk": 2,
+            "spa": 32
+          },
+          "moves": [
+            "Giga Drain",
+            "Sucker Punch",
+            "Sludge Wave",
+            "Strength Sap"
+          ],
+          "types": [
+            4,
+            7
+          ],
+          "note": "双刀续航向配置。双本“终极吸取 + 污泥波”打输出，配合“吸取力量”削弱物攻手并回血，再带先制“突袭”补刀收割。"
+        },
+        {
+          "species": "Samurott",
+          "slug": "samurott-hisui",
+          "isMega": false,
+          "item": "Black Glasses",
+          "ability": "Sharpness",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Ceaseless Edge",
+            "Sacred Sword",
+            "Sucker Punch",
+            "Swords Dance"
+          ],
+          "types": [
+            2,
+            15
+          ],
+          "note": "队伍的攻击型撒钉手兼联防轴，接下大食花怕的火/冰/超能力招式，用“锋锐 + 黑色眼镜”加成的“秘剑・千重涛”一边压血一边铺满撒菱。"
+        },
+        {
+          "species": "Primarina",
+          "slug": "primarina",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Torrent",
+          "nature": "Modest",
+          "evs": {
+            "hp": 22,
+            "def": 2,
+            "spa": 32,
+            "spe": 10
+          },
+          "moves": [
+            "Moonblast",
+            "Surf",
+            "Psychic Noise",
+            "Aqua Jet"
+          ],
+          "types": [
+            2,
+            17
+          ],
+          "note": "与第一队完全相同的配置（拉 10 点速度压制钢铠鸦等偏慢目标），负责提供火/格斗/冰抗性以及高额特攻压制力。"
+        },
+        {
+          "species": "Hippowdon",
+          "slug": "hippowdon",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Sand Stream",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Earthquake",
+            "Stealth Rock",
+            "Slack Off",
+            "Whirlwind"
+          ],
+          "types": [
+            8
+          ],
+          "note": "纯物理盾牌，专门防巴布土拨、火焰鸡等高爆发物攻手，配合“隐形岩 + 吹飞”与大剑鬼的撒菱形成双钉消耗体系。"
+        },
+        {
+          "species": "Ceruledge",
+          "slug": "ceruledge",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Weak Armor",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Bitter Blade",
+            "Shadow Sneak",
+            "Poltergeist",
+            "Swords Dance"
+          ],
+          "types": [
+            1,
+            13
+          ],
+          "note": "队伍的清场核心。依靠“气势披带 + 碎裂铠甲”白嫖速度提升并点出“剑舞”，随后用高威力本系“悔念剑”吸血续航（先回血再吃凸凸头盔反伤，保证不会自爆）与“灵骚”完成推队。"
+        },
+        {
+          "species": "Corviknight",
+          "slug": "corviknight",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Pressure",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Body Press",
+            "Defog",
+            "Roost",
+            "Iron Defense"
+          ],
+          "types": [
+            9,
+            16
+          ],
+          "note": "和上一队相比，攻击招式从“勇鸟猛攻”换成了“扑击（Body Press）”，配合“铁壁”大幅提升伤害；核心任务之一是清掉场地上的钉子，保住苍炎刃鬼的“气势披带”。"
+        }
+      ]
+    },
+    {
+      "author": "Ultraman1",
+      "summary": "回到「阿勃梭鲁Z + 仆刀将军」双恶系物理核心，配双保险辅助（布莉姆温治愈之愿、大剑鬼气势披带尖兵）与两条耐久线（火神蛾蝶舞、龙头地鼠工兵）。这套明显在测「恶系双核开局、后期交给火神蛾收尾」的结构。",
+      "team": [
+        {
+          "species": "Absol",
+          "slug": "mega-absol-z",
+          "isMega": true,
+          "item": "Absolite Z",
+          "ability": "Justified",
+          "megaAbilityEn": "Sharpness",
+          "nature": "Jolly",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Shadow Claw",
+            "Close Combat",
+            "Substitute",
+            "Swords Dance"
+          ],
+          "types": [
+            15,
+            13
+          ],
+          "note": "锋锐 + 替身剑舞：替身挡住状态与先制，安全完成强化，暗影爪吃锋锐加成后直接压血。"
+        },
+        {
+          "species": "Kingambit",
+          "slug": "kingambit",
+          "isMega": false,
+          "item": "Shuca Berry",
+          "ability": "Supreme Overlord",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 10,
+            "atk": 32,
+            "spe": 24
+          },
+          "moves": [
+            "Kowtow Cleave",
+            "Iron Head",
+            "Sucker Punch",
+            "Swords Dance"
+          ],
+          "types": [
+            15,
+            16
+          ],
+          "note": "卡速型残局位：24 点速度专门先手打同族与慢速墙，腰木果吃地面一击保命，残局靠大将叠攻收尾。"
+        },
+        {
+          "species": "Samurott",
+          "slug": "samurott-hisui",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Sharpness",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Taunt",
+            "Ceaseless Edge",
+            "Sacred Sword",
+            "Aqua Jet"
+          ],
+          "types": [
+            2,
+            15
+          ],
+          "note": "气腰尖兵：挑衅封住对手的撒钉与强化，秘剑・千重涛铺钉，水流喷射收残，本队更像开局工具人。"
+        },
+        {
+          "species": "Hatterene",
+          "slug": "hatterene",
+          "isMega": false,
+          "item": "Air Balloon",
+          "ability": "Magic Bounce",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spe": 2
+          },
+          "moves": [
+            "Nuzzle",
+            "Psychic Noise",
+            "Draining Kiss",
+            "Healing Wish"
+          ],
+          "types": [
+            10,
+            17
+          ],
+          "note": "辅助保险：魔法镜反弹变化技、气球免疫地面，治愈之愿可以在关键时刻牺牲自己把后排满血复活。"
+        },
+        {
+          "species": "Excadrill",
+          "slug": "excadrill",
+          "isMega": false,
+          "item": "Chople Berry",
+          "ability": "Mold Breaker",
+          "nature": "Jolly",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Stealth Rock",
+            "Iron Head",
+            "High Horsepower",
+            "Rapid Spin"
+          ],
+          "types": [
+            8,
+            16
+          ],
+          "note": "速度向工兵：先手撒钉与高速旋转，莲蒲果专门吃格斗系一击，保证工兵职责不被先制打掉。"
+        },
+        {
+          "species": "Volcarona",
+          "slug": "volcarona",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Flame Body",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spa": 2
+          },
+          "moves": [
+            "Morning Sun",
+            "Giga Drain",
+            "Fiery Dance",
+            "Quiver Dance"
+          ],
+          "types": [
+            11,
+            1
+          ],
+          "note": "后期清场点：物耐蝶舞配合晨光与终极吸取双续航，火之舞输出同时叠特攻，是这套阵容的上限所在。"
+        }
+      ]
+    },
+    {
+      "author": "fluff!!",
+      "summary": "超级龟足巨铠最大的阻碍之一就是先制招式：超级长耳兔和巴布土拨的“音速拳”、超级具甲武者的“水流喷射”，甚至是仆刀将军高威力的“突袭”。因此，我们给它搭配了爱管侍来铺设精神场地。性格上我们也贪一手选择了固执（Adamant），因为像魔幻假面喵和多龙巴鲁托这类讲究围巾手现在非常少见，追求对物耐向烈咬陆鲨（TankChomp）、布莉姆温或皮可西等目标更高的乱数斩杀线能带来更稳定的表现。\n\n我原本的想法是给超级龟足巨铠搭配开墙辅助，来弥补它的第二大弱点——也就是难以找到第一次点出“破壳”的机会。然而环境里能用的开墙手非常少，唯二的选择只有长毛巨魔和……钢铠鸦。长毛巨魔确实有一些亮眼之处，比如对阵多龙巴鲁托时对位优势很大。不过，我想尝试一套有意思的“光墙 + 健美”钢铠鸦配置：它的对位打击面广得多，而且能为这支注定偏进攻的队伍提供实打实的强化推队威胁；实战下来它的 Carry 能力也相当不错。\n\n接下来是红莲铠骑，它是许多其他环境里精神场地队的常客，所以我也想在这个环境里试试它。携带“红牌”是个很棒的黑科技，运气好的时候有时能直接帮你白嫖人头；同时搭配“挺住”，在面对火焰鸡或摔角鹰人这类原本极度危险的威胁时，能给你一张“免死金牌”。\n\n原本第 5 个位置放的是烈咬陆鲨。但我发现很难找到机会把它换上场并撒出隐形岩。于是，我放弃了硬凑联防功能性的想法，转而彻底拉满进攻，换上了一家鼠——它能帮忙清理掉场地上的钉子，否则这些钉子会让超级龟足巨铠更难找机会发挥。没错，这也意味着我们自己队里没有任何撒钉手段。\n\n最后，就像所有深知对局中难免会出意外的优秀进攻队一样，我们用一只仆刀将军来收尾，负责在逆风局完成翻盘收割。靠着携带的“木子果”，它还能作为临时换挡位接下携带“祸不单行”的多龙巴鲁托，同时也能处理超能艳鸵或天然特性的冥想皮可西等杂项威胁。",
+      "team": [
+        {
+          "species": "Indeedee",
+          "slug": "indeedee",
+          "isMega": false,
+          "gender": "M",
+          "item": "Terrain Extender",
+          "ability": "Psychic Surge",
+          "nature": "Timid",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Psychic Noise",
+            "Mystical Fire",
+            "Encore",
+            "Healing Wish"
+          ],
+          "types": [
+            10,
+            0
+          ],
+          "note": "超场核心辅助。携带“大地膜”延长 8 回合精神场地，封锁所有地面目标的先制招式；自带“精神噪音”封回复、“魔法火焰”补盲兼降特攻、“再来一次”抓强化/变化招式，残血时还能用“治愈之愿”让核心主力满血复活。"
+        },
+        {
+          "species": "Barbaracle",
+          "slug": "mega-barbaracle",
+          "isMega": true,
+          "item": "Barbaracite",
+          "ability": "Tough Claws",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Close Combat",
+            "Stone Edge",
+            "Shadow Claw",
+            "Shell Smash"
+          ],
+          "types": [
+            12,
+            6
+          ],
+          "note": "绝对推队核心。在精神场地庇护下免疫音速拳、水流喷射与突袭，“固执”性格拉满极限物攻，配合“硬爪”加成的“近身战 + 暗影爪”与本系“尖石攻击”，一旦完成“破壳”便具备极强的清场能力。"
+        },
+        {
+          "species": "Corviknight",
+          "slug": "corviknight",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Pressure",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Bulk Up",
+            "Light Screen",
+            "Brave Bird",
+            "Roost"
+          ],
+          "types": [
+            9,
+            16
+          ],
+          "note": "非常有创意的攻守兼备配置。常规钢铠鸦多带“铁壁 + 清除浓雾”，但这套带了“光墙”来掩护超级龟足巨铠破壳，同时依靠“健美 + 羽栖 + 勇鸟猛攻”自己也能作为强化手站场输出。"
+        },
+        {
+          "species": "Armarouge",
+          "slug": "armarouge",
+          "isMega": false,
+          "item": "Red Card",
+          "ability": "Weak Armor",
+          "nature": "Modest",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Armor Cannon",
+            "Expanding Force",
+            "Aura Sphere",
+            "Endure"
+          ],
+          "types": [
+            1,
+            10
+          ],
+          "note": "超场特攻炮台与反强化奇兵。在精神场地加持下，“广域战力”威力惊人；面对火焰鸡、摔角鹰人等高速强化手时，点出“挺住”吃下攻击触发“碎裂铠甲”（防御-1、速度+2），同时触发“红牌”强制吹飞对手强化手，下一回合直接凭借 +2 速度反推。"
+        },
+        {
+          "species": "Maushold",
+          "slug": "maushold",
+          "isMega": false,
+          "item": "Wide Lens",
+          "ability": "Technician",
+          "nature": "Jolly",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Tidy Up",
+            "Population Bomb",
+            "Bite",
+            "Encore"
+          ],
+          "types": [
+            0
+          ],
+          "note": "清钉兼强化突破手。用专属招式“大扫除”在清理全场钉子与替身的同时提升自身攻击和速度（+1 攻速），配合“广角镜”拉满命中率的“鼠数儿”和“技术高手”加成的“咬住”打出高额多段伤害，“再来一次”同样能配合队伍创造强化机会。"
+        },
+        {
+          "species": "Kingambit",
+          "slug": "kingambit",
+          "isMega": false,
+          "item": "Lum Berry",
+          "ability": "Supreme Overlord",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Iron Head",
+            "Swords Dance"
+          ],
+          "types": [
+            15,
+            16
+          ],
+          "note": "高速向（拉满速度努力值）残局收割手。注意在自己场上有精神场地时，“突袭”对地面目标会失效，但对飞行/浮游目标依然有效；携带“木子果”能免疫一次鬼火或催眠等异常状态，专门反制异常状态流多龙巴鲁托和天然皮可西。"
+        }
+      ]
+    },
+    {
+      "summary": "我想围绕这个大家伙组一队，因为它使用率被严重低估了，而且有一些很有意思的优点。超级大力鳄拥有分级里最强的裸攻招式之一——“龙之皮肤（Dragonize）”加成的“舍身冲撞”，这招能直接一击必杀（OHKO）环境里一些最肉的目标，比如清洗洛托姆、快龙；而在点出一次“剑舞”之后，就连超坏星（Pex）也扛不住。它的“水流喷射”是处理苍炎刃鬼、火神蛾、火焰鸡等威胁的绝佳手段，伤害量直接看齐适应力幽尾玄鱼。可惜的是，和超级恰雷姆、超级喷火龙X这类同类重炮手相比，大力鳄的速度实在有点不够看，但我还是想试一试。\n\n我的思路是给它搭配特攻向火焰鸡，因为这两只互补得非常好。但这个双人轴依然非常怕多龙巴鲁托、超级烈咬陆鲨Z和西狮海壬，因此仆刀将军脱颖而出，成了队伍的第三名成员。最后我用超模的“轰擂金刚猩 + 晶光花”万金油组合，外加一只生命宝珠多龙巴鲁托收尾——多龙既能防高速旋转清钉（spinblocker），又能提供额外的控速，还能反制具甲武者。",
+      "team": [
+        {
+          "species": "Feraligatr",
+          "slug": "mega-feraligatr",
+          "isMega": true,
+          "item": "Feraligite",
+          "ability": "Sheer Force",
+          "megaAbilityEn": "Dragonize",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 18,
+            "atk": 32,
+            "spe": 16
+          },
+          "moves": [
+            "Double-Edge",
+            "Liquidation",
+            "Aqua Jet",
+            "Swords Dance"
+          ],
+          "types": [
+            2,
+            14
+          ],
+          "note": "核心暴力破盾手。超级进化获得水 + 龙属性与“龙皮肤”特性（一般属性招式变为龙属性并提升威力），龙属性化的“舍身冲撞”具备毁灭性火力，配合“水流喷射”弥补中速短板。"
+        },
+        {
+          "species": "Kingambit",
+          "slug": "kingambit",
+          "isMega": false,
+          "item": "Shuca Berry",
+          "ability": "Supreme Overlord",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 10,
+            "atk": 32,
+            "spe": 24
+          },
+          "moves": [
+            "Swords Dance",
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Iron Head"
+          ],
+          "types": [
+            15,
+            16
+          ],
+          "note": "残局王牌兼联防补丁。携带半减地面属性伤害的“腰木果”，专门用来硬吃超级烈咬陆鲨Z或常规地面属性攻击并完成反杀，同时处理多龙巴鲁托与西狮海壬。"
+        },
+        {
+          "species": "Rillaboom",
+          "slug": "rillaboom",
+          "isMega": false,
+          "item": "Terrain Extender",
+          "ability": "Grassy Surge",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 26,
+            "atk": 32,
+            "spe": 8
+          },
+          "moves": [
+            "Grassy Glide",
+            "Knock Off",
+            "U-turn",
+            "Taunt"
+          ],
+          "types": [
+            4
+          ],
+          "note": "场地辅助与轮转中枢。携带“大地膜”延长青草场地回合，不仅为超级大力鳄的“舍身冲撞”反伤、仆刀将军以及晶光花提供每回合回血，还能削弱地震伤害——仆刀将军、晶光花、火焰鸡三只都是地面 2 倍弱点，这层减免直接决定它们能不能硬吃一发地震反打，配合“挑衅”限制受向盾牌。"
+        },
+        {
+          "species": "Glimmora",
+          "slug": "glimmora",
+          "isMega": false,
+          "item": "Red Card",
+          "ability": "Toxic Debris",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 27,
+            "spe": 7
+          },
+          "moves": [
+            "Stealth Rock",
+            "Mortal Spin",
+            "Power Gem",
+            "Mud Shot"
+          ],
+          "types": [
+            12,
+            7
+          ],
+          "note": "常规物耐向撒钉/清钉手。受击撒毒菱 + 主动撒隐形岩，配合“红牌”打断强化并强制换人吃钉，“晶光转转”清钉兼中毒压血。"
+        },
+        {
+          "species": "Dragapult",
+          "slug": "dragapult",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Clear Body",
+          "nature": "Naive",
+          "evs": {
+            "atk": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Dragon Darts",
+            "Sucker Punch",
+            "Shadow Ball",
+            "Fire Blast"
+          ],
+          "types": [
+            14,
+            13
+          ],
+          "note": "高速双刀游击与防清钉手。依靠极限速度压制环境高速位，用幽灵属性免疫对手的“高速旋转”保住晶光花的钉子，自带先制“突袭”补刀。"
+        },
+        {
+          "species": "Blaziken",
+          "slug": "blaziken",
+          "isMega": false,
+          "item": "Scope Lens",
+          "ability": "Speed Boost",
+          "nature": "Modest",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Focus Energy",
+            "Overheat",
+            "Scorching Sands",
+            "Vacuum Wave"
+          ],
+          "types": [
+            1,
+            6
+          ],
+          "note": "极有创意的特攻必中暴击流火焰鸡。“聚气”配合“焦点镜”直接达到 100% 击中要害（暴击），而暴击会直接无视自身特攻下降的负面效果——这意味着它可以毫无副作用地连发满威力“过热”（暴击还会无视对面的特防强化与光墙），再配合“热沙大地”和先制“真空波”收割。"
+        }
+      ]
+    },
+    {
+      "summary": "超能艳鸵向来以“赌对位（matchup fish）”闻名，总得祈祷别撞上那些天克它的天敌。好在随着时间推移，这些天敌的使用率都在下降，而且 M-C 赛季/分级的新增下放宝可梦（M-C drops）也为它突破盲点提供了很大帮助。携带“凸凸头盔”的烈咬陆鲨能惩罚许多恶属性和钢属性宝可梦，比如仆刀将军、洗翠大剑鬼（Hamurott）、超级阿勃梭鲁Z以及超级具甲武者，迅速磨低它们的血线。在被布莉姆温恶心了太多次彻底破防之后，我加入了带“隐形岩”的龙头地鼠来顶着布莉姆温撒钉，并把“撒菱”交给了烈咬陆鲨。“引火”特性的苍炎刃鬼让我们不至于一碰面就被超级喷火龙Y这类火属性打手直接打穿，同时为队伍补充了先制手段，还能打出一些意想不到的操作，比如一发“灵骚”直接一击必杀（OHKO）西狮海壬。\n\n最后，我们自己也带了西狮海壬，用来在第一回合反制对面的西狮海壬和多龙巴鲁托。",
+      "team": [
+        {
+          "species": "Espathra",
+          "slug": "espathra",
+          "isMega": false,
+          "item": "Grassy Seed",
+          "ability": "Speed Boost",
+          "nature": "Modest",
+          "evs": {
+            "hp": 14,
+            "spa": 32,
+            "spe": 20
+          },
+          "moves": [
+            "Calm Mind",
+            "Protect",
+            "Stored Power",
+            "Dazzling Gleam"
+          ],
+          "types": [
+            10
+          ],
+          "note": "青草场地强化推队核心。踏入青草场地触发“青草种子”提升 1 级防御，配合“守住 + 加速”与“冥想”快速叠加能力等级，将本系“辅助力量”的威力推向极限，并用“魔法闪耀”打击盲点恶属性。魔法闪耀/辅助力量也可以换成“接棒”，直接把强化传给队友。"
+        },
+        {
+          "species": "Rillaboom",
+          "slug": "rillaboom",
+          "isMega": false,
+          "item": "Terrain Extender",
+          "ability": "Grassy Surge",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 26,
+            "atk": 32,
+            "spe": 8
+          },
+          "moves": [
+            "Grassy Glide",
+            "Knock Off",
+            "U-turn",
+            "Superpower"
+          ],
+          "types": [
+            4
+          ],
+          "note": "场地辅助与物理压制手。携带“大地膜”延长青草场地回合，为超能艳鸵、烈咬陆鲨和西狮海壬提供场地增益与续航；配招放弃了“挑衅”，改带“蛮力”直接重创钢属性与恶属性。"
+        },
+        {
+          "species": "Garchomp",
+          "slug": "garchomp",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Rough Skin",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 31,
+            "spe": 3
+          },
+          "moves": [
+            "Spikes",
+            "Dragon Pulse",
+            "Earth Power",
+            "Flamethrower"
+          ],
+          "types": [
+            14,
+            8
+          ],
+          "note": "极有特色的物耐特攻向撒菱流烈咬陆鲨（大胆性格）。依靠“粗糙皮肤 + 凸凸头盔”的双重接触反伤惩罚仆刀将军、洗翠大剑鬼等物攻手，把“隐形岩”让给龙头地鼠后自己改带“撒菱”，并用“喷射火焰”精准针对钢铠鸦等钢属性。"
+        },
+        {
+          "species": "Ceruledge",
+          "slug": "ceruledge",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Flash Fire",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 1,
+            "atk": 32,
+            "def": 1,
+            "spe": 32
+          },
+          "moves": [
+            "Poltergeist",
+            "Bitter Blade",
+            "Shadow Sneak",
+            "Swords Dance"
+          ],
+          "types": [
+            1,
+            13
+          ],
+          "note": "队伍唯一的火属性联防盾兼爆发打手。放弃“碎裂铠甲”改用“引火”来联防超级喷火龙Y等高火力火属性攻击；携带“生命宝珠”拉满伤害，“灵骚”可以直接秒杀无耐向西狮海壬，“悔念剑”则能吸回生命宝珠的反伤。"
+        },
+        {
+          "species": "Primarina",
+          "slug": "primarina",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Torrent",
+          "nature": "Modest",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Calm Mind",
+            "Surf",
+            "Moonblast",
+            "Psychic Noise"
+          ],
+          "types": [
+            2,
+            17
+          ],
+          "note": "与之前几队的“文柚果 + 水流喷射”配置不同，这只西狮海壬拉满了速度努力值，携带“吃剩的东西”（配合青草场地实现双倍每回合回血），放弃先制改带“冥想”作为站场强化输出手，专门压制多龙巴鲁托和内战西狮海壬。"
+        },
+        {
+          "species": "Excadrill",
+          "slug": "excadrill",
+          "isMega": false,
+          "item": "Occa Berry",
+          "ability": "Mold Breaker",
+          "nature": "Jolly",
+          "evs": {
+            "atk": 28,
+            "spd": 6,
+            "spe": 32
+          },
+          "moves": [
+            "Stealth Rock",
+            "Rapid Spin",
+            "Iron Head",
+            "Rock Tomb"
+          ],
+          "types": [
+            8,
+            16
+          ],
+          "note": "专门针对布莉姆温与火属性的首发撒钉/清钉手。依靠“破格”无视布莉姆温的“魔法镜”特性强行撒出“隐形岩”，并用本系“铁头”压制妖精属性；携带半减火属性伤害的“巧可果”，保证面对火属性招式时也能稳稳完成撒钉或清钉任务。"
+        }
+      ]
+    },
+    {
+      "author": "ゆかい",
+      "player": "まおう",
+      "code": "QDTYHVY4BC",
+      "summary": "M-6 单打最终第1名，Rating 2555。这是一支以Mega喷火龙Y为核心，布莉姆温和幽尾玄鱼为战术支点的单打进攻队伍。整体采用先手压制、戏法空间、治愈之愿恢复核心攻击手的战术循环。构筑重点不是追求单次攻击的极限伤害，而是通过耐久投资提高核心攻击手的生存能力，争取多次投入战斗的机会。幽尾玄鱼利用替身和高速移动兼顾戏法空间内外的进攻能力，河马兽和三首恶龙则分别提供物理防御与速度补充。",
+      "team": [
+        {
+          "species": "Charizard",
+          "slug": "mega-charizard-y",
+          "isMega": true,
+          "item": "Charizardite Y",
+          "ability": "Blaze",
+          "megaAbilityEn": "Drought",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spa": 1,
+            "spd": 1
+          },
+          "moves": [
+            "Weather Ball",
+            "Rock Tomb",
+            "Solar Beam",
+            "Dragon Pulse"
+          ],
+          "types": [
+            1,
+            9
+          ],
+          "note": "队伍的核心输出手，通常作为首发；对攻到快倒下之前交给布莉姆温重新展开。选喷火龙Y＋布莉姆温时，关键是如何「活着退场」把局面带进有利展开——把防御拉满的收益很实在：不会被意外的岩崩直接打落，也能吃下剑舞烈咬陆鲨的鳞射（スケイルショット）4 次。配招取岩石封锁＋龙之波动，可以把首发内战、戟脊龙以及后排的谜拟丘都变成有利对局；天气球＋龙之波动能打倒烈咬陆鲨，岩石封锁＋天气球能打倒气势披带戟脊龙，火力刚好够。耐久线：HB 吃特化烈咬陆鲨的岩崩 18.7%，HD 吃特攻 185 赛富豪的力量宝石 31.2%。"
+        },
+        {
+          "species": "Kangaskhan",
+          "slug": "mega-kangaskhan",
+          "isMega": true,
+          "item": "Kangaskhanite",
+          "ability": "Scrappy",
+          "megaAbilityEn": "Parental Bond",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 27,
+            "atk": 32,
+            "def": 1,
+            "spd": 6
+          },
+          "moves": [
+            "Body Slam",
+            "Earthquake",
+            "Ice Punch",
+            "Circle Throw"
+          ],
+          "types": [
+            0
+          ],
+          "considered": [
+            "Sucker Punch（曾考虑，未采用）",
+            "Counter（曾测试替换）"
+          ],
+          "note": "针对喷火龙Y不利对局的反制位，主要应对晶光花和快龙相关阵容。巴投可以打断对手的剑舞、铁壁等强化战术，并通过强制换人打乱对方节奏，为后排幽尾玄鱼创造收割机会。作者曾考虑突袭，但最终没有采用；也测试过双倍奉还。"
+        },
+        {
+          "species": "Hatterene",
+          "slug": "hatterene",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Magic Bounce",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Trick Room",
+            "Draining Kiss",
+            "Psychic Noise",
+            "Healing Wish"
+          ],
+          "types": [
+            10,
+            17
+          ],
+          "note": "队伍的核心辅助和战术发动机。主要负责处理隐形岩、哈欠等干扰，开启戏法空间控制速度，并通过治愈之愿恢复已经消耗过的核心攻击手。文柚果用于提高生存能力。对烈咬陆鲨可以后手换入并直接做出有利展开。作者强调不能无脑开启戏法空间，需要根据对手、天气剩余回合和当前局势决定行动时机。"
+        },
+        {
+          "species": "Basculegion",
+          "slug": "basculegion",
+          "isMega": false,
+          "item": "Spell Tag",
+          "ability": "Adaptability",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 8,
+            "atk": 32,
+            "def": 18,
+            "spd": 5,
+            "spe": 3
+          },
+          "moves": [
+            "Last Respects",
+            "Aqua Jet",
+            "Agility",
+            "Substitute"
+          ],
+          "types": [
+            2,
+            13
+          ],
+          "note": "队伍的核心收割手，负责利用戏法空间创造进攻机会，同时具备独立强化速度的能力。替身可以规避突袭、哈欠等干扰，并惩罚对手过于保守的换人行为。高速移动使其在戏法空间结束后仍有继续进攻的能力。缺点是缺少水属性攻击招式，对卡比兽缺乏有效打击手段，面对爱管侍时也存在选出困难。"
+        },
+        {
+          "species": "Hippowdon",
+          "slug": "hippowdon",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Sand Stream",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Protect",
+            "Yawn",
+            "Earthquake",
+            "Slack Off"
+          ],
+          "types": [
+            8
+          ],
+          "note": "队伍的物理防御位，主要针对谜拟丘、仆刀将军等物理攻击手。当布莉姆温的戏法空间体系难以有效应对对手时，可以选择河马兽提供稳定的防御能力。作者考虑过隐形岩，但认为守住能够显著提高河马兽的单体作战能力，因此倾向于保留守住。"
+        },
+        {
+          "species": "Hydreigon",
+          "slug": "hydreigon",
+          "isMega": false,
+          "item": "Choice Scarf",
+          "ability": "Levitate",
+          "nature": "Modest",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Flamethrower",
+            "Focus Blast"
+          ],
+          "types": [
+            15,
+            14
+          ],
+          "note": "队伍的速度补充和属性补盲位，主要用于处理对方幽尾玄鱼以及弥补整体速度不足。真气弹用于增加对仆刀将军、月亮伊布和班基拉斯等目标的应对能力。作者认为龙之波动在实战中的稳定性更好，尤其在面对快龙时表现不错；真气弹的实际发挥则不够理想。"
+        }
+      ]
+    },
+    {
+      "author": "meltdowner",
+      "player": "かんた",
+      "code": "0FGM1DHGG1",
+      "summary": "M-6 单打最终第 3 名。构筑概念是「把河马兽用强、把 Mega 位用强」。这是一支以河马兽为防御核心、具甲武者为物理突破手、Mega 晶光花为第二 Mega 攻击核心的单打平衡队。构筑思路是充分发挥河马兽的冰冻牙、哈欠和偷懒，通过稳定换入和回合管理覆盖不同对局；利用爱管侍作为高压首发，弥补河马兽对部分特殊攻击手和属性不利对局的弱点；具甲武者通过剑舞、吸血、突袭和挑衅突破常见物理盾牌；Mega 晶光花则负责处理具甲武者容易吸引的喷火龙、大竺葵、快龙和加热洛托姆等目标。钢铠鸦和西狮海壬负责扩大整体防御覆盖面。队伍的核心不是固定的六选三，而是根据对手阵容提前规划对局路线，灵活选择首发和后排。",
+      "team": [
+        {
+          "species": "Hippowdon",
+          "slug": "hippowdon",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Sand Stream",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 12,
+            "spd": 22
+          },
+          "moves": [
+            "Earthquake",
+            "Ice Fang",
+            "Yawn",
+            "Slack Off"
+          ],
+          "types": [
+            8
+          ],
+          "note": "构筑的核心。面对当前环境评价很高的 Mega 暴飞龙，以及招式类型变多、越来越难接下的烈咬陆鲨／路卡利欧，它都能充当稳定的缓冲。带上冰冻牙后，单只就能处理暴飞龙，Mega 位因此有了更大的选择空间。这套构筑里不少成员是「单看单体强度」才采用的，所以队内存在多处反协同——气势披带和河马兽的沙暴、精神场地和突袭都会互相拖后腿；但靠它的哈欠＋偷懒，回合管理足够强，这些要素可以分开使用。比赛中没遇到过麻烦，只是算伤害时觉得防御端数值略少，视构筑可以考虑压低 D 线、把 B 拉高。调整思路：HB 11n（B=165）；带吃剩的东西时，A197 Mega 暴飞龙的舍身冲撞几乎 2 耐、A233 Mega 火焰鸡的闪焰冲锋 2 耐；HD 吃 C197 Mega 快龙的流星群 ×2（含 C 下降）也能 2 耐，等于可以对着 Mega 烈咬陆鲨Z 后手换入。"
+        },
+        {
+          "species": "Glimmora",
+          "slug": "mega-glimmora",
+          "isMega": true,
+          "item": "Glimmoranite",
+          "ability": "Toxic Debris",
+          "megaAbilityEn": "Adaptability",
+          "nature": "Timid",
+          "evs": {
+            "hp": 1,
+            "spa": 32,
+            "spd": 1,
+            "spe": 32
+          },
+          "moves": [
+            "Power Gem",
+            "Sludge Wave",
+            "Energy Ball",
+            "Earth Power"
+          ],
+          "types": [
+            12,
+            7
+          ],
+          "note": "队伍的第二 Mega，作为具甲武者的后备 Mega 位采用。具甲武者容易把对手引向喷火龙、大竺葵、快龙、加热洛托姆这些方向，而它对这类目标很强势，所以是最合适的补充拼图。作者说这个赛季用它的选出比以往任何赛季都多、发挥也大，回头看作构筑的一块非常正确。努力值为了火力和快过最速的爱管侍、喷火龙、Mega 快龙，选择 CS 拉满。坦白讲这个调整有点硬凑——本构筑很怕对手的 Mega 晶光花，所以选了内战中更容易赢的胆小；但单看单体性能，内敛明显更强，因此推荐内敛。调整思路：CS 拉满（C=182／S=151）、HP 与 D 各余 1 点。"
+        },
+        {
+          "species": "Corviknight",
+          "slug": "corviknight",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Mirror Armor",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 5,
+            "spd": 29
+          },
+          "moves": [
+            "Iron Head",
+            "Defog",
+            "U-turn",
+            "Roost"
+          ],
+          "types": [
+            9,
+            16
+          ],
+          "note": "用惯了的缓冲位，能扩大面对花叶蒂、甲贺忍蛙、魔幻假面喵相关阵容时的选出范围。特性选镜甲是为了针对会撒「撒娇」的花叶蒂；招式带清除浓雾，能处理场地，也扛得住具甲武者＋爱管侍比较怕的撒菱类招式。凸凸头盔是为了对付数量不多、但构筑整体很怕的 Mega 姆克鹰。全队唯一的反省点就是这只：一是高分段流行隐形岩＋赛富豪的破防体系，想点清除浓雾的对手往往根本不出场；二是面对构筑很怕的暴鲤龙＋具甲武者，它明明有镜甲＋凸凸头盔这些对暴鲤龙有利的要素，却因为招式配置选不进去而输掉。若要在保持对花叶蒂性能的前提下改善，就是把清除浓雾换成勇鸟猛攻或诅咒（当时高分段暴鲤龙基本都带挑衅，所以推荐勇鸟猛攻）。调整思路：B 11n（143），D 尽量拉高（29 SP）。"
+        },
+        {
+          "species": "Primarina",
+          "slug": "primarina",
+          "isMega": false,
+          "item": "Chesto Berry",
+          "ability": "Torrent",
+          "nature": "Modest",
+          "evs": {
+            "hp": 28,
+            "def": 24,
+            "spe": 14
+          },
+          "moves": [
+            "Sparkling Aria",
+            "Moonblast",
+            "Calm Mind",
+            "Rest"
+          ],
+          "types": [
+            2,
+            17
+          ],
+          "note": "本规则最强的普通位，确定轴心 Mega 之后用来补选出的缺口。火系 Mega 会逼着首发上晶光花，因此需要一个能对着常与火系 Mega 同队、河马兽又换不进去的戟脊龙后手换入的通用宝可梦——于是选了睡觉型西狮海壬。另外如前所述，面对带钢铠鸦的阵容时，比起爱管侍更想投一只能管理 HP 的特殊攻击手；而对手阵容里常与钢铠鸦同出的 Mega 耿鬼，冥想对它很强（急速折返＋污泥波也只是刚好被打进激流范围）。处理对手河马兽的活全交给了具甲武者，给它带上能扛哈欠的零余果，进一步拓宽了选出面。调整思路：HB 含隐形岩吃 A197 暴飞龙的舍身冲撞确定耐（A216 的舍身冲撞也从容）；C＋1 的月亮之力约九成带走 H147／D90 的路卡利欧；HD 含隐形岩吃 C237 路卡利欧Z 的铁蹄光线几乎耐（93.7%）；S 快过准速具甲武者（对手 90，这边 94）并留出余量。"
+        },
+        {
+          "species": "Indeedee",
+          "slug": "indeedee",
+          "isMega": false,
+          "gender": "M",
+          "item": "Focus Sash",
+          "ability": "Psychic Surge",
+          "nature": "Timid",
+          "evs": {
+            "spa": 32,
+            "spd": 2,
+            "spe": 32
+          },
+          "moves": [
+            "Expanding Force",
+            "Psychic Noise",
+            "Mystical Fire",
+            "Encore"
+          ],
+          "types": [
+            10,
+            0
+          ],
+          "note": "万能王牌。作为能和河马兽不利的首发——西狮海壬、空气球赛富豪、戟脊龙——对拼的首发位采用。面对没有恶属性的队伍，几乎找不到不选它的理由。一般属性配合精神场地很优秀：能逼赛富豪交淘金潮；而且只要靠气势披带留下 1 HP，就可以不怕先制技地强推高火力招式或再来一次。副招式的精神噪音不只对套路队强，还能挡住光靠广域战力推不掉的赛富豪和钢铠鸦——本构筑正好很怕这些钢系，所以是必须的一招。备选方案是把性格改成内敛，这样广域战力 ×2 约九成七能带走文柚果西狮海壬，但代价是被攻速型（AS）谜拟丘、最速戟脊龙、铝钢桥龙超速，需要自己权衡。调整思路：CS 拉满（C=157／S=161），余下 2 点给 D——因为对着魔法火焰要连吃多次特殊招的场面很多；广域战力 ×2 对 H165／D85 的铝钢桥龙约九成七能带走。"
+        },
+        {
+          "species": "Golisopod",
+          "slug": "mega-golisopod",
+          "isMega": true,
+          "item": "Golisopite",
+          "ability": "Emergency Exit",
+          "megaAbilityEn": "Tough Claws",
+          "nature": "Jolly",
+          "evs": {
+            "hp": 9,
+            "atk": 25,
+            "def": 1,
+            "spd": 1,
+            "spe": 30
+          },
+          "moves": [
+            "Leech Life",
+            "Sucker Punch",
+            "Swords Dance",
+            "Taunt"
+          ],
+          "types": [
+            11,
+            16
+          ],
+          "note": "破坏新规则的恶魔宝可梦。高耐久＋强化技＋高威力吸血，能无视属性相性跟大量宝可梦对拼，这一点被高度评价。挑衅如前所述，可以不管对手是哪种河马兽、钢铠鸦、超坏星体系都直接混进选出；而且能把突袭这种看对手脸色的招式变成确定打中的局面，配招非常合理。虽说半减也能对拼，但面对带火招的 Mega 位和路卡利欧基本无能为力，所以带喷火龙／快龙的阵容干脆不选；其余对局就后排放河马兽＋西狮海壬或爱管侍硬撑。调整思路：H 16n-1（159）；S 11n＝99，能连「对着准速具甲武者配的」西狮海壬和钢铠鸦一起快过；A 尽量拉高（170）。"
+        }
+      ]
+    },
+ {
+  "author": "Cresselia",
+  "player_name": null,
+  "team_code": "2RH3XFKJN1",
+  "team": [
+    {
+      "pokemon": "河马兽",
+      "pokemon_en": "Hippowdon",
+      "form": null,
+      "item": "吃剩的东西",
+      "ability": null,
+      "nature": null,
+      "sp": {
+        "hp": 32,
+        "atk": 0,
+        "def": 12,
+        "spa": 0,
+        "spd": 22,
+        "spe": 0
+      },
+      "moves": [
+        "地震",
+        "哈欠",
+        "偷懒",
+        "守住"
+      ],
+      "note": "队伍的核心防御枢纽，负责承受攻击、制造有利换人机会和控制对局节奏。物理防御调整为配合2次吃剩的东西回复后，96%概率承受固执Mega火焰鸡的飞膝踢、85%概率承受固执Mega暴飞龙的舍身冲撞；特殊防御调整为配合吃剩的东西后，2次承受内敛Mega路卡利欧Z的波导弹和胆小Mega烈咬陆鲨Z的流星群。确定特防线后将剩余SP投入物理防御，可承受多种等倍高威力攻击。配合伤害计算适时使用守住，既能触发吃剩的东西回复并弥补部分乱数，也能隐蔽自己没有携带吹飞。作者认为这是吃剩的东西河马兽在该规则下非常模板且好用的配置。"
+    },
+    {
+      "pokemon": "路卡利欧",
+      "pokemon_en": "Lucario",
+      "form": "Mega Lucario Z",
+      "item": "路卡利欧进化石Z",
+      "ability": null,
+      "nature": null,
+      "sp": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "spa": 32,
+        "spd": 1,
+        "spe": 32
+      },
+      "moves": [
+        "波导弹",
+        "铁蹄光线",
+        "恶之波动",
+        "真空波"
+      ],
+      "note": "队伍的核心Mega攻击手与主要进攻轴。追求最大火力将特攻拉满，速度拉满（正速度性格线）以超车130种族值宝可梦并提高Mega路卡利欧Z内战先手机会；余数分配至HP与特防，避免使用铁蹄光线时奇数HP多扣1点，并调整内战真空波的乱数。作者指出，路卡利欧只要成功强化诡计便极难被除讲究围巾外的对手挡下，因此对手在不利对位也常顾忌诡计而选择留场，使其容易在有利对位直接击倒对手。本配置采用四攻而非强行依赖强化：即使面对能吃下诡计后加农光线的特防型河马兽，也可通过波导弹+铁蹄光线处理，面对西狮海壬也有约75%概率通过波导弹+铁蹄光线突破，更侧重稳健连续进攻与控场。"
+    },
+    {
+      "pokemon": "幽尾玄鱼",
+      "pokemon_en": "Basculegion",
+      "form": null,
+      "item": "神秘水滴",
+      "ability": null,
+      "nature": null,
+      "sp": {
+        "hp": 12,
+        "atk": 31,
+        "def": 22,
+        "spa": 0,
+        "spd": 1,
+        "spe": 0
+      },
+      "moves": [
+        "波动冲",
+        "快速折返",
+        "潜灵奇袭",
+        "水流喷射"
+      ],
+      "note": "路卡利欧的重要搭档，负责处理威胁路卡利欧的火属性与地面属性宝可梦，各项能力与路卡利欧高度契合，便于展开连续进攻。特防调整为确定承受胆小赛富豪的暗影球，攻击投入使波动冲+水流喷射有约98%概率击倒少量HP投资的Mega路卡利欧Z，剩余SP投入物理防御。舍弃墓前招式而选择潜灵奇袭，以应对速度较慢或携带气势披带的西狮海壬。"
+    },
+    {
+      "pokemon": "魔幻假面喵",
+      "pokemon_en": "Meowscarada",
+      "form": null,
+      "item": "生命宝珠",
+      "ability": null,
+      "nature": null,
+      "sp": {
+        "hp": 1,
+        "atk": 32,
+        "def": 3,
+        "spa": 0,
+        "spd": 0,
+        "spe": 30
+      },
+      "moves": [
+        "千变万花",
+        "三旋击",
+        "雷电拳",
+        "踢倒"
+      ],
+      "note": "针对难缠阵容派出的突破手，在有利对位直接施加进攻压力。路卡利欧体系必须切断超能力属性连贯打击，魔幻假面喵作为恶属性宝可梦且面对西狮海壬不处明显劣势，契合持续进攻的构筑思路。攻击拉满，速度调整至超车满速（正速度性格）Mega暴飞龙与巴布土拨，剩余SP分配至HP与物理防御，使承受生命宝珠戟脊龙冰砾的概率最大化（约69%）。"
+    },
+    {
+      "pokemon": "铝钢桥龙",
+      "pokemon_en": "Archaludon",
+      "form": null,
+      "item": "文柚果",
+      "ability": null,
+      "nature": null,
+      "sp": {
+        "hp": 32,
+        "atk": 0,
+        "def": 4,
+        "spa": 5,
+        "spd": 25,
+        "spe": 0
+      },
+      "moves": [
+        "流星群",
+        "十万伏特",
+        "龙尾",
+        "隐形岩"
+      ],
+      "note": "主要针对配合隐形岩与路卡利欧可突破的Mega暴飞龙相关阵容，以及需要隐形岩支援的循环队伍。特攻投资使流星群可击倒满HP的Mega暴飞龙（204以上伤害），物理防御调整为在隐形岩伤害后87.5%概率承受固执Mega暴飞龙+1物攻的地震，特防调整为11的倍数。整体为较标准的配置，通过隐形岩与龙尾制造场地压力并协助路卡利欧推进。"
+    },
+    {
+      "pokemon": "喷火龙",
+      "pokemon_en": "Charizard",
+      "form": "Mega Charizard Y",
+      "item": "喷火龙进化石Y",
+      "ability": null,
+      "nature": null,
+      "sp": {
+        "hp": 22,
+        "atk": 0,
+        "def": 19,
+        "spa": 21,
+        "spd": 0,
+        "spe": 4
+      },
+      "moves": [
+        "喷射火焰",
+        "日光束",
+        "过热",
+        "吼叫"
+      ],
+      "note": "在不破坏队伍外观与整体风格的前提下，用于破解接力棒、光墙与反射壁等强化/场地战术体系的Mega选择。携带吼叫的Mega喷火龙Y在实战中成功应对了预想的墙壁与战术队伍，达到预期表现；不过作者整个赛季都在思考该位置是否存在更优解，认为仍有探讨空间。"
+    }
+  ],
+  "team_selection": {
+    "strategy": "以Mega路卡利欧Z为核心进攻轴，利用河马兽承伤并制造有利对位，由幽尾玄鱼处理路卡利欧难以应对的火属性与地面属性威胁。视对手阵容选出魔幻假面喵或铝钢桥龙补足打击面与场地压制；面对接力棒、光墙与反射壁等战术体系时，选出Mega喷火龙Y通过吼叫打断对手展开。",
+    "combinations": [
+      {
+        "pokemon": [
+          "河马兽",
+          "Mega路卡利欧Z",
+          "幽尾玄鱼"
+        ],
+        "purpose": "核心进攻组合。河马兽负责抗压与制造有利对位，Mega路卡利欧Z负责突破，幽尾玄鱼处理火属性与地面属性威胁。"
+      },
+      {
+        "pokemon": [
+          "河马兽",
+          "Mega路卡利欧Z",
+          "铝钢桥龙"
+        ],
+        "purpose": "针对Mega暴飞龙相关阵容，以及需要隐形岩配合推进的循环队伍。"
+      },
+      {
+        "pokemon": [
+          "魔幻假面喵",
+          "Mega路卡利欧Z",
+          "幽尾玄鱼"
+        ],
+        "purpose": "应对常规核心组合较难处理的阵容，依靠魔幻假面喵创造有利对位并维持持续进攻。"
+      },
+      {
+        "pokemon": [
+          "Mega喷火龙Y",
+          "河马兽",
+          "灵活补位"
+        ],
+        "purpose": "针对接力棒、光墙与反射壁等战术体系，利用吼叫破坏对手的强化与场地布局。"
+      }
+    ],
+    "matchup_adjustments": [
+      {
+        "opponent": "Mega暴飞龙",
+        "pokemon": [
+          "河马兽",
+          "铝钢桥龙"
+        ],
+        "reason": "河马兽凭借物理耐久与回复/控场承压，铝钢桥龙利用隐形岩配合路卡利欧突破及流星群施压。"
+      },
+      {
+        "opponent": "火属性和地面属性攻击手",
+        "pokemon": [
+          "幽尾玄鱼",
+          "Mega路卡利欧Z"
+        ],
+        "reason": "幽尾玄鱼能有效应对Mega路卡利欧Z的主要属性弱点，并与之形成连续进攻。"
+      },
+      {
+        "opponent": "西狮海壬",
+        "pokemon": [
+          "魔幻假面喵",
+          "幽尾玄鱼"
+        ],
+        "reason": "魔幻假面喵面对西狮海壬不处明显劣势且具备超能力抗性/恶属性价值，幽尾玄鱼通过潜灵奇袭应对较慢或携带气势披带的西狮海壬。"
+      },
+      {
+        "opponent": "接力棒、光墙、反射壁体系",
+        "pokemon": [
+          "Mega喷火龙Y"
+        ],
+        "reason": "利用吼叫破坏对手的强化能力与场地/战术展开。"
+      }
+    ]
+  },
+  "summary": "这是一支以Mega路卡利欧Z为核心的单打进攻型平衡队，取得当季最终第4名。河马兽负责抗压、制造有利对位与控场，幽尾玄鱼解决路卡利欧害怕的火属性与地面属性威胁，魔幻假面喵针对难缠阵容打开局面，铝钢桥龙提供隐形岩与循环支援，Mega喷火龙Y则用于破解接力棒与墙壁等战术。作者在当前规则下的核心心得是：单纯撒出隐形岩却陷入人数劣势并不划算，因为Mega暴飞龙与Mega路卡利欧Z在取得人数优势后滚雪球能力极强，应优先争取击倒与人数优势，而非执着于铺设隐形岩。"
+},
+    {
+      "author": "ムー",
+      "player": "Reply",
+      "code": "HXF8169AP5",
+      "summary": "M-7 单打最终第16名队伍，核心思路是通过超级暴飞龙、河马兽与手动毒菱晶光花构建高数值循环体系。晶光花主动撒毒菱，河马兽利用哈欠、守住和偷懒持续制造场地伤害，超级暴飞龙负责突破具甲武者和幽尾玄鱼等难处理目标。超级路卡利欧Z提供第二 Mega 进攻轴，魔幻假面喵针对水属性洛托姆并补充恶属性攻击，超坏星则通过光墙和高特耐补足特殊防守。队伍强调毒菱消耗、高质量轮转和双 Mega 进攻压力，而不是单纯依赖撒钉后被动循环。主要弱点包括魔法师（マフォクシー）、携带替身的暴飞龙，以及替身加剑舞的超级烈咬陆鲨Z。",
+      "team": [
+        {
+          "species": "Glimmora",
+          "slug": "glimmora",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Toxic Debris",
+          "nature": "Timid",
+          "evs": {
+            "hp": 1,
+            "def": 1,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Sludge Bomb",
+            "Mud Shot",
+            "Stealth Rock",
+            "Toxic Spikes"
+          ],
+          "types": [
+            12,
+            7
+          ],
+          "note": "采用手动毒菱配置，而不是常见的纯攻击型晶光花。泥巴射击配合毒菱，可以打乱对手原本的处理计划。例如面对铝钢桥龙与河马兽组合时，即使对手试图快速击倒晶光花，也可能被泥巴射击和毒菱反制。作者希望通过主动撒毒菱掌握战术展开，而不是依赖对手攻击触发毒满地。"
+        },
+        {
+          "species": "Hippowdon",
+          "slug": "hippowdon",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Sand Stream",
+          "nature": "Impish",
+          "evs": {
+            "hp": 32,
+            "def": 12,
+            "spd": 21,
+            "spe": 1
+          },
+          "moves": [
+            "Earthquake",
+            "Yawn",
+            "Protect",
+            "Slack Off"
+          ],
+          "types": [
+            8
+          ],
+          "note": "队伍的核心耐久枢纽，主要负责应对路卡利欧及其相关进攻组合。采用偏特耐配置，同时保留一定物理耐久。守住与偷懒配合扬沙和毒菱，可以持续累积场地伤害；哈欠则迫使对手交换，让毒菱发挥作用。作者还指出，这套配置能够利用守住和偷懒造成的沙暴固定伤害，处理携带替身的超级烈咬陆鲨Z。"
+        },
+        {
+          "species": "Salamence",
+          "slug": "mega-salamence",
+          "isMega": true,
+          "item": "Salamencite",
+          "ability": "Intimidate",
+          "megaAbilityEn": "Aerilate",
+          "nature": "Naive",
+          "evs": {
+            "hp": 5,
+            "atk": 13,
+            "def": 3,
+            "spa": 20,
+            "spe": 25
+          },
+          "moves": [
+            "Draco Meteor",
+            "Double-Edge",
+            "Flamethrower",
+            "Roost"
+          ],
+          "types": [
+            14,
+            9
+          ],
+          "note": "队伍的主要 Mega 进攻核心，采用双刀配置。作者选择超级暴飞龙，是因为它能够有效压制具甲武者和幽尾玄鱼等难以处理的目标。龙舞型容易在面对具甲武者时陷入猜拳，因此改用双刀配置，通过流星群直接施压。喷射火焰针对钢铠鸦等目标，舍身冲撞提供物理爆发，羽栖则补充续航。SP 分配考虑了 HP 的 16n-1、超级路卡利欧速度线，以及特攻招式的具体击倒概率。"
+        },
+        {
+          "species": "Lucario",
+          "slug": "mega-lucario-z",
+          "isMega": true,
+          "item": "Lucarionite Z",
+          "ability": "Inner Focus",
+          "megaAbilityEn": "Aura Guard",
+          "nature": "Timid",
+          "evs": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Aura Sphere",
+            "Steel Beam",
+            "Dark Pulse",
+            "Nasty Plot"
+          ],
+          "types": [
+            6,
+            16
+          ],
+          "note": "第二 Mega 进攻核心，主要补足队伍对魔幻假面喵和戟脊龙的处理能力，同时利用诡计与铁蹄光线突破受队。作者特别强调，诡计加铁蹄光线能够对西狮海壬、河马兽等目标形成有效压力。采用满特攻、满速度配置，是标准的高速特殊强化型构筑。"
+        },
+        {
+          "species": "Meowscarada",
+          "slug": "meowscarada",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Protean",
+          "nature": "Jolly",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "moves": [
+            "Flower Trick",
+            "Foul Play",
+            "Play Rough",
+            "Sucker Punch"
+          ],
+          "types": [
+            4,
+            15
+          ],
+          "note": "主要针对洛托姆体系，同时补足队伍的恶属性攻击和超能力属性抗性需求。作者指出，暴飞龙与路卡利欧组合容易受到水属性洛托姆牵制，因此选择生命宝珠魔幻假面喵，通过高威力攻击减少被伏特替换和鬼火牵制的风险。欺诈配合生命宝珠，能够对钢属性和具甲武者等目标施加压力。作者选择嬉闹而不是三旋击，主要考虑命中率。"
+        },
+        {
+          "species": "Toxapex",
+          "slug": "toxapex",
+          "isMega": false,
+          "item": "Light Clay",
+          "ability": "Regenerator",
+          "nature": "Calm",
+          "evs": {
+            "hp": 32,
+            "def": 6,
+            "spd": 28
+          },
+          "moves": [
+            "Infestation",
+            "Light Screen",
+            "Haze",
+            "Recover"
+          ],
+          "types": [
+            7,
+            2
+          ],
+          "note": "队伍的特殊耐久补位，主要解决西狮海壬等特殊进攻手缺少稳定换入点的问题。光墙配合河马兽，改善队伍面对赛富豪时的对局；同时利用黑雾阻止对手强化，自我再生维持自身状态。作者还提到，这只超坏星能够补足队伍面对甲贺忍蛙等不常见但难以处理的目标时的应对能力。由于携带光之黏土而非剩饭，因此将 HP 和特防投入较高。"
+        }
+      ]
+    },
+    {
+      "author": "さにー",
+      "player": "カルメやき",
+      "code": "SEMFGWJFD2",
+      "summary": "M-7 单打最终第12名，Rating 2476。队伍以抗地果伽勒尔呆呆王为核心先发，利用高耐久、再生力和戏法空间回避复杂的首发猜拳，再将超级具甲武者作为主要强化进攻手。气势披带烈咬陆鲨负责隐形岩与喷火龙针对，月亮伊布负责物理防守、剧毒消耗和吼叫反强化，气球赛富豪提供特殊破盾与清除浓雾免疫，超级喷火龙Y则作为补位 Mega，利用晴天强化队伍整体协同。基本选出为伽勒尔呆呆王、月亮伊布和一只 Mega 核心；面对喷火龙时优先选出烈咬陆鲨。队伍的主要缺陷是隐形岩压力较大，尤其超级喷火龙Y缺少清除浓雾支持；强化型赛富豪和火焰鸡等物理进攻手也可能造成困难。",
+      "team": [
+        {
+          "species": "Slowking-Galar",
+          "slug": "slowking-galarian",
+          "isMega": false,
+          "item": "Shuca Berry",
+          "ability": "Regenerator",
+          "nature": "Modest",
+          "evs": {
+            "hp": 32,
+            "def": 3,
+            "spa": 18,
+            "spd": 13
+          },
+          "moves": [
+            "Sludge Bomb",
+            "Flamethrower",
+            "Ice Beam",
+            "Trick Room"
+          ],
+          "types": [
+            7,
+            10
+          ],
+          "note": "队伍的核心先发与戏法空间启动者。作者希望利用抗地果和高特殊耐久，让它面对烈咬陆鲨等多数对手时都能保证行动机会，同时凭借毒属性和特殊耐久稳定应对西狮海壬、花洁夫人等妖精属性目标。招式覆盖毒、火、冰三种属性，分别处理妖精、钢和龙属性对手。戏法空间用于扭转速度局面，为超级具甲武者创造强化进攻机会。再生力使其可以在完成初期任务后主动撤退，之后再度上场。作者常用的胜利路线是先发伽勒尔呆呆王，利用再生力轮转确认对手选出，再由 Mega 核心削弱对手，最后在戏法空间下完成清场。"
+        },
+        {
+          "species": "Golisopod",
+          "slug": "mega-golisopod",
+          "isMega": true,
+          "item": "Golisopite",
+          "ability": "Emergency Exit",
+          "megaAbilityEn": "Tough Claws",
+          "nature": "Adamant",
+          "evs": {
+            "hp": 29,
+            "atk": 32,
+            "spe": 5
+          },
+          "moves": [
+            "Leech Life",
+            "Drill Run",
+            "Sucker Punch",
+            "Bulk Up"
+          ],
+          "types": [
+            11,
+            16
+          ],
+          "note": "队伍的主要物理强化核心。作者选择健美型而不是剑舞型，利用超级进化后的高种族值与硬爪特性，通过健美同时提升攻击和物理防御。吸血提供稳定输出与回复，直冲钻针对赛富豪、坚盾剑怪和超坏星，突袭则用于先制收割幽尾玄鱼等目标。健美还使其在面对铁壁巨金怪、河马兽等物理防守型宝可梦时，有机会通过持续强化突破。作者原本希望利用具甲武者的虫属性招式压制恶属性对手，但最终没有携带迎头一击，原因是招式格不足。因为环境里 63 速的具甲武者同速太常见，所以专门拉了 5 点速度超车同类；"
+        },
+        {
+          "species": "Garchomp",
+          "slug": "garchomp",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Rough Skin",
+          "nature": "Jolly",
+          "evs": {
+            "atk": 32,
+            "spd": 2,
+            "spe": 32
+          },
+          "moves": [
+            "Earthquake",
+            "Rock Tomb",
+            "Dragon Tail",
+            "Stealth Rock"
+          ],
+          "types": [
+            14,
+            8
+          ],
+          "note": "队伍的撒钉手与喷火龙针对位。气势披带保证其在面对喷火龙X的龙属性攻击时有行动机会。隐形岩限制喷火龙等依赖交换的宝可梦，岩石封锁可以惩罚喷火龙留场，龙尾则用于阻止对手强化并制造交换伤害。地震提供稳定的本系输出，同时压制坚盾剑怪和赛富豪。作者特别指出，面对热风洛托姆时也会优先考虑烈咬陆鲨，通过隐形岩和龙尾持续削弱对手。攻击与速度满配，剩余 SP 投入特防。"
+        },
+        {
+          "species": "Umbreon",
+          "slug": "umbreon",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Synchronize",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "Foul Play",
+            "Toxic",
+            "Roar",
+            "Moonlight"
+          ],
+          "types": [
+            15
+          ],
+          "note": "队伍的泛用物理防守成员，同时承担反强化和消耗任务。与伽勒尔呆呆王组成轮转核心，利用欺诈惩罚高攻击物理手，剧毒消耗耐久型对手，吼叫打断接力棒和其他强化展开，月光提供回复。作者将其作为应对超级暴飞龙的重要成员，但也坦言面对高攻击超级暴飞龙时，月亮伊布的耐久并没有想象中稳定。同步特性还可以反制超级皮可西等依赖异常状态的对手。"
+        },
+        {
+          "species": "Gholdengo",
+          "slug": "gholdengo",
+          "isMega": false,
+          "item": "Air Balloon",
+          "ability": "Good as Gold",
+          "nature": "Calm",
+          "evs": {
+            "hp": 31,
+            "def": 11,
+            "spd": 20,
+            "spe": 4
+          },
+          "moves": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Nasty Plot",
+            "Recover"
+          ],
+          "types": [
+            16,
+            13
+          ],
+          "note": "队伍的特殊破盾手与钢属性补位。气球在未被击破时提供地面免疫，可以针对河马兽等地面属性目标展开诡计强化。暗影球提供本系输出，真气弹针对坚盾剑怪和劈斩司令等目标，诡计提升突破能力，自我再生保证持续作战。黄金之躯使其免疫变化类招式，也能阻止清除浓雾清除己方隐形岩。作者认为它并非特别强力的纯破盾手，但队伍需要一个免疫姆克鹰的近身战等格斗招式、能够阻止清除浓雾的幽灵属性成员，因此最终选择了气球赛富豪。"
+        },
+        {
+          "species": "Charizard",
+          "slug": "mega-charizard-y",
+          "isMega": true,
+          "item": "Charizardite Y",
+          "ability": "Blaze",
+          "megaAbilityEn": "Drought",
+          "nature": "Bold",
+          "evs": {
+            "hp": 32,
+            "def": 32,
+            "spa": 2
+          },
+          "moves": [
+            "Flamethrower",
+            "Solar Beam",
+            "Will-O-Wisp",
+            "Roost"
+          ],
+          "types": [
+            1,
+            9
+          ],
+          "note": "队伍的补位 Mega 选择，同时提供晴天支援。作者最初考虑过 Mega 快龙，但由于队伍协同性不足，最终在赛季最后一天换成鬼火超级喷火龙Y。晴天能够削弱水属性招式，使伽勒尔呆呆王和赛富豪面对西狮海壬时更加稳定，也能提升月亮伊布的月光回复量。喷射火焰提供稳定火力，日光束针对西狮海壬等水属性目标，鬼火削弱超级暴飞龙等物理进攻手，羽栖则提供续航。作者认为喷火龙Y与队伍其他成员的晴天协同效果很好，但临近最终日才投入使用，缺少充分测试，隐形岩对它的限制也成为明显问题。"
+        }
+      ]
+    },
+    {
+      "author": "あらたま",
+      "player_name": "あらたま",
+      "team_code": "JVJHJBXEVG",
+      "team": [
+        {
+          "pokemon": "皮可西",
+          "pokemon_en": "Clefable",
+          "form": null,
+          "item": "吃剩的东西",
+          "ability": "纯朴",
+          "nature": "大胆",
+          "sp": {
+            "hp": 32,
+            "atk": 0,
+            "def": 32,
+            "spa": 0,
+            "spd": 2,
+            "spe": 0
+          },
+          "moves": [
+            "月亮之力",
+            "祈愿",
+            "守住",
+            "宇宙力量"
+          ],
+          "note": null
+        },
+        {
+          "pokemon": "超坏星",
+          "pokemon_en": "Toxapex",
+          "form": null,
+          "item": "文柚果",
+          "ability": "再生力",
+          "nature": "温和",
+          "sp": {
+            "hp": 32,
+            "atk": 0,
+            "def": 2,
+            "spa": 0,
+            "spd": 32,
+            "spe": 0
+          },
+          "moves": [
+            "自我再生",
+            "黑雾",
+            "缠绕",
+            "碉堡"
+          ],
+          "note": null
+        },
+        {
+          "pokemon": "龙头地鼠",
+          "pokemon_en": "Excadrill",
+          "form": null,
+          "item": "气球",
+          "ability": "拨沙",
+          "nature": "固执",
+          "sp": {
+            "hp": 0,
+            "atk": 32,
+            "def": 9,
+            "spa": 0,
+            "spd": 0,
+            "spe": 25
+          },
+          "moves": [
+            "尖角钻",
+            "铁头",
+            "地震",
+            "岩崩"
+          ],
+          "note": null
+        },
+        {
+          "pokemon": "狠辣椒",
+          "pokemon_en": "Scovillain",
+          "form": "超级狠辣椒",
+          "item": "狠辣椒进化石",
+          "ability": "心情不定",
+          "nature": "内敛",
+          "sp": {
+            "hp": 31,
+            "atk": 0,
+            "def": 4,
+            "spa": 20,
+            "spd": 0,
+            "spe": 11
+          },
+          "moves": [
+            "终极吸取",
+            "飞叶风暴",
+            "守住",
+            "喷射火焰"
+          ],
+          "note": null
+        },
+        {
+          "pokemon": "暴飞龙",
+          "pokemon_en": "Salamence",
+          "form": "超级暴飞龙",
+          "item": "暴飞龙进化石",
+          "ability": "威吓 → 飞行皮肤",
+          "nature": "胆小",
+          "sp": {
+            "hp": 1,
+            "atk": 0,
+            "def": 1,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "巨声",
+            "流星群",
+            "羽栖",
+            "大字爆炎"
+          ],
+          "note": null
+        },
+        {
+          "pokemon": "班基拉斯",
+          "pokemon_en": "Tyranitar",
+          "form": null,
+          "item": "沙沙岩石",
+          "ability": "扬沙",
+          "nature": "慎重",
+          "sp": {
+            "hp": 32,
+            "atk": 0,
+            "def": 2,
+            "spa": 0,
+            "spd": 32,
+            "spe": 0
+          },
+          "moves": [
+            "拍落",
+            "隐形岩",
+            "冰冻拳",
+            "岩石封锁"
+          ],
+          "note": null
+        }
+      ]
+    }
+  ],
+  "doubleteams": [
+    {
+      "player": "Javier Varela",
+      "tag": "Javi",
+      "tournament": "Gdańsk Regional Championships",
+      "placement": "Champion",
+      "date": "2026-11-01",
+      "codes": "1V4XVBR3Y6",
+      "source": "vgchistory regional-gdansk-2027_board.json #1",
+      "team": [
+        {
+          "species": "Gholdengo",
+          "slug": "gholdengo",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Good as Gold",
+          "nature": "Modest",
+          "moves": [
+            "Shadow Ball",
+            "Make It Rain",
+            "Nasty Plot",
+            "Protect"
+          ],
+          "types": [
+            16,
+            13
+          ]
+        },
+        {
+          "species": "Excadrill",
+          "slug": "excadrill",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Sand Rush",
+          "nature": "Adamant",
+          "moves": [
+            "High Horsepower",
+            "Iron Head",
+            "Rock Slide",
+            "Protect"
+          ],
+          "types": [
+            8,
+            16
+          ]
+        },
+        {
+          "species": "Tyranitar",
+          "slug": "mega-tyranitar",
+          "isMega": true,
+          "item": "Tyranitarite",
+          "ability": "Sand Stream",
+          "nature": "Jolly",
+          "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Dragon Dance",
+            "Protect"
+          ],
+          "types": [
+            12,
+            15
+          ]
+        },
+        {
+          "species": "Staraptor",
+          "slug": "mega-staraptor",
+          "isMega": true,
+          "item": "Staraptite",
+          "ability": "Intimidate",
+          "nature": "Jolly",
+          "moves": [
+            "Brave Bird",
+            "Close Combat",
+            "Tailwind",
+            "Protect"
+          ],
+          "types": [
+            6,
+            9
+          ],
+          "megaAbilityEn": "Contrary"
+        },
+        {
+          "species": "Sinistcha",
+          "slug": "sinistcha",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Hospitality",
+          "nature": "Bold",
+          "moves": [
+            "Matcha Gotcha",
+            "Strength Sap",
+            "Rage Powder",
+            "Protect"
+          ],
+          "types": [
+            4,
+            13
+          ]
+        },
+        {
+          "species": "Milotic",
+          "slug": "milotic",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Competitive",
+          "nature": "Calm",
+          "moves": [
+            "Scald",
+            "Ice Beam",
+            "Icy Wind",
+            "Protect"
+          ],
+          "types": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "player": "Jude Lee",
+      "tag": "マギカウラ",
+      "tournament": "Gdańsk Regional Championships",
+      "placement": "Finalist",
+      "date": "2026-11-01",
+      "codes": "C8BN5AKEH8",
+      "source": "vgchistory regional-gdansk-2027_board.json #2",
+      "team": [
+        {
+          "species": "Garchomp",
+          "slug": "mega-garchomp",
+          "isMega": true,
+          "item": "Garchompite",
+          "ability": "Rough Skin",
+          "nature": "Adamant",
+          "moves": [
+            "Stomping Tantrum",
+            "Scale Shot",
+            "Protect",
+            "Rock Slide"
+          ],
+          "types": [
+            14,
+            8
+          ],
+          "megaAbilityEn": "Sand Force"
+        },
+        {
+          "species": "Sneasler",
+          "slug": "sneasler",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Poison Touch",
+          "nature": "Jolly",
+          "moves": [
+            "Dire Claw",
+            "Fake Out",
+            "Coaching",
+            "Close Combat"
+          ],
+          "types": [
+            6,
+            7
+          ]
+        },
+        {
+          "species": "Floette",
+          "slug": "mega-floette",
+          "isMega": true,
+          "item": "Floettite",
+          "ability": "Flower Veil",
+          "nature": "Modest",
+          "moves": [
+            "Dazzling Gleam",
+            "Draining Kiss",
+            "Calm Mind",
+            "Protect"
+          ],
+          "types": [
+            17
+          ],
+          "megaAbilityEn": "Fairy Aura"
+        },
+        {
+          "species": "Incineroar",
+          "slug": "incineroar",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Intimidate",
+          "nature": "Sassy",
+          "moves": [
+            "Flare Blitz",
+            "Fake Out",
+            "Parting Shot",
+            "Helping Hand"
+          ],
+          "types": [
+            1,
+            15
+          ]
+        },
+        {
+          "species": "Rillaboom",
+          "slug": "rillaboom",
+          "isMega": false,
+          "item": "Miracle Seed",
+          "ability": "Grassy Surge",
+          "nature": "Adamant",
+          "moves": [
+            "Wood Hammer",
+            "High Horsepower",
+            "Fake Out",
+            "Grassy Glide"
+          ],
+          "types": [
+            4
+          ]
+        },
+        {
+          "species": "Kingambit",
+          "slug": "kingambit",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Defiant",
+          "nature": "Adamant",
+          "moves": [
+            "Kowtow Cleave",
+            "Swords Dance",
+            "Sucker Punch",
+            "Protect"
+          ],
+          "types": [
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "player": "Kyle Livinghouse",
+      "tag": "Animus",
+      "tournament": "Puebla Regional Championships",
+      "placement": "Champion",
+      "date": "2026-10-25",
+      "codes": "0QK4AB237U",
+      "source": "vgchistory regional-puebla-2027_board.json #1",
+      "team": [
+        {
+          "species": "Sneasler",
+          "slug": "sneasler",
+          "isMega": false,
+          "item": "White Herb",
+          "ability": "Unburden",
+          "nature": "Adamant",
+          "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Rock Tomb",
+            "Protect"
+          ],
+          "types": [
+            6,
+            7
+          ]
+        },
+        {
+          "species": "Whimsicott",
+          "slug": "whimsicott",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Prankster",
+          "nature": "Timid",
+          "moves": [
+            "Protect",
+            "Encore",
+            "Moonblast",
+            "Tailwind"
+          ],
+          "types": [
+            4,
+            17
+          ]
+        },
+        {
+          "species": "Charizard",
+          "slug": "mega-charizard-y",
+          "isMega": true,
+          "item": "Charizardite Y",
+          "ability": "Blaze",
+          "nature": "Modest",
+          "moves": [
+            "Weather Ball",
+            "Protect",
+            "Heat Wave",
+            "Solar Beam"
+          ],
+          "types": [
+            1,
+            9
+          ],
+          "megaAbilityEn": "Drought"
+        },
+        {
+          "species": "Kingambit",
+          "slug": "kingambit",
+          "isMega": false,
+          "item": "Chople Berry",
+          "ability": "Defiant",
+          "nature": "Adamant",
+          "moves": [
+            "Sucker Punch",
+            "Iron Head",
+            "Kowtow Cleave",
+            "Low Kick"
+          ],
+          "types": [
+            15,
+            16
+          ]
+        },
+        {
+          "species": "Garchomp",
+          "slug": "garchomp",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Rough Skin",
+          "nature": "Jolly",
+          "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Dragon Claw",
+            "Protect"
+          ],
+          "types": [
+            14,
+            8
+          ]
+        },
+        {
+          "species": "Froslass",
+          "slug": "mega-froslass",
+          "isMega": true,
+          "item": "Froslassite",
+          "ability": "Cursed Body",
+          "nature": "Timid",
+          "moves": [
+            "Blizzard",
+            "Aurora Veil",
+            "Shadow Ball",
+            "Protect"
+          ],
+          "types": [
+            5,
+            13
+          ],
+          "megaAbilityEn": "Snow Warning"
+        }
+      ]
+    },
+    {
+      "player": "Eric Rios",
+      "tag": "Riopaser",
+      "tournament": "Frankfurt Regional Championships",
+      "placement": "Champion",
+      "date": "2026-09-26",
+      "codes": "9NNN3N8A4G",
+      "source": "vgchistory regional-frankfurt-2027_board.json #1",
+      "team": [
+        {
+          "species": "Gholdengo",
+          "slug": "gholdengo",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Good as Gold",
+          "nature": "Modest",
+          "moves": [
+            "Protect",
+            "Shadow Ball",
+            "Nasty Plot",
+            "Make It Rain"
+          ],
+          "types": [
+            16,
+            13
+          ]
+        },
+        {
+          "species": "Volcarona",
+          "slug": "volcarona",
+          "isMega": false,
+          "item": "Rocky Helmet",
+          "ability": "Flame Body",
+          "nature": "Timid",
+          "moves": [
+            "Overheat",
+            "Struggle Bug",
+            "Rage Powder",
+            "Tailwind"
+          ],
+          "types": [
+            11,
+            1
+          ]
+        },
+        {
+          "species": "Garchomp",
+          "slug": "mega-garchomp-z",
+          "isMega": true,
+          "item": "Garchompite Z",
+          "ability": "Rough Skin",
+          "nature": "Modest",
+          "moves": [
+            "Dragon Pulse",
+            "Earth Power",
+            "Power Gem",
+            "Protect"
+          ],
+          "types": [
+            14
+          ],
+          "megaAbilityEn": "Levitate"
+        },
+        {
+          "species": "Incineroar",
+          "slug": "incineroar",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Intimidate",
+          "nature": "Impish",
+          "moves": [
+            "Parting Shot",
+            "Fake Out",
+            "Flare Blitz",
+            "Darkest Lariat"
+          ],
+          "types": [
+            1,
+            15
+          ]
+        },
+        {
+          "species": "Rillaboom",
+          "slug": "rillaboom",
+          "isMega": false,
+          "item": "Miracle Seed",
+          "ability": "Grassy Surge",
+          "nature": "Adamant",
+          "moves": [
+            "Grassy Glide",
+            "Wood Hammer",
+            "Fake Out",
+            "U-turn"
+          ],
+          "types": [
+            4
+          ]
+        },
+        {
+          "species": "Raichu",
+          "slug": "mega-raichu-y",
+          "isMega": true,
+          "item": "Raichunite Y",
+          "ability": "Lightning Rod",
+          "nature": "Timid",
+          "moves": [
+            "Zap Cannon",
+            "Focus Blast",
+            "Fake Out",
+            "Protect"
+          ],
+          "types": [
+            3
+          ],
+          "megaAbilityEn": "No Guard"
+        }
+      ]
+    },
+    {
+      "player": "Sebastian Liu Li",
+      "tag": "Apron",
+      "tournament": "Frankfurt Regional Championships",
+      "placement": "Finalist",
+      "date": "2026-09-26",
+      "codes": "VE6L0UD1B2",
+      "source": "vgchistory regional-frankfurt-2027_board.json #2",
+      "team": [
+        {
+          "species": "Farigiraf",
+          "slug": "farigiraf",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Armor Tail",
+          "nature": "Sassy",
+          "moves": [
+            "Psychic",
+            "Trick Room",
+            "Helping Hand",
+            "Protect"
+          ],
+          "types": [
+            0,
+            10
+          ]
+        },
+        {
+          "species": "Garchomp",
+          "slug": "mega-garchomp-z",
+          "isMega": true,
+          "item": "Garchompite Z",
+          "ability": "Rough Skin",
+          "nature": "Modest",
+          "moves": [
+            "Draco Meteor",
+            "Flamethrower",
+            "Power Gem",
+            "Protect"
+          ],
+          "types": [
+            14
+          ],
+          "megaAbilityEn": "Levitate"
+        },
+        {
+          "species": "Sneasler",
+          "slug": "sneasler",
+          "isMega": false,
+          "item": "White Herb",
+          "ability": "Unburden",
+          "nature": "Adamant",
+          "moves": [
+            "Close Combat",
+            "Gunk Shot",
+            "Fake Out",
+            "Protect"
+          ],
+          "types": [
+            6,
+            7
+          ]
+        },
+        {
+          "species": "Torkoal",
+          "slug": "torkoal",
+          "isMega": false,
+          "item": "Charcoal",
+          "ability": "Drought",
+          "nature": "Quiet",
+          "moves": [
+            "Eruption",
+            "Earth Power",
+            "Weather Ball",
+            "Protect"
+          ],
+          "types": [
+            1
+          ]
+        },
+        {
+          "species": "Sylveon",
+          "slug": "sylveon",
+          "isMega": false,
+          "item": "Fairy Feather",
+          "ability": "Pixilate",
+          "nature": "Modest",
+          "moves": [
+            "Hyper Voice",
+            "Hyper Beam",
+            "Yawn",
+            "Detect"
+          ],
+          "types": [
+            17
+          ]
+        },
+        {
+          "species": "Incineroar",
+          "slug": "incineroar",
+          "isMega": false,
+          "item": "Chople Berry",
+          "ability": "Intimidate",
+          "nature": "Adamant",
+          "moves": [
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Parting Shot",
+            "Fake Out"
+          ],
+          "types": [
+            1,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "player": "Kiran Singh",
+      "tag": "Mev Lad",
+      "tournament": "Brisbane Regional Championships",
+      "placement": "Champion",
+      "date": "2026-09-26",
+      "codes": "TB0C85121Q",
+      "source": "vgchistory regional-brisbane-2027_board.json #1",
+      "team": [
+        {
+          "species": "Archaludon",
+          "slug": "archaludon",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Stamina",
+          "nature": "Calm",
+          "moves": [
+            "Electro Shot",
+            "Flash Cannon",
+            "Dragon Pulse",
+            "Protect"
+          ],
+          "types": [
+            16,
+            14
+          ]
+        },
+        {
+          "species": "Pelipper",
+          "slug": "pelipper",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Drizzle",
+          "nature": "Bold",
+          "moves": [
+            "Hurricane",
+            "Weather Ball",
+            "Tailwind",
+            "Wide Guard"
+          ],
+          "types": [
+            2,
+            9
+          ]
+        },
+        {
+          "species": "Grimmsnarl",
+          "slug": "grimmsnarl",
+          "isMega": false,
+          "item": "Light Clay",
+          "ability": "Prankster",
+          "nature": "Sassy",
+          "moves": [
+            "Spirit Break",
+            "Light Screen",
+            "Reflect",
+            "Parting Shot"
+          ],
+          "types": [
+            15,
+            17
+          ]
+        },
+        {
+          "species": "Charizard",
+          "slug": "mega-charizard-y",
+          "isMega": true,
+          "item": "Charizardite Y",
+          "ability": "Blaze",
+          "nature": "Timid",
+          "moves": [
+            "Heat Wave",
+            "Weather Ball",
+            "Hurricane",
+            "Protect"
+          ],
+          "types": [
+            1,
+            9
+          ],
+          "megaAbilityEn": "Drought"
+        },
+        {
+          "species": "Garchomp",
+          "slug": "mega-garchomp-z",
+          "isMega": true,
+          "item": "Garchompite Z",
+          "ability": "Rough Skin",
+          "nature": "Modest",
+          "moves": [
+            "Draco Meteor",
+            "Earth Power",
+            "Power Gem",
+            "Protect"
+          ],
+          "types": [
+            14
+          ],
+          "megaAbilityEn": "Levitate"
+        },
+        {
+          "species": "Venusaur",
+          "slug": "venusaur",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Chlorophyll",
+          "nature": "Modest",
+          "moves": [
+            "Leaf Storm",
+            "Sludge Bomb",
+            "Sleep Powder",
+            "Protect"
+          ],
+          "types": [
+            4,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "player": "Aditya Subramanian",
+      "tag": "ck49",
+      "tournament": "Baltimore Regional Championships",
+      "placement": "Finalist",
+      "date": "2026-09-22",
+      "codes": "1PAN6UVF5B",
+      "source": "vgchistory regional-baltimore-2027_board.json #2",
+      "team": [
+        {
+          "species": "Golisopod",
+          "slug": "mega-golisopod",
+          "isMega": true,
+          "item": "Golisopite",
+          "ability": "Emergency Exit",
+          "nature": "Adamant",
+          "moves": [
+            "Leech Life",
+            "Drill Run",
+            "Iron Head",
+            "Protect"
+          ],
+          "types": [
+            11,
+            16
+          ],
+          "megaAbilityEn": "Tough Claws"
+        },
+        {
+          "species": "Charizard",
+          "slug": "mega-charizard-y",
+          "isMega": true,
+          "item": "Charizardite Y",
+          "ability": "Blaze",
+          "nature": "Timid",
+          "moves": [
+            "Heat Wave",
+            "Hurricane",
+            "Weather Ball",
+            "Protect"
+          ],
+          "types": [
+            1,
+            9
+          ],
+          "megaAbilityEn": "Drought"
+        },
+        {
+          "species": "Politoed",
+          "slug": "politoed",
+          "isMega": false,
+          "item": "Mystic Water",
+          "ability": "Drizzle",
+          "nature": "Modest",
+          "moves": [
+            "Muddy Water",
+            "Ice Beam",
+            "Weather Ball",
+            "Protect"
+          ],
+          "types": [
+            2
+          ]
+        },
+        {
+          "species": "Archaludon",
+          "slug": "archaludon",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Stamina",
+          "nature": "Bold",
+          "moves": [
+            "Dragon Pulse",
+            "Snarl",
+            "Electro Shot",
+            "Protect"
+          ],
+          "types": [
+            16,
+            14
+          ]
+        },
+        {
+          "species": "Grimmsnarl",
+          "slug": "grimmsnarl",
+          "isMega": false,
+          "item": "Light Clay",
+          "ability": "Prankster",
+          "nature": "Sassy",
+          "moves": [
+            "Light Screen",
+            "Reflect",
+            "Parting Shot",
+            "Spirit Break"
+          ],
+          "types": [
+            15,
+            17
+          ]
+        },
+        {
+          "species": "Farigiraf",
+          "slug": "farigiraf",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Armor Tail",
+          "nature": "Bold",
+          "moves": [
+            "Psychic",
+            "Trick Room",
+            "Protect",
+            "Grass Knot"
+          ],
+          "types": [
+            0,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "player": "Oleksandr Polishchuk",
+      "tag": "M-rads",
+      "tournament": "Alpensee Tour #74",
+      "placement": "Champion",
+      "date": "2026-09-10",
+      "codes": "7F8MM0LD1F",
+      "source": "limitless 6a7f315b5a30714095570103",
+      "team": [
+        {
+          "species": "Gengar",
+          "slug": "mega-gengar",
+          "isMega": true,
+          "item": "Gengarite",
+          "ability": "Cursed Body",
+          "nature": "Modest",
+          "moves": [
+            "Perish Song",
+            "Shadow Ball",
+            "Sludge Bomb",
+            "Protect"
+          ],
+          "types": [
+            13,
+            7
+          ],
+          "megaAbilityEn": "Shadow Tag"
+        },
+        {
+          "species": "Snorlax",
+          "slug": "snorlax",
+          "isMega": false,
+          "item": "Leftovers",
+          "ability": "Thick Fat",
+          "nature": "Relaxed",
+          "moves": [
+            "Yawn",
+            "Encore",
+            "Fissure",
+            "Protect"
+          ],
+          "types": [
+            0
+          ]
+        },
+        {
+          "species": "Incineroar",
+          "slug": "incineroar",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Intimidate",
+          "nature": "Relaxed",
+          "moves": [
+            "Flare Blitz",
+            "Parting Shot",
+            "Fake Out",
+            "Protect"
+          ],
+          "types": [
+            1,
+            15
+          ]
+        },
+        {
+          "species": "Scrafty",
+          "slug": "scrafty",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Intimidate",
+          "nature": "Impish",
+          "moves": [
+            "Close Combat",
+            "Knock Off",
+            "Fake Out",
+            "Protect"
+          ],
+          "types": [
+            15,
+            6
+          ]
+        },
+        {
+          "species": "Dragonite",
+          "slug": "dragonite",
+          "isMega": false,
+          "item": "Life Orb",
+          "ability": "Inner Focus",
+          "nature": "Adamant",
+          "moves": [
+            "Dragon Claw",
+            "Low Kick",
+            "Extreme Speed",
+            "Protect"
+          ],
+          "types": [
+            14,
+            9
+          ]
+        },
+        {
+          "species": "Rillaboom",
+          "slug": "rillaboom",
+          "isMega": false,
+          "item": "Eject Button",
+          "ability": "Grassy Surge",
+          "nature": "Sassy",
+          "moves": [
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out",
+            "Protect"
+          ],
+          "types": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "player": "Ryan Loseto",
+      "tag": "SableyeVGC",
+      "tournament": "r/VGC Regulation M-C Kickoff Cup",
+      "placement": "Champion",
+      "date": "2026-09-09",
+      "codes": "U7C92RMPRT",
+      "source": "limitless 6aa00639a4272c53be64abbd",
+      "team": [
+        {
+          "species": "Salamence",
+          "slug": "mega-salamence",
+          "isMega": true,
+          "item": "Salamencite",
+          "ability": "Intimidate",
+          "nature": "Naive",
+          "moves": [
+            "Hyper Voice",
+            "Double-Edge",
+            "Tailwind",
+            "Protect"
+          ],
+          "types": [
+            14,
+            9
+          ],
+          "megaAbilityEn": "Aerilate"
+        },
+        {
+          "species": "Rillaboom",
+          "slug": "rillaboom",
+          "isMega": false,
+          "item": "Sitrus Berry",
+          "ability": "Grassy Surge",
+          "nature": "Adamant",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out"
+          ],
+          "types": [
+            4
+          ]
+        },
+        {
+          "species": "Sneasler",
+          "slug": "sneasler",
+          "isMega": false,
+          "item": "Grassy Seed",
+          "ability": "Unburden",
+          "nature": "Adamant",
+          "moves": [
+            "Dire Claw",
+            "Close Combat",
+            "Fake Out",
+            "Protect"
+          ],
+          "types": [
+            6,
+            7
+          ]
+        },
+        {
+          "species": "Hisuian Arcanine",
+          "slug": "arcanine-hisui",
+          "isMega": false,
+          "item": "Focus Sash",
+          "ability": "Rock Head",
+          "nature": "Jolly",
+          "moves": [
+            "Flare Blitz",
+            "Head Smash",
+            "Extreme Speed",
+            "Protect"
+          ],
+          "types": [
+            1,
+            12
+          ]
+        },
+        {
+          "species": "Kingambit",
+          "slug": "kingambit",
+          "isMega": false,
+          "item": "Chople Berry",
+          "ability": "Defiant",
+          "nature": "Adamant",
+          "moves": [
+            "Kowtow Cleave",
+            "Iron Head",
+            "Low Kick",
+            "Sucker Punch"
+          ],
+          "types": [
+            15,
+            16
+          ]
+        },
+        {
+          "species": "Basculegion",
+          "slug": "basculegion",
+          "isMega": false,
+          "item": "Mystic Water",
+          "ability": "Adaptability",
+          "nature": "Adamant",
+          "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Protect"
+          ],
+          "types": [
+            2,
+            13
+          ]
+        }
+      ]
+    }
+  ]
+}
